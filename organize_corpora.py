@@ -12,7 +12,7 @@ corpus_reader = CHILDESCorpusReader(corpora_root, '.*.xml')
 min_age_1_2 = 12
 max_age_1_2 = 24
 min_age_2_4 = 25
-max_age_2_4 = 48
+max_age_2_4 = 48 
 
 # Create folders to store selected files
 output_folder_1 = os.path.join(os.path.dirname(corpora_root), 'corpora1')
