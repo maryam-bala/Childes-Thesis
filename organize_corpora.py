@@ -3,7 +3,7 @@ import shutil
 from nltk.corpus.reader import CHILDESCorpusReader
 
 # Set the path to the corpora folder
-corpora_root = 'corporas'
+corpora_root = 'corpora'
 
 # Create a CHILDESCorpusReader
 corpus_reader = CHILDESCorpusReader(corpora_root, '.*.xml')
