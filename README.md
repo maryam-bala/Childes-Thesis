@@ -1,24 +1,18 @@
-# Child Language Feedback Analysis
+# Analysing Patterns of Repetition in Child-Adult Dialogues
 
 ## Project Overview
 
-The Child Language Feedback Analysis project aims to explore the influence of caregiver feedback on child language development, particularly focusing on various strategies such as repetition, elaboration, corrective feedback, and modeling adult conversation. The project investigates the role of positive and negative feedback in predicting the rapidity of child competency in specific language constructions during child-adult dialogues.
-
-## Objectives
-
-The primary objectives of this project are:
-- Automatic detection of different feedback strategies used by caregivers in child-adult dialogues.
-- Investigating which theoretically motivated dialogue behaviors predict the rate of child language acquisition.
-- Leveraging Large Language Models (LLMs) to recognize and analyze various types of feedback.
-- Employing simple interpretable models with linguistically motivated features to aid linguistic researchers in analyzing feedback findings.
+The primary goal of this project is to study patterns of repetition in child-adult dialogues, focusing on the diverse feedback strategies employed by caregivers. These strategies encompass positive repetitions that affirm correct language constructions or present corrected versions of the child's attempts. 
 
 ## Methodology
-
-The project will employ a combination of natural language processing techniques and linguistic analysis. Large Language Models will be utilized to recognize and analyze different types of caregiver feedback, while interpretable models with linguistically motivated features will provide insights for linguistic researchers.
+- The talkbank CHILDES corpora will be used focusing on age-specific criteria to ensure relevance to the study of child-adult dialogues.
+- The data selection procedure will center around ages 1-4, aligning with the critical developmental period for language acquisition.
+- Recognising types of feedback
+- Using LLMs to generate feedback
+- Automatic and human evaluation of generated feedback
 
 ## Expected Outcomes
 
 The outcomes of this project are expected to:
 - Shed light on how children exploit caregiver feedback to advance their conversational skills.
-- Provide insights into the types of repetitions and interactions that can positively influence child language development.
 - Have implications for the design of future conversational agents and human-computer interactions.
