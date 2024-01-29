@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-The interactions between caregivers and children play a pivotal role in shaping linguistic competencies of children. One intriguing aspect of this dynamic is the feedback provided by caregivers during dialogues, wherein repetition serves as a powerful mechanism for language acquisition. The nuances within these repetition are integral to understanding the trajectory of child language development. The primary goal of this project is to study patterns of repetition in child-adult dialogues, focusing on the diverse feedback strategies employed by caregivers. These strategies encompass positive repetitions that affirm correct language constructions or present corrected versions of the child's attempts.
+The interactions between caregivers and children play a pivotal role in shaping linguistic competencies of children. One intriguing aspect of this dynamic is the feedback provided by caregivers during dialogues, wherein repetition serves as a powerful mechanism for language acquisition. The nuances within these repetition are integral to understanding the trajectory of child language development. The primary goal of this project is to study patterns of repetition in child-adult dialogues, focusing on the diverse feedback strategies employed by caregivers. These strategies encompass positive repetitions that affirm correct language constructions or corrected versions of the child's attempts.
 
 ## Objectives
 
