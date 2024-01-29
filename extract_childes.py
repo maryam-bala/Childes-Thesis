@@ -70,13 +70,36 @@ for root, dirs, files in os.walk(dir_childes_corpus, topdown=False):
 
                     # Count morphemes
                     utterance_length = len(utt.xpath(".//tb:w/tb:mor", namespaces=namespaces))
+                    
+                    # New columns to store POS and grammatical info
+                    pos_tags = ''
+                    gra_relations = ''
+                    
+                    # Extract POS info
+                    for word in utt.xpath(".//tb:w/tb:mor/tb:mw/tb:pos", namespaces=namespaces):
+                        pos = word.findtext('tb:c', namespaces=namespaces)
+                        stem = word.getparent().findtext('tb:stem', namespaces=namespaces)
+                        pos_tags += f"{pos}|{stem} "
+        
+                    # Extract grammatical relations info
+                    for gra in utt.xpath(".//tb:w/tb:mor/tb:gra", namespaces=namespaces):
+                        index = gra.get('index')
+                        head = gra.get('head')
+                        relation = gra.get('relation')
+                        gra_relations += f"{index}|{head}|{relation} "
+    
+                    # Clean up format for new columns
+                    pos_tags = re.sub(r'\s+$', '', pos_tags)
+                    gra_relations = re.sub(r'\s+$', '', gra_relations)
 
                     utt_info = {
                         'dialogue_id': dialogue_id,
                         'uID': uID,
                         'speaker': speaker,
                         'utterance': utterance_text,
-                        'utterance_length': utterance_length
+                        'utterance_length': utterance_length,
+                        '%mor': pos_tags,
+                        '%gra': gra_relations
                     }
                     utterance_data.append(utt_info)
 
