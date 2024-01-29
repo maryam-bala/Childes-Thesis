@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-The Child Language Feedback Analysis project aims to explore the influence of caregiver feedback on child language development, particularly focusing on various strategies such as repetition, elaboration, corrective feedback, and modeling adult conversation. The project investigates the role of positive and negative feedback in predicting the rapidity of child competency in specific language constructions during child-adult dialogues.
+The interactions between caregivers and children play a pivotal role in shaping linguistic competencies of children. One intriguing aspect of this dynamic is the feedback provided by caregivers during dialogues, wherein repetition serves as a powerful mechanism for language acquisition. The nuances within these repetition are integral to understanding the trajectory of child language development. The primary goal of this project is to study patterns of repetition in child-adult dialogues, focusing on the diverse feedback strategies employed by caregivers. These strategies encompass positive repetitions that affirm correct language constructions or present corrected versions of the child's attempts.
 
 ## Objectives
 
