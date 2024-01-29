@@ -14,7 +14,7 @@ The primary objectives of this project are:
 ## Methodology
 
 ### Dataset 
-- The [Talkbank CHILDES Corpora] (https://childes.talkbank.org/access/) will be used for the project.
+- The [Talkbank CHILDES Corpora](https://childes.talkbank.org/access/) will be used for the project.
 - The project will focus on age-specific criteria to ensure relevance to the study of child-adult dialogues.
 - The data selection procedure will center around ages 1-4, aligning with the critical developmental period for language acquisition.
 
