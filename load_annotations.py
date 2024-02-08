@@ -6,12 +6,12 @@ import numpy as np
 
 # Define a function to parse a line of text from the file
 def parse_line(line):
-    if line.startswith('*'):
+    if line.startswith('*'): # If the line starts with '*', it represents speaker and utterance information
         return {'speaker': line[1:4], 'utterance': line[5:].strip()}
-    elif line.startswith('%'):
+    elif line.startswith('%'):  # If the line starts with '%', it represents additional metadata information
         return {line[:4]: line[5:]}
     else:
-        return {}
+        return {} # If the line does not match any pattern, return an empty dictionary
     
 # Initialize an empty list to store parsed data
 data = []
@@ -60,4 +60,4 @@ for col in df.columns:
 df.replace({'': np.nan, ' ': np.nan}, inplace=True)
 
 # Save dataframe to csv
-df.to_csv('out1.csv', index=False)
+df.to_csv('out.csv', index=False)
