@@ -10,8 +10,8 @@ corpus_reader = CHILDESCorpusReader(corpora_root, '.*.xml')
 
 # Define the target child age ranges (in months)
 min_age_1_2 = 12
-max_age_1_2 = 24
-min_age_2_4 = 25
+max_age_1_2 = 23
+min_age_2_4 = 24
 max_age_2_4 = 48 
 
 # Create folders to store selected files
@@ -27,8 +27,8 @@ for folder_name in os.listdir(corpora_root):
 
     if os.path.isdir(folder_path):
         # Create folders to store selected files for the current subfolder
-        output_folder_1_2 = os.path.join(output_folder_1, f"{folder_name} 1-2")
-        output_folder_2_4 = os.path.join(output_folder_2, f"{folder_name} 2-4")
+        output_folder_1_2 = os.path.join(output_folder_1, f"{folder_name}_under_2")
+        output_folder_2_4 = os.path.join(output_folder_2, f"{folder_name}_2_4")
 
         os.makedirs(output_folder_1_2, exist_ok=True)
         os.makedirs(output_folder_2_4, exist_ok=True)
