@@ -1,22 +1,18 @@
-import nltk
 import os
 import pandas as pd
 from lxml import etree
-#from nltk.corpus.reader import CHILDESCorpusReader
-
+import re
 
 # Function to get user input for the directory
 def get_input_directory():
     dir_childes_corpus = input("Enter the directory containing CHILDES XML files: ")
     return dir_childes_corpus
 
-
 # Path containing CHILDES XML files
 dir_childes_corpus = get_input_directory()
 
 # Extract the input directory name
 input_directory_name = os.path.basename(os.path.normpath(dir_childes_corpus))
-
 
 # Create a new folder called 'processed' if it doesn't exist
 processed_folder = f'processed_{input_directory_name}'
@@ -66,30 +62,73 @@ for root, dirs, files in os.walk(dir_childes_corpus, topdown=False):
                 for utt in tree.xpath("//tb:u", namespaces=namespaces):
                     speaker = utt.get('who')
                     uID = utt.get('uID')  # Extract uID
-                    utterance_text = ' '.join(utt.xpath(".//tb:w/text()", namespaces=namespaces))
+                    #utterance_text = ' '.join(utt.xpath(".//tb:w/text()", namespaces=namespaces))
+
+                    # Check if the utterance has text content
+                    utterance_text = ''
+                    for word_element in utt.xpath(".//tb:w/text()", namespaces=namespaces):
+                        word_text = word_element.strip()
+                        if word_text is not None:
+                            utterance_text += word_text + ' '
+    
+                    # Check if the utterance has punctuation
+                    punctuation = ''
+                    for punct_element in utt.xpath(".//tb:t", namespaces=namespaces):
+                        punct_type = punct_element.get('type')
+                        if punct_type == 'q':
+                            punctuation = ' ?'
+                            break
+                        elif punct_type == 'p':
+                            punctuation = ' .'
+                            break
+                        elif punct_type =='e':
+                            punctuation = ' !'
+                            break
+
+                    # Combine words and punctuation to form the utterance text
+                    if utterance_text.strip():  # Check if there's text content in the utterance
+                        utterance_text = utterance_text.strip()  # Remove trailing space
+                        if punctuation:
+                            utterance_text += punctuation                    
 
                     # Count morphemes
                     utterance_length = len(utt.xpath(".//tb:w/tb:mor", namespaces=namespaces))
                     
                     # New columns to store POS and grammatical info
-                    pos_tags = ''
+                    pos_tags = []
+                    #mor_tags = []
                     gra_relations = ''
-                    
-                    # Extract POS info
-                    for word in utt.xpath(".//tb:w/tb:mor/tb:mw/tb:pos", namespaces=namespaces):
-                        pos = word.findtext('tb:c', namespaces=namespaces)
-                        stem = word.getparent().findtext('tb:stem', namespaces=namespaces)
-                        pos_tags += f"{pos}|{stem} "
+
+                    for element in utt.xpath(".//tb:w/tb:mor|./tb:tagMarker", namespaces=namespaces):
+                        pos_elem = element.find('tb:mw/tb:pos/tb:c', namespaces=namespaces)
+                        stem_elem = element.find('tb:mw/tb:stem', namespaces=namespaces)
+                        type_elem = element.find('tb:mw/tb:pos/tb:s', namespaces=namespaces)  # Morpheme type
+
+                        if pos_elem is not None and stem_elem is not None:
+                            pos = pos_elem.text
+                            stem = stem_elem.text
+
+                            # Check if <s> tag exists and include its content
+                            if type_elem is not None:
+                                morpheme_type = type_elem.text
+                                pos_word = f"{pos}:{morpheme_type}|{stem}"
+                            else:
+                                pos_word = f"{pos}|{stem}"
+
+                            pos_tags.append(pos_word)
+
+                    # Join the list of POS tags
+                    pos_tags = " ".join(pos_tags)
         
                     # Extract grammatical relations info
-                    for gra in utt.xpath(".//tb:w/tb:mor/tb:gra", namespaces=namespaces):
+                    for gra in utt.xpath(".//tb:w/tb:mor/tb:gra|./tb:t/tb:mor/tb:gra", namespaces=namespaces):
                         index = gra.get('index')
                         head = gra.get('head')
                         relation = gra.get('relation')
                         gra_relations += f"{index}|{head}|{relation} "
     
                     # Clean up format for new columns
-                    pos_tags = re.sub(r'\s+$', '', pos_tags)
+                    #pos_tags = re.sub(r'\s+$', '', pos_tags)
                     gra_relations = re.sub(r'\s+$', '', gra_relations)
 
                     utt_info = {
