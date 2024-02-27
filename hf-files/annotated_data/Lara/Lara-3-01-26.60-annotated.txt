@@ -1,0 +1,981 @@
+*CHI:	did Father_Christmas come ?
+%mor:	v|do&PAST n:prop|Father_Christmas v|come ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*MOT:	Father_Christmas doesn't come on your birthday .
+%mor:	n:prop|Father_Christmas mod|do&3S~neg|not v|come prep|on pro:poss:det|your n|+n|birth+n|day .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|JCT 6|7|MOD 7|5|POBJ 8|4|PUNCT
+%adu:	$EXA:father_christmas $EXA:come $ADD:doesn't $ADD:on-your-birthday $DEL:did $DIST = 3 $REP = 0.33
+%cof:	$NOT
+
+*CHI:	I want my birthday .
+%mor:	pro:sub|I v|want pro:poss:det|my n|+n|birth+n|day .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|2|OBJ 5|2|PUNCT
+*MOT:	you've had your birthday .
+%mor:	pro|you~aux|have part|have&PASTP pro:poss:det|your n|+n|birth+n|day .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|MOD 5|3|OBJ 6|3|PUNCT
+%adu:	$EXA:birth+day $ADD:you've-had-your $DEL:i-want-my $DIST = 3 $REP = 0.25
+%cof:	$NOT
+
+*CHI:	I want my birthday .
+%mor:	pro:sub|I v|want pro:poss:det|my n|+n|birth+n|day .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|2|OBJ 5|2|PUNCT
+*MOT:	you can't have another birthday .
+%mor:	pro|you mod|can~neg|not v|have qn|another n|+n|birth+n|day .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|6|QUANT 6|4|OBJ 7|4|PUNCT
+%adu:	$EXA:birth+day $ADD:you-can't-have-another $DEL:i-want-my $DIST = 4 $REP = 0.20
+%cof:	$NOT
+
+*CHI:	it's broken .
+%mor:	pro|it~aux|be&3S part|break&PASTP .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|PUNCT
+*MOT:	you'll break it .
+%mor:	pro|you~mod|will v|break pro|it .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+%adu:	$EXA:break $ADD:you'll $ADD:it $DEL:it's $MDEL:&pastp $DIST = 2 $REP = 0.33
+%cof:	$NOT
+
+*CHI:	I don't want that in .
+%mor:	pro:sub|I mod|do~neg|not v|want pro:dem|that adv|in .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|OBJ 6|4|JCT 7|4|PUNCT
+*MOT:	you have_to have that in .
+%mor:	pro|you mod:aux|have_to v|have pro:dem|that adv|in .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|JCT 6|3|PUNCT
+%adu:	$EXA:that-in $ADD:you-have_to-have $DEL:i-don't-want $DIST = 1 $REP = 0.40
+%cof:	$NOT
+
+*CHI:	(be)cause all paper on the floor .
+%mor:	conj|because adv|all n|paper prep|on det|the n|floor .
+%gra:	1|3|LINK 2|3|JCT 3|0|INCROOT 4|3|NJCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+*MOT:	all the paper on the floor .
+%mor:	qn|all det|the n|paper prep|on det|the n|floor .
+%gra:	1|3|QUANT 2|3|DET 3|0|INCROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+%adu:	$EXA:all-the-paper-on $EXA:floor $ADD:the $DEL:because $DIST = 1 $REP = 0.83
+%cof:	$COF $ERR = umorph:det;$TYP=omission
+
+*CHI:	daddy and Amy and Abi .
+%mor:	n|daddy coord|and n:prop|Amy coord|and n:prop|Abi .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|3|CONJ 5|4|COORD 6|1|PUNCT
+*MOT:	and that ?
+%mor:	coord|and pro:dem|that ?
+%gra:	1|0|INCROOT 2|1|COORD 3|1|PUNCT
+%adu:	$EXA:and $ADD:that $DEL:daddy $DEL:amy-and-abi $DIST = 1 $REP = 0.50
+%cof:	$NOT
+
+*CHI:	I want to open this .
+%mor:	pro:sub|I v|want inf|to v|open pro:dem|this .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|XCOMP 5|4|OBJ 6|2|PUNCT
+*MOT:	it doesn't open anymore .
+%mor:	pro|it mod|do&3S~neg|not v|open adv|anymore .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|JCT 6|4|PUNCT
+%adu:	$EXA:open $ADD:it-doesn't $ADD:anymore $DEL:i-want-to $DEL:this $DIST = 1 $REP = 0.25
+%cof:	$NOT
+
+*CHI:	what's [//] does this fit in ?
+%mor:	mod|do&3S pro:dem|this n|fit adv|in ?
+%gra:	1|3|AUX 2|3|MOD 3|0|INCROOT 4|3|JCT 5|3|PUNCT
+*MOT:	it did .
+%mor:	pro|it v|do&PAST .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+%adu:	$EXA:do $ADD:it $DEL:this-fit-in $MSUB:&past $DIST = 2 $REP = 0.50
+%cof:	$NOT
+
+*CHI:	what's [//] does this fit in ?
+%mor:	mod|do&3S pro:dem|this n|fit adv|in ?
+%gra:	1|3|AUX 2|3|MOD 3|0|INCROOT 4|3|JCT 5|3|PUNCT
+*MOT:	but we don't want a photo of that little girl , , do we ?
+%mor:	conj|but pro:sub|we mod|do~neg|not v|want det|a n|photo prep|of det|that adj|little n|girl cm|cm cm|cm mod|do pro:sub|we ?
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|7|DET 7|5|OBJ 8|7|NJCT 9|11|DET 10|11|MOD 11|15|SUBJ 12|11|LP 13|11|LP 14|15|AUX 15|8|POBJ 16|5|PUNCT
+%adu:	$EXA:do $ADD:but-we-don't-want-a-photo-of-that-little-girl-,-, $ADD:we $DEL:this-fit-in $MDEL:&3s $DIST = 3 $REP = 0.07
+%cof:	$NOT
+
+*CHI:	<he's got a> [//] she's [//] that little girl's got a bone .
+%mor:	det|that adj|little n|girl~poss|s v|get&PAST det|a n|bone .
+%gra:	1|3|DET 2|3|MOD 3|5|SUBJ 4|3|POSS 5|0|ROOT 6|7|DET 7|5|OBJ 8|5|PUNCT
+*MOT:	she's probably throwing it for a dog .
+%mor:	pro:sub|she~aux|be&3S adv|probable&dadj-LY part|throw-PRESP pro|it prep|for det|a n|dog .
+%gra:	1|4|SUBJ 2|4|AUX 3|4|JCT 4|0|ROOT 5|4|OBJ 6|4|JCT 7|8|DET 8|6|POBJ 9|4|PUNCT
+%adu:	$EXA:a $ADD:she's-probably-throwing-it-for $ADD:dog $DEL:that-little-girl's-got $DEL:bone $DIST = 2 $REP = 0.14
+%cof:	$NOT
+
+*CHI:	it does open .
+%mor:	pro|it mod|do&3S v|open .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|PUNCT
+*MOT:	but I don't want you to break it .
+%mor:	conj|but pro:sub|I mod|do~neg|not v|want pro|you inf|to v|break pro|it .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|5|OBJ 7|8|INF 8|5|XCOMP 9|8|OBJ 10|5|PUNCT
+%adu:	$EXA:it $ADD:but-i-don't-want-you-to-break $DEL:does-open $DIST = 2 $REP = 0.12
+%cof:	$NOT
+
+*CHI:	I did it .
+%mor:	pro:sub|I mod|do&PAST pro|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*MOT:	can you dry it now ?
+%mor:	mod|can pro|you v|dry pro|it adv|now ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|JCT 6|3|PUNCT
+%adu:	$EXA:it $ADD:can-you-dry $ADD:now $DEL:i-did $DIST = 2 $REP = 0.20
+%cof:	$NOT
+
+*CHI:	I'll put it on you .
+%mor:	pro:sub|I~mod|will v|put&ZERO pro|it prep|on pro|you .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|JCT 6|5|POBJ 7|3|PUNCT
+*MOT:	don't you dare .
+%mor:	mod|do~neg|not pro|you v|dare .
+%gra:	1|4|AUX 2|1|NEG 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+%adu:	$EXA:you $ADD:don't $ADD:dare $DEL:i'll-put-it-on $DIST = 1 $REP = 0.33
+%cof:	$NOT
+
+*CHI:	why do you do it like that ?
+%mor:	adv:wh|why mod|do pro|you v|do pro|it prep|like pro:dem|that ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|JCT 7|6|POBJ 8|4|PUNCT
+*MOT:	that's how it stands up .
+%mor:	pro:dem|that~cop|be&3S adv:wh|how pro|it v|stand-3S adv|up .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|LINK 4|5|SUBJ 5|2|PRED 6|5|JCT 7|2|PUNCT
+%adu:	$EXA:it $ADD:that's-how $ADD:stands-up $DEL:why-do-you-do $DEL:like-that $DIST = 1 $REP = 0.20
+%cof:	$NOT
+
+*CHI:	I need to get on .
+%mor:	pro:sub|I v|need inf|to v|get adv|on .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|XCOMP 5|4|JCT 6|2|PUNCT
+*MOT:	do you want to read a book ?
+%mor:	mod|do pro|you v|want inf|to v|read&ZERO det|a n|book ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|XCOMP 6|7|DET 7|5|OBJ 8|3|PUNCT
+%adu:	$EXA:to $ADD:do-you-want $ADD:read-a-book $DEL:i-need $DEL:get-on $DIST = 2 $REP = 0.14
+%cof:	$NOT
+
+*CHI:	and a spoon .
+%mor:	conj|and det|a n|spoon .
+%gra:	1|3|LINK 2|3|DET 3|0|INCROOT 4|3|PUNCT
+*MOT:	horses don't use spoons .
+%mor:	n|horse-PL mod|do~neg|not v|use n|spoon-PL .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+%adu:	$EXA:spoon $ADD:horses-don't-use $DEL:and-a $MADD:-pl $DIST = 1 $REP = 0.25
+%cof:	$NOT
+
+*CHI:	you're not a children [*] , , are you ?
+%mor:	pro|you~aux|be&PRES neg|not det|a n|child-PL cm|cm cm|cm aux|be&PRES pro|you ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|NEG 4|5|DET 5|9|SUBJ 6|5|LP 7|5|LP 8|9|AUX 9|2|OBJ 10|2|PUNCT
+*MOT:	I'm a horse .
+%mor:	pro:sub|I~cop|be&1S det|a n|horse .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+%adu:	$EXA:a $ADD:i'm $ADD:horse $DEL:you're-not $DEL:children-,-,-are-you $DIST = 2 $REP = 0.33
+%cof:	$NOT
+
+*CHI:	<let me> [/] let me drink [*] you .
+%mor:	v|let&ZERO pro:obj|me v|drink pro|you .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|COMP 4|3|OBJ 5|1|PUNCT
+*MOT:	you pushed it against my nose .
+%mor:	pro|you v|push-PAST pro|it adv|against adj|m&dn-Y n|nose .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|JCT 5|6|MOD 6|2|JCT 7|2|PUNCT
+%adu:	$EXA:you $ADD:pushed-it-against-my-nose $DEL:let-me-drink $DIST = 3 $REP = 0.17
+%cof:	$NOT
+
+*CHI:	<let me> [/] let me drink [*] you .
+%mor:	v|let&ZERO pro:obj|me v|drink pro|you .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|COMP 4|3|OBJ 5|1|PUNCT
+*MOT:	thank you .
+%mor:	v|thank pro|you .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+%adu:	$EXA:you $ADD:thank $DEL:let-me-drink $DIST = 5 $REP = 0.50
+%cof:	$NOT
+
+*CHI:	get you some .
+%mor:	v|get pro|you qn|some .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*MOT:	thank you .
+%mor:	v|thank pro|you .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+%adu:	$EXA:you $ADD:thank $DEL:get $DEL:some $DIST = 1 $REP = 0.50
+%cof:	$NOT
+
+*CHI:	I said stay there .
+%mor:	pro:sub|I v|say&PAST n|stay adv|there .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|JCT 5|2|PUNCT
+*MOT:	I will .
+%mor:	pro:sub|I mod|will .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+%adu:	$EXA:i $ADD:will $DEL:said-stay-there $DIST = 1 $REP = 0.50
+%cof:	$NOT
+
+*CHI:	mummy lamb's got_to feed you .
+%mor:	adj|mum-Y n|lamb~poss|s mod:aux|got_to v|feed pro|you .
+%gra:	1|2|MOD 2|5|SUBJ 3|2|POSS 4|5|AUX 5|0|ROOT 6|5|OBJ 7|5|PUNCT
+*MOT:	where's <mummy lamb> [//] mummy sheep ?
+%mor:	rel|where~cop|be&3S adj|mum-Y n|sheep ?
+%gra:	1|2|LINK 2|0|ROOT 3|2|PRED 4|2|PRED 5|2|PUNCT
+%adu:	$EXA:mum $ADD:where's $ADD:sheep $DEL:lamb's-got_to-feed-you $MEXA:-y $DIST = 1 $REP = 0.33
+%cof:	$NOT
+
+*CHI:	have you finished ?
+%mor:	aux|have pro|you v|finish-PAST ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*MOT:	thank you .
+%mor:	v|thank pro|you .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+%adu:	$EXA:you $ADD:thank $DEL:have $DEL:finished $DIST = 2 $REP = 0.50
+%cof:	$NOT
+
+*CHI:	you've cut it .
+%mor:	pro|you~aux|have v|cut&ZERO pro|it .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*MOT:	it was broken anyway .
+%mor:	pro|it aux|be&PAST&13S part|break&PASTP adv|anyway .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|3|PUNCT
+%adu:	$EXA:it $ADD:was-broken-anyway $DEL:you've-cut $DIST = 2 $REP = 0.25
+%cof:	$NOT
+
+*CHI:	or do you want to be the daddy sheep .
+%mor:	coord|or v|do pro|you v|want inf|to cop|be det|the n|daddy n|sheep .
+%gra:	1|0|INCROOT 2|1|COORD 3|4|SUBJ 4|2|COMP 5|6|INF 6|4|XCOMP 7|9|DET 8|9|MOD 9|6|OBJ 10|1|PUNCT
+*MOT:	the baby sheep .
+%mor:	det|the n|baby n|sheep .
+%gra:	1|3|DET 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+%adu:	$EXA:the $EXA:sheep $ADD:baby $DEL:or-do-you-want-to-be $DEL:daddy $DIST = 1 $REP = 0.67
+%cof:	$NOT
+
+*CHI:	I want you to be the daddy sheep .
+%mor:	pro:sub|I v|want pro|you inf|to cop|be det|the n|daddy n|sheep .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|5|INF 5|2|XCOMP 6|8|DET 7|8|MOD 8|5|OBJ 9|2|PUNCT
+*MOT:	I'll be the daddy sheep .
+%mor:	pro:sub|I~mod|will cop|be det|the n|daddy n|sheep .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|6|DET 5|6|MOD 6|3|PRED 7|3|PUNCT
+%adu:	$EXA:be-the-daddy-sheep $ADD:i'll $DEL:i-want-you-to $DIST = 2 $REP = 0.80
+%cof:	$NOT
+
+*CHI:	I want you to be the daddy sheep .
+%mor:	pro:sub|I v|want pro|you inf|to cop|be det|the n|daddy n|sheep .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|5|INF 5|2|XCOMP 6|8|DET 7|8|MOD 8|5|OBJ 9|2|PUNCT
+*MOT:	I'm the daddy sheep .
+%mor:	pro:sub|I~cop|be&1S det|the n|daddy n|sheep .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|PRED 6|2|PUNCT
+%adu:	$EXA:the-daddy-sheep $ADD:i'm $DEL:i-want-you-to-be $DIST = 5 $REP = 0.75
+%cof:	$NOT
+
+*CHI:	hello , daddy sheep .
+%mor:	co|hello cm|cm n|daddy n|sheep .
+%gra:	1|3|COM 2|1|LP 3|4|MOD 4|0|INCROOT 5|4|PUNCT
+*MOT:	hello , mummy sheep .
+%mor:	co|hello cm|cm n|mummy n|sheep .
+%gra:	1|3|COM 2|1|LP 3|4|MOD 4|0|INCROOT 5|4|PUNCT
+%adu:	$EXA:hello-cm $EXA:sheep $ADD:mummy $DEL:daddy $DIST = 1 $REP = 0.75
+%cof:	$NOT
+
+*CHI:	let [//] I want the scissors .
+%mor:	pro:sub|I v|want det|the n|scissors .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*MOT:	I have_to do it .
+%mor:	pro:sub|I mod:aux|have_to v|do pro|it .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+%adu:	$EXA:i $ADD:have_to-do-it $DEL:want-the-scissors $DIST = 2 $REP = 0.25
+%cof:	$NOT
+
+*CHI:	it doesn't .
+%mor:	pro|it mod|do&3S~neg|not .
+%gra:	1|0|INCROOT 2|4|AUX 3|2|NEG 4|1|PUNCT
+*MOT:	does it look better with it ?
+%mor:	mod|do&3S pro|it v|look adj|good&CP prep|with pro|it ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|4|JCT 6|5|POBJ 7|3|PUNCT
+%adu:	$EXA:it $ADD:does $ADD:look-better-with-it $DEL:doesn't $DIST = 1 $REP = 0.17
+%cof:	$NOT
+
+*CHI:	it doesn't .
+%mor:	pro|it mod|do&3S~neg|not .
+%gra:	1|0|INCROOT 2|4|AUX 3|2|NEG 4|1|PUNCT
+*MOT:	even though it was coming off ?
+%mor:	adv|even adv|though pro|it aux|be&PAST&13S part|come-PRESP adv|off ?
+%gra:	1|2|JCT 2|5|JCT 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|JCT 7|5|PUNCT
+%adu:	$EXA:it $ADD:even-though $ADD:was-coming-off $DEL:doesn't $DIST = 2 $REP = 0.17
+%cof:	$NOT
+
+*CHI:	I'm Henry .
+%mor:	pro:sub|I~aux|be&1S n:prop|Henry .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|PUNCT
+*MOT:	Henry a mummy or Henry a daddy ?
+%mor:	n:prop|Henry det|a n|mummy coord|or n:prop|Henry det|a n|daddy ?
+%gra:	1|0|INCROOT 2|3|DET 3|1|OBJ 4|3|CONJ 5|4|COORD 6|7|DET 7|5|OBJ 8|1|PUNCT
+%adu:	$EXA:henry $ADD:a-mummy-or-henry-a-daddy $DEL:i'm $DIST = 1 $REP = 0.14
+%cof:	$NOT
+
+*CHI:	you be Henrietta .
+%mor:	pro|you cop|be n:prop|Henrietta .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*MOT:	you'll have_to be the dad +//. [+ IN]
+%mor:	pro|you~mod|will mod:aux|have_to cop|be det|the n|dad +//.
+%gra:	1|4|SUBJ 2|4|AUX 3|4|AUX 4|0|ROOT 5|6|DET 6|4|PRED 7|4|PUNCT
+%adu:	$EXA:be $ADD:you'll-have_to $ADD:the-dad $DEL:you $DEL:henrietta $DIST = 3 $REP = 0.20
+%cof:	$NOT
+
+*CHI:	(be)cause I want you to cut that bit .
+%mor:	conj|because pro:sub|I v|want pro|you inf|to v|cut&ZERO pro:dem|that n|bit .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|6|INF 6|3|XCOMP 7|8|MOD 8|6|OBJ 9|3|PUNCT
+*MOT:	this bit ?
+%mor:	det|this n|bit ?
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+%adu:	$EXA:bit $ADD:this $DEL:because-i-want-you-to-cut-that $DIST = 1 $REP = 0.50
+%cof:	$NOT
+
+*CHI:	xxx look pretty now . [+ PI]
+%mor:	v|look adv|pretty adv|now .
+%gra:	1|0|ROOT 2|1|JCT 3|1|JCT 4|1|PUNCT
+*MOT:	do you think it looks better ?
+%mor:	mod|do pro|you v|think pro|it v|look-3S adj|good&CP ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|5|SUBJ 5|3|COMP 6|5|PRED 7|3|PUNCT
+%adu:	$EXA:look $ADD:do-you-think-it $ADD:better $DEL:pretty-now $MADD:-3s $DIST = 1 $REP = 0.17
+%cof:	$NOT
+
+*CHI:	we are guinea+pigs .
+%mor:	pro:sub|we aux|be&PRES n|+n|guinea+n|pig-PL .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|INCROOT 4|3|PUNCT
+*MOT:	we're guinea+pigs now , , are we ?
+%mor:	pro:sub|we~aux|be&PRES n|+n|guinea+n|pig-PL adv|now cm|cm cm|cm cop|be&PRES pro:sub|we ?
+%gra:	1|3|SUBJ 2|3|AUX 3|7|SUBJ 4|7|JCT 5|4|LP 6|7|SUBJ 7|0|ROOT 8|7|PRED 9|7|PUNCT
+%adu:	$EXA:guinea+pig $EXA:be-we $ADD:we're $ADD:now-,-, $EXPAN $MEXA:-pl $MEXA:&pres $DIST = 1 $REP = 0.43
+%cof:	$NOT
+
+*CHI:	me [*] have this one and you have that .
+%mor:	pro:obj|me v|have det|this pro:indef|one coord|and pro|you v|have pro:dem|that .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|COORD 6|7|SUBJ 7|5|CONJ 8|7|OBJ 9|2|PUNCT
+*MOT:	you know why they're yellow and pink ?
+%mor:	pro|you v|know adv:wh|why pro:sub|they~aux|be&PRES n|yellow coord|and adj|pink ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|6|LINK 4|6|SUBJ 5|6|AUX 6|2|OBJ 7|6|CONJ 8|7|COORD 9|2|PUNCT
+%adu:	$EXA:you $EXA:and $ADD:know-why-they're-yellow $ADD:pink $DEL:me-have-this-one $DEL:have-that $DIST = 2 $REP = 0.29
+%cof:	$NOT
+
+*CHI:	me [*] have this one and you have that .
+%mor:	pro:obj|me v|have det|this pro:indef|one coord|and pro|you v|have pro:dem|that .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|COORD 6|7|SUBJ 7|5|CONJ 8|7|OBJ 9|2|PUNCT
+*MOT:	because the yellow one's going onto the pink one .
+%mor:	conj|because det|the adj|yellow pro:indef|one~aux|be&3S part|go-PRESP prep|onto det|the n|pink pro:indef|one .
+%gra:	1|4|LINK 2|4|DET 3|4|MOD 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|6|JCT 8|9|DET 9|7|POBJ 10|9|NJCT 11|6|PUNCT
+%adu:	$EXA:one $ADD:because-the-yellow-one's-going-onto-the-pink $DEL:me-have-this $DEL:and-you-have-that $DIST = 3 $REP = 0.11
+%cof:	$NOT
+
+*CHI:	are you taking the cover off ?
+%mor:	cop|be&PRES pro|you part|take-PRESP det|the n|cover adv|off ?
+%gra:	1|0|ROOT 2|1|OBJ 3|2|XMOD 4|5|DET 5|3|OBJ 6|3|JCT 7|1|PUNCT
+*MOT:	what do you think ?
+%mor:	pro:wh|what mod|do pro|you v|think ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+%adu:	$EXA:you $ADD:what-do $ADD:think $DEL:are $DEL:taking-the-cover-off $DIST = 3 $REP = 0.25
+%cof:	$NOT
+
+*CHI:	can you take that one off ?
+%mor:	mod|can pro|you v|take rel|that det:num|one adv|off ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|6|LINK 5|6|QUANT 6|3|JCT 7|3|PUNCT
+*MOT:	we'll just do one .
+%mor:	pro:sub|we~mod|will adv|just v|do pro:indef|one .
+%gra:	1|4|SUBJ 2|4|AUX 3|4|JCT 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+%adu:	$EXA:one $ADD:we'll-just-do $DEL:can-you-take-that $DEL:off $DIST = 2 $REP = 0.25
+%cof:	$NOT
+
+*CHI:	daddy lions xxx tail . [+ PI]
+%mor:	n|daddy n|lion-PL n|tail .
+%gra:	1|3|MOD 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+*MOT:	daddy lions have manes .
+%mor:	n|daddy n|lion-PL v|have n|mane-PL .
+%gra:	1|0|INCROOT 2|3|SUBJ 3|1|CMOD 4|3|OBJ 5|1|PUNCT
+%adu:	$EXA:daddy-lion $ADD:have-manes $DEL:tail $MEXA:-pl $DIST = 1 $REP = 0.50
+%cof:	$COF $ERR = synt:verb;$TYP=omission
+
+*CHI:	Amy can't play +... [+ IN]
+%mor:	n:prop|Amy mod|can~neg|not v|play +...
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|PUNCT
+*MOT:	I know she can't play .
+%mor:	pro:sub|I v|know pro:sub|she mod|can~neg|not v|play .
+%gra:	1|2|SUBJ 2|0|ROOT 3|6|SUBJ 4|6|AUX 5|4|NEG 6|2|COMP 7|2|PUNCT
+%adu:	$EXA:can~not-play $ADD:i-know-she $DEL:amy $DIST = 3 $REP = 0.40
+%cof:	$NOT
+
+*CHI:	Amy can't play +... [+ IN]
+%mor:	n:prop|Amy mod|can~neg|not v|play +...
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|PUNCT
+*MOT:	Amy , shush .
+%mor:	n:prop|Amy cm|cm v|shush .
+%gra:	1|3|SUBJ 2|1|LP 3|0|ROOT 4|3|PUNCT
+%adu:	$EXA:amy $ADD:,-shush $DEL:can't-play $DIST = 5 $REP = 0.33
+%cof:	$NOT
+
+*CHI:	this is a baby lion .
+%mor:	pro:dem|this cop|be&3S det|a n|baby n|lion .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|PRED 6|2|PUNCT
+*MOT:	that is a baby lion .
+%mor:	pro:dem|that cop|be&3S det|a n|baby n|lion .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|PRED 6|2|PUNCT
+%adu:	$EXA:be-a-baby-lion $ADD:that $DEL:this $MEXA:&3s $DIST = 1 $REP = 0.80
+%cof:	$NOT
+
+*CHI:	what was this ?
+%mor:	pro:wh|what cop|be&PAST&13S pro:dem|this ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*MOT:	is that the right way round ?
+%mor:	cop|be&3S rel|that det|the adj|right n|way adv|round ?
+%gra:	1|0|ROOT 2|5|LINK 3|5|DET 4|5|MOD 5|1|PRED 6|5|JCT 7|5|PUNCT
+%adu:	$EXA:be $ADD:that-the-right-way-round $DEL:what $DEL:this $MSUB:&3s $DIST = 3 $REP = 0.17
+%cof:	$NOT
+
+*CHI:	it is .
+%mor:	pro|it cop|be&3S .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*MOT:	it wasn't .
+%mor:	pro|it cop|be&PAST&13S~neg|not .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|NEG 4|2|PUNCT
+%adu:	$EXA:it $ADD:wasn't $DEL:is $DIST = 1 $REP = 0.50
+%cof:	$NOT
+
+*CHI:	it is .
+%mor:	pro|it cop|be&3S .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*MOT:	but it is now .
+%mor:	conj|but pro|it cop|be&3S adv|now .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|PUNCT
+%adu:	$EXA:it-be $ADD:but $ADD:now $EXPAN $MEXA:&3s $DIST = 2 $REP = 0.50
+%cof:	$NOT
+
+*CHI:	I don't want to .
+%mor:	pro:sub|I mod|do~neg|not v|want prep|to .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|JCT 6|4|PUNCT
+*MOT:	I can do it .
+%mor:	pro:sub|I mod|can v|do pro|it .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+%adu:	$EXA:i $ADD:can-do-it $DEL:don't-want-to $DIST = 3 $REP = 0.25
+%cof:	$NOT
+
+*CHI:	look what I've found .
+%mor:	v|look pro:wh|what pro:sub|I~aux|have v|find&PAST .
+%gra:	1|0|ROOT 2|5|LINK 3|5|SUBJ 4|5|AUX 5|1|COMP 6|1|PUNCT
+*MOT:	what have you found ?
+%mor:	pro:wh|what aux|have pro|you v|find&PAST ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+%adu:	$EXA:what $EXA:find $ADD:have-you $DEL:look $DEL:i've $MEXA:&past $DIST = 1 $REP = 0.50
+%cof:	$NOT
+
+*CHI:	can I take her head off ?
+%mor:	mod|can pro:sub|I v|take pro:poss:det|her n|head adv|off ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|5|MOD 5|3|OBJ 6|3|JCT 7|3|PUNCT
+*MOT:	don't take heads off dolls .
+%mor:	mod|do~neg|not v|take n|head-PL prep|off n|doll-PL .
+%gra:	1|3|AUX 2|1|NEG 3|0|ROOT 4|3|OBJ 5|3|JCT 6|5|POBJ 7|3|PUNCT
+%adu:	$EXA:take-head-off $ADD:don't $ADD:dolls $DEL:can-i $DEL:her $MADD:-pl $DIST = 2 $REP = 0.60
+%cof:	$NOT
+
+*CHI:	and I found man .
+%mor:	conj|and pro:sub|I v|find&PAST n|man .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*MOT:	and you found the man ?
+%mor:	conj|and pro|you v|find&PAST det|the n|man ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+%adu:	$EXA:and $EXA:find $EXA:man $ADD:you $ADD:the $DEL:i $MEXA:&past $DIST = 1 $REP = 0.60
+%cof:	$COF $ERR = umorph:det;$TYP=omission
+
+*CHI:	you get the field . [+ SR]
+%mor:	pro|you v|get det|the n|field .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*MOT:	you made a field .
+%mor:	pro|you v|make&PAST det|a n|field .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+%adu:	$EXA:you $EXA:field $ADD:made-a $DEL:get-the $DIST = 1 $REP = 0.50
+%cof:	$NOT
+
+*CHI:	is that a big field ?
+%mor:	cop|be&3S rel|that det|a adj|big n|field ?
+%gra:	1|0|ROOT 2|5|LINK 3|5|DET 4|5|MOD 5|1|PRED 6|1|PUNCT
+*MOT:	I was going to divide it into two .
+%mor:	pro:sub|I aux|be&PAST&13S part|go-PRESP inf|to v|divide pro|it prep|into det:num|two .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|INF 5|3|XCOMP 6|5|OBJ 7|5|JCT 8|7|POBJ 9|3|PUNCT
+%adu:	$EXA:be $ADD:i $ADD:going-to-divide-it-into-two $DEL:that-a-big-field $MSUB:&past&13s $DIST = 2 $REP = 0.12
+%cof:	$NOT
+
+*CHI:	or do I live nearer [?] you ?
+%mor:	coord|or mod|do pro:sub|I v|live prep|nearer pro|you ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|5|POBJ 7|4|PUNCT
+*MOT:	you live in the jungle .
+%mor:	pro|you v|live prep|in det|the n|jungle .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|2|PUNCT
+%adu:	$EXA:you-live $ADD:in-the-jungle $DEL:or-do-i $DEL:nearer $DIST = 1 $REP = 0.40
+%cof:	$NOT
+
+*CHI:	will they eat him ? [+ SR]
+%mor:	mod|will pro:sub|they v|eat pro:obj|him ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*MOT:	they'll eat the horse .
+%mor:	pro:sub|they~mod|will v|eat det|the n|horse .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+%adu:	$EXA:eat $ADD:they'll $ADD:the-horse $DEL:will-they $DEL:him $DIST = 3 $REP = 0.25
+%cof:	$NOT
+
+*CHI:	will they eat him ? [+ SR]
+%mor:	mod|will pro:sub|they v|eat pro:obj|him ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*MOT:	they'll eat anything they can .
+%mor:	pro:sub|they~mod|will v|eat pro:indef|anything pro:sub|they mod|can .
+%gra:	1|3|SUBJ 2|3|AUX 3|6|LINK 4|3|OBJ 5|6|SUBJ 6|0|ROOT 7|6|PUNCT
+%adu:	$EXA:eat $EXA:they $ADD:they'll $ADD:anything $ADD:can $DEL:will $DEL:him $DIST = 4 $REP = 0.40
+%cof:	$NOT
+
+*CHI:	why've we got_to shut that bit ?
+%mor:	adv:wh|why~aux|have pro:sub|we mod:aux|got_to v|shut&ZERO pro:dem|that n|bit ?
+%gra:	1|5|LINK 2|5|AUX 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|7|MOD 7|5|OBJ 8|5|PUNCT
+*MOT:	so that the lions don't get out and eat everyone .
+%mor:	adv|so adv|that det|the n|lion-PL mod|do~neg|not v|get adv|out coord|and v|eat pro:indef|everyone .
+%gra:	1|7|JCT 2|7|JCT 3|4|DET 4|7|SUBJ 5|7|AUX 6|5|NEG 7|0|ROOT 8|7|JCT 9|7|CONJ 10|9|COORD 11|10|OBJ 12|7|PUNCT
+%adu:	$EXA:that $ADD:so $ADD:the-lions-don't-get-out-and-eat-everyone $DEL:why've-we-got_to-shut $DEL:bit $DIST = 1 $REP = 0.10
+%cof:	$NOT
+
+*CHI:	I think the lions can go in that field .
+%mor:	pro:sub|I v|think det|the n|lion-PL mod|can v|go prep|in det|that n|field .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|6|SUBJ 5|6|AUX 6|2|COMP 7|6|JCT 8|9|DET 9|7|POBJ 10|2|PUNCT
+*MOT:	they'll eat the cows and pigs .
+%mor:	pro:sub|they~mod|will v|eat det|the n|cow-PL coord|and n|pig-PL .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|5|CONJ 7|6|COORD 8|3|PUNCT
+%adu:	$EXA:the $ADD:they'll-eat $ADD:cows-and-pigs $DEL:i-think $DEL:lions-can-go-in-that-field $DIST = 2 $REP = 0.17
+%cof:	$NOT
+
+*CHI:	<can I> [//] which [//] can you make a field for me ?
+%mor:	mod|can pro|you v|make det|a n|field prep|for pro:obj|me ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|5|NJCT 7|6|POBJ 8|3|PUNCT
+*MOT:	bring me some bricks .
+%mor:	v|bring pro:obj|me qn|some n|brick-PL .
+%gra:	1|0|ROOT 2|1|OBJ 3|4|QUANT 4|1|OBJ 5|1|PUNCT
+%adu:	$EXA:me $ADD:bring $ADD:some-bricks $DEL:can-you-make-a-field-for $DIST = 2 $REP = 0.25
+%cof:	$NOT
+
+*CHI:	I want that .
+%mor:	pro:sub|I v|want pro:dem|that .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*MOT:	I thought you were playing farm ?
+%mor:	pro:sub|I v|think&PAST pro|you aux|be&PAST part|play-PRESP n|farm ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|5|AUX 5|2|COMP 6|5|OBJ 7|2|PUNCT
+%adu:	$EXA:i $ADD:thought-you-were-playing-farm $DEL:want-that $DIST = 2 $REP = 0.17
+%cof:	$NOT
+
+*CHI:	she can't .
+%mor:	pro:sub|she mod|can~neg|not .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|NEG 4|2|PUNCT
+*MOT:	can she have a policeman then ?
+%mor:	mod|can pro:sub|she v|have det|a n|+n|police+n|man adv:tem|then ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|5|INCROOT 7|6|PUNCT
+%adu:	$EXA:she $ADD:can $ADD:have-a-policeman-then $DEL:can't $DIST = 2 $REP = 0.17
+%cof:	$NOT
+
+*CHI:	she can't have anything .
+%mor:	pro:sub|she mod|can~neg|not v|have pro:indef|anything .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*MOT:	can she have a policeman please ?
+%mor:	mod|can pro:sub|she v|have det|a n|+n|police+n|man co|please ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|5|COM 7|3|PUNCT
+%adu:	$EXA:she-have $ADD:can $ADD:a-policeman-please $DEL:can't $DEL:anything $DIST = 1 $REP = 0.33
+%cof:	$NOT
+
+*CHI:	<what about all> [//] can you do other one because I can't really do all this .
+%mor:	mod|can pro|you v|do qn|other pro:indef|one conj|because pro:sub|I mod|can~neg|not adv|real&dadj-LY v|do adv|all det|this .
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|5|QUANT 5|3|OBJ 6|11|LINK 7|11|SUBJ 8|11|AUX 9|8|NEG 10|11|JCT 11|3|CJCT 12|11|JCT 13|14|DET 14|12|PUNCT
+*MOT:	you pick them up and I'll tell you where they can go .
+%mor:	pro|you v|pick pro:obj|them adv|up conj|and pro:sub|I~mod|will v|tell pro|you adv:wh|where pro:sub|they mod|can v|go .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|JCT 5|8|LINK 6|8|SUBJ 7|8|AUX 8|2|CJCT 9|8|OBJ 10|13|LINK 11|13|SUBJ 12|13|AUX 13|8|COMP 14|2|PUNCT
+%adu:	$EXA:you $EXA:can $ADD:pick-them-up-and-i'll-tell-you-where-they $ADD:go $DEL:do-other-one-because-i-can't-really-do-all-this $DIST = 2 $REP = 0.17
+%cof:	$NOT
+
+*CHI:	squirrels and cow .
+%mor:	n|squirrel-PL coord|and n|cow .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|1|PUNCT
+*MOT:	squirrels tend to hide so do you think the squirrels should go on top of the farm ?
+%mor:	n|squirrel-PL v|tend prep|to n|hide adv|so v|do pro|you v|think det|the n|squirrel-PL mod|should v|go prep|on n|top prep|of det|the n|farm ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|3|POBJ 5|6|JCT 6|2|COMP 7|8|SUBJ 8|6|OBJ 9|10|DET 10|12|SUBJ 11|12|AUX 12|8|COMP 13|12|JCT 14|13|POBJ 15|14|NJCT 16|17|DET 17|15|POBJ 18|2|PUNCT
+%adu:	$EXA:squirrel $ADD:tend-to-hide-so-do-you-think-the-squirrels-should-go-on-top-of-the-farm $DEL:and-cow $MEXA:-pl $DIST = 2 $REP = 0.06
+%cof:	$NOT
+
+*CHI:	he's scratching .
+%mor:	pro:sub|he~aux|be&3S part|scratch-PRESP .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|PUNCT
+*MOT:	who's scratching ?
+%mor:	rel|who~aux|be&3S part|scratch-PRESP ?
+%gra:	1|3|LINK 2|3|AUX 3|0|ROOT 4|3|PUNCT
+%adu:	$EXA:scratch $ADD:who's $DEL:he's $MEXA:-presp $DIST = 1 $REP = 0.50
+%cof:	$NOT
+
+*CHI:	but I want the other cow that I just had .
+%mor:	conj|but pro:sub|I v|want det|the qn|other n|cow rel|that pro:sub|I adv|just v|have&PAST .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|MOD 6|3|OBJ 7|10|LINK 8|10|SUBJ 9|10|JCT 10|6|CMOD 11|3|PUNCT
+*MOT:	you just put it in the field with the other cow .
+%mor:	pro|you adv|just v|put&ZERO pro|it prep|in det|the n|field prep|with det|the qn|other n|cow .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|OBJ 5|3|JCT 6|7|DET 7|5|POBJ 8|3|JCT 9|11|DET 10|11|QUANT 11|8|POBJ 12|3|PUNCT
+%adu:	$EXA:just $EXA:the $EXA:other-cow $ADD:you $ADD:put-it-in $ADD:field-with-the $DEL:but-i-want $DEL:that-i $DEL:had $DIST = 2 $REP = 0.36
+%cof:	$NOT
+
+*CHI:	but I want the other cow that I just had .
+%mor:	conj|but pro:sub|I v|want det|the qn|other n|cow rel|that pro:sub|I adv|just v|have&PAST .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|MOD 6|3|OBJ 7|10|LINK 8|10|SUBJ 9|10|JCT 10|6|CMOD 11|3|PUNCT
+*MOT:	there are two cows in that field here by mummy .
+%mor:	adv|there cop|be&PRES det:num|two n|cow-PL prep|in det|that n|field adv|here prep|by n|mummy .
+%gra:	1|2|JCT 2|0|ROOT 3|4|QUANT 4|2|PRED 5|2|JCT 6|7|DET 7|5|POBJ 8|7|NJCT 9|7|NJCT 10|9|POBJ 11|2|PUNCT
+%adu:	$EXA:cow $EXA:that $ADD:there-are-two $ADD:in $ADD:field-here-by-mummy $DEL:but-i-want-the-other $DEL:i-just-had $MADD:-pl $DIST = 3 $REP = 0.20
+%cof:	$NOT
+
+*CHI:	but I want the other cow that I just had .
+%mor:	conj|but pro:sub|I v|want det|the qn|other n|cow rel|that pro:sub|I adv|just v|have&PAST .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|MOD 6|3|OBJ 7|10|LINK 8|10|SUBJ 9|10|JCT 10|6|CMOD 11|3|PUNCT
+*MOT:	and that's the cow you just had , , isn't it ?
+%mor:	conj|and pro:dem|that~cop|be&3S det|the n|cow pro|you adv|just v|have&PAST cm|cm cm|cm cop|be&3S~neg|not pro|it ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PRED 6|8|SUBJ 7|8|JCT 8|5|CMOD 9|8|LP 10|8|LP 11|8|JCT 12|11|NEG 13|11|PRED 14|3|PUNCT
+%adu:	$EXA:the-cow $EXA:just-have $ADD:and-that's $ADD:you $ADD:,-,-isn't-it $DEL:but-i-want $DEL:other $DEL:that-i $MEXA:&past $DIST = 4 $REP = 0.36
+%cof:	$NOT
+
+*CHI:	where can owls go ?
+%mor:	adv:wh|where n|can n|owl-PL v|go ?
+%gra:	1|4|LINK 2|4|MOD 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*MOT:	they can go on top of the farm house .
+%mor:	pro:sub|they mod|can v|go prep|on n|top prep|of det|the n|farm n|house .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|4|POBJ 6|5|NJCT 7|9|DET 8|9|MOD 9|6|POBJ 10|3|PUNCT
+%adu:	$EXA:can-go $ADD:they $ADD:on-top-of-the-farm-house $DEL:where $DEL:owls $DIST = 2 $REP = 0.22
+%cof:	$NOT
+
+*CHI:	where's the lady ?
+%mor:	adv:wh|where~cop|be&3S det|the n|lady ?
+%gra:	1|2|LINK 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*MOT:	which lady ?
+%mor:	rel|which n|lady ?
+%gra:	1|2|LINK 2|0|INCROOT 3|2|PUNCT
+%adu:	$EXA:lady $ADD:which $DEL:where's-the $DIST = 1 $REP = 0.50
+%cof:	$CLQ $ERR = 0
+
+*CHI:	in that field <with not> [*] animals .
+%mor:	prep|in det|that n|field prep|with neg|not n|animal-PL .
+%gra:	1|0|INCROOT 2|3|DET 3|1|POBJ 4|1|JCT 5|4|NEG 6|4|POBJ 7|1|PUNCT
+*MOT:	like the animals though .
+%mor:	prep|like det|the n|animal-PL adv|though .
+%gra:	1|0|INCROOT 2|3|DET 3|1|POBJ 4|3|NJCT 5|1|PUNCT
+%adu:	$EXA:animal $ADD:like-the $ADD:though $DEL:in-that-field-with-not $MEXA:-pl $DIST = 1 $REP = 0.25
+%cof:	$NOT
+
+*CHI:	in that field <with not> [*] animals .
+%mor:	prep|in det|that n|field prep|with neg|not n|animal-PL .
+%gra:	1|0|INCROOT 2|3|DET 3|1|POBJ 4|1|JCT 5|4|NEG 6|4|POBJ 7|1|PUNCT
+*MOT:	people don't live in fields .
+%mor:	n|person&PL mod|do~neg|not v|live prep|in n|field-PL .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|JCT 6|5|POBJ 7|4|PUNCT
+%adu:	$EXA:in-field $ADD:people-don't-live $DEL:that $DEL:with-not-animals $MADD:-pl $DIST = 3 $REP = 0.40
+%cof:	$NOT
+
+*CHI:	in that field <with not> [*] animals .
+%mor:	prep|in det|that n|field prep|with neg|not n|animal-PL .
+%gra:	1|0|INCROOT 2|3|DET 3|1|POBJ 4|1|JCT 5|4|NEG 6|4|POBJ 7|1|PUNCT
+*MOT:	people live in houses .
+%mor:	n|person&PL v|live prep|in n|house-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|3|POBJ 5|2|PUNCT
+%adu:	$EXA:in $ADD:people-live $ADD:houses $DEL:that-field-with-not-animals $DIST = 4 $REP = 0.25
+%cof:	$NOT
+
+*CHI:	<I can't put> [//] I want you to put them in the field .
+%mor:	pro:sub|I v|want pro|you inf|to v|put&ZERO pro:obj|them prep|in det|the n|field .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|5|INF 5|2|XCOMP 6|5|OBJ 7|5|JCT 8|9|DET 9|7|POBJ 10|2|PUNCT
+*MOT:	they are in the field .
+%mor:	pro:sub|they cop|be&PRES prep|in det|the n|field .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|2|PUNCT
+%adu:	$EXA:in-the-field $ADD:they-are $DEL:i-want-you-to-put-them $DIST = 1 $REP = 0.60
+%cof:	$NOT
+
+*CHI:	I'm squashing the squirrel's box .
+%mor:	pro:sub|I~aux|be&1S part|squash-PRESP det|the n|squirrel~poss|s n|box .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|7|MOD 6|5|POSS 7|3|OBJ 8|3|PUNCT
+*MOT:	don't squash the squirrel .
+%mor:	mod|do~neg|not v|squash det|the n|squirrel .
+%gra:	1|3|AUX 2|1|NEG 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+%adu:	$EXA:squash-the $ADD:don't $ADD:squirrel $DEL:i'm $DEL:squirrel's-box $MDEL:-presp $DIST = 2 $REP = 0.50
+%cof:	$NOT
+
+*CHI:	I'm squashing .
+%mor:	pro:sub|I~aux|be&1S part|squash-PRESP .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|PUNCT
+*MOT:	you're squashing the poor squirrel ?
+%mor:	pro|you~aux|be&PRES part|squash-PRESP det|the adj|poor n|squirrel ?
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|6|DET 5|6|MOD 6|3|OBJ 7|3|PUNCT
+%adu:	$EXA:squash $ADD:you're $ADD:the-poor-squirrel $DEL:i'm $MEXA:-presp $DIST = 1 $REP = 0.20
+%cof:	$COF $ERR = synt:obj;$TYP=omission
+
+*CHI:	because the policeman be [*] cross with me .
+%mor:	conj|because det|the n|+n|police+n|man cop|be n|cross prep|with pro:obj|me .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|5|NJCT 7|6|POBJ 8|4|PUNCT
+*MOT:	because the policeman be cross with you ?
+%mor:	conj|because det|the n|+n|police+n|man cop|be n|cross prep|with pro|you ?
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|5|NJCT 7|6|POBJ 8|4|PUNCT
+%adu:	$EXA:because-the-police+man-be-cross-with $ADD:you $DEL:me $DIST = 1 $REP = 0.86
+%cof:	$NOT
+
+*CHI:	because the policeman be [*] cross with me .
+%mor:	conj|because det|the n|+n|police+n|man cop|be n|cross prep|with pro:obj|me .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|5|NJCT 7|6|POBJ 8|4|PUNCT
+*MOT:	I wouldn't worry about a policeman .
+%mor:	pro:sub|I mod|will&COND~neg|not v|worry prep|about det|a n|+n|police+n|man .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|PUNCT
+%adu:	$EXA:police+man $ADD:i-wouldn't-worry-about-a $DEL:because-the $DEL:be-cross-with-me $DIST = 2 $REP = 0.17
+%cof:	$NOT
+
+*CHI:	because the policeman be [*] cross with me .
+%mor:	conj|because det|the n|+n|police+n|man cop|be n|cross prep|with pro:obj|me .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|5|NJCT 7|6|POBJ 8|4|PUNCT
+*MOT:	he's being eaten by a giant Amy .
+%mor:	pro:sub|he~aux|be&3S part|be-PRESP part|eat&PASTP prep|by det|a n|giant n:prop|Amy .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|3|JCT 6|7|DET 7|5|POBJ 8|7|APP 9|3|PUNCT
+%adu:	$EXA:be $ADD:he's $ADD:eaten-by-a-giant-amy $DEL:because-the-policeman $DEL:cross-with-me $MADD:-presp $DIST = 3 $REP = 0.14
+%cof:	$NOT
+
+*CHI:	because the policeman be [*] cross with me .
+%mor:	conj|because det|the n|+n|police+n|man cop|be n|cross prep|with pro:obj|me .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|5|NJCT 7|6|POBJ 8|4|PUNCT
+*MOT:	and now he's being thrown on the floor .
+%mor:	conj|and adv|now pro:sub|he~aux|be&3S part|be-PRESP part|throw&PASTP prep|on det|the n|floor .
+%gra:	1|5|LINK 2|5|JCT 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|JCT 7|5|JCT 8|9|DET 9|7|POBJ 10|5|PUNCT
+%adu:	$EXA:be $EXA:the $ADD:and-now-he's $ADD:thrown-on $ADD:floor $DEL:because $DEL:policeman $DEL:cross-with-me $MADD:-presp $DIST = 5 $REP = 0.25
+%cof:	$NOT
+
+*CHI:	I catch him .
+%mor:	pro:sub|I v|catch pro:obj|him .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*MOT:	you throw him for Lara and Lara will catch him .
+%mor:	pro|you v|throw pro:obj|him prep|for n:prop|Lara coord|and n:prop|Lara mod|will v|catch pro:obj|him .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|JCT 5|4|POBJ 6|9|LINK 7|9|SUBJ 8|9|AUX 9|5|COMP 10|9|OBJ 11|2|PUNCT
+%adu:	$EXA:him $EXA:catch $ADD:you-throw $ADD:for-lara-and-lara-will $ADD:him $DEL:i $DIST = 3 $REP = 0.20
+%cof:	$COF $ERR = umorph:auxverb;$TYP=omission
+
+*CHI:	I catch him .
+%mor:	pro:sub|I v|catch pro:obj|him .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*MOT:	wait for her to throw him .
+%mor:	v|wait prep|for pro:obj|her inf|to v|throw pro:obj|him .
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|5|INF 5|1|XCOMP 6|5|OBJ 7|1|PUNCT
+%adu:	$EXA:him $ADD:wait-for-her-to-throw $DEL:i-catch $DIST = 5 $REP = 0.17
+%cof:	$NOT
+
+*CHI:	he's in his house .
+%mor:	pro:sub|he~cop|be&3S prep|in pro:poss:det|his n|house .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|MOD 5|3|POBJ 6|2|PUNCT
+*MOT:	he's not anymore .
+%mor:	pro:sub|he~aux|be&3S neg|not adv|anymore .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|NEG 4|2|JCT 5|2|PUNCT
+%adu:	$EXA:he~be $ADD:not-anymore $DEL:in-his-house $MEXA:~&3s $DIST = 2 $REP = 0.33
+%cof:	$NOT
+
+*CHI:	he's in his house .
+%mor:	pro:sub|he~cop|be&3S prep|in pro:poss:det|his n|house .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|MOD 5|3|POBJ 6|2|PUNCT
+*MOT:	we were playing throwing games and you were going to join in but you spoiled it .
+%mor:	pro:sub|we aux|be&PAST part|play-PRESP part|throw-PRESP n|game-PL coord|and pro|you aux|be&PAST part|go-PRESP inf|to v|join adv|in conj|but pro|you v|spoil-PAST pro|it .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|MOD 5|3|OBJ 6|9|LINK 7|9|SUBJ 8|9|AUX 9|3|COMP 10|11|INF 11|9|XCOMP 12|11|JCT 13|15|LINK 14|15|SUBJ 15|11|CJCT 16|15|OBJ 17|3|PUNCT
+%adu:	$EXA:in $ADD:we-were-playing-throwing-games-and-you-were-going-to-join $ADD:but-you-spoiled-it $DEL:he's $DEL:his-house $DIST = 3 $REP = 0.06
+%cof:	$NOT
+
+*CHI:	not having the policeman now .
+%mor:	neg|not part|have-PRESP det|the n|+n|police+n|man adv|now .
+%gra:	1|2|NEG 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|JCT 6|2|PUNCT
+*MOT:	we've got the squirrel .
+%mor:	pro:sub|we~aux|have part|get&PASTP det|the n|squirrel .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+%adu:	$EXA:the $ADD:we've-got $ADD:squirrel $DEL:not-having $DEL:policeman-now $DIST = 2 $REP = 0.25
+%cof:	$NOT
+
+*CHI:	I will give it to you .
+%mor:	pro:sub|I mod|will v|give pro|it prep|to pro|you .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|JCT 6|5|POBJ 7|3|PUNCT
+*MOT:	don't want it now .
+%mor:	mod|do~neg|not v|want pro|it adv|now .
+%gra:	1|3|AUX 2|1|NEG 3|0|ROOT 4|3|OBJ 5|3|JCT 6|3|PUNCT
+%adu:	$EXA:it $ADD:don't-want $ADD:now $DEL:i-will-give $DEL:to-you $DIST = 1 $REP = 0.25
+%cof:	$NOT
+
+*CHI:	you pick it up .
+%mor:	pro|you v|pick pro|it adv|up .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|JCT 5|2|PUNCT
+*MOT:	have I got_to pick up yours as well ?
+%mor:	v|have pro:sub|I mod:aux|got_to v|pick prep|up pro:poss|yours adv|as adv|well ?
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|5|POBJ 7|8|JCT 8|6|JCT 9|4|PUNCT
+%adu:	$EXA:pick-up $ADD:have-i-got_to $ADD:yours-as-well $DEL:you $DEL:it $DIST = 2 $REP = 0.25
+%cof:	$NOT
+
+*CHI:	<haven't got any [/] any> [<] .
+%mor:	aux|have~neg|not part|get&PASTP qn|any .
+%gra:	1|3|AUX 2|1|NEG 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*MOT:	you've got loads of knee to sit on .
+%mor:	pro|you~aux|have part|get&PASTP n|load-PL prep|of n|knee inf|to v|sit adv|on .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|4|NJCT 6|5|POBJ 7|8|INF 8|3|XCOMP 9|8|JCT 10|3|PUNCT
+%adu:	$EXA:get $ADD:you've $ADD:loads-of-knee-to-sit-on $DEL:haven't $DEL:any $MEXA:&pastp $DIST = 1 $REP = 0.12
+%cof:	$COF $ERR = synt:subj;$TYP=omission
+
+*CHI:	I've got my <hoover> [>] .
+%mor:	pro:sub|I~aux|have part|get&PASTP pro:poss:det|my n|hoover .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|MOD 5|3|OBJ 6|3|PUNCT
+*MOT:	don't hoover up the squirrel .
+%mor:	mod|do~neg|not v|hoover prep|up det|the n|squirrel .
+%gra:	1|3|AUX 2|1|NEG 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+%adu:	$EXA:hoover $ADD:don't $ADD:up-the-squirrel $DEL:i've-got-my $DIST = 5 $REP = 0.20
+%cof:	$NOT
+
+*CHI:	can I hoover with (.) the hoover ?
+%mor:	mod|can pro:sub|I v|hoover prep|with det|the n|hoover ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+*MOT:	of course you can .
+%mor:	prep|of n|course pro|you mod|can .
+%gra:	1|4|JCT 2|1|POBJ 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+%adu:	$EXA:can $ADD:of-course-you $DEL:i-hoover-with-the-hoover $DIST = 2 $REP = 0.25
+%cof:	$NOT
+
+*CHI:	where does this fit ? [+ SR]
+%mor:	adv:wh|where v|do&3S det|this n|fit ?
+%gra:	1|2|LINK 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*MOT:	it [/] it fits there as well .
+%mor:	pro|it v|fit-3S adv|there prep|as adv|well .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|JCT 5|4|POBJ 6|2|PUNCT
+%adu:	$EXA:fit $ADD:it $ADD:there-as-well $DEL:where-does-this $MADD:-3s $DIST = 4 $REP = 0.20
+%cof:	$NOT
+
+*CHI:	where have we got_to put this ?
+%mor:	adv:wh|where v|have pro:sub|we mod:aux|got_to v|put&ZERO pro:dem|this ?
+%gra:	1|2|LINK 2|0|ROOT 3|5|SUBJ 4|5|AUX 5|2|COMP 6|5|OBJ 7|2|PUNCT
+*MOT:	let's have a look .
+%mor:	v|let~pro:obj|us v|have det|a v|look .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|COMP 4|5|DET 5|3|COMP 6|1|PUNCT
+%adu:	$EXA:have $ADD:let's $ADD:a-look $DEL:where $DEL:we-got_to-put-this $DIST = 1 $REP = 0.25
+%cof:	$NOT
+
+*CHI:	I don't want it .
+%mor:	pro:sub|I mod|do~neg|not v|want pro|it .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*MOT:	there was blue+tak on it but somebody nicked the blue+tak .
+%mor:	pro:exist|there cop|be&PAST&13S n|+adj|blue+n|tack prep|on pro|it conj|but pro:indef|somebody v|nick-PAST det|the n|+adj|blue+n|tack .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|JCT 5|4|POBJ 6|8|LINK 7|8|SUBJ 8|2|CJCT 9|10|DET 10|8|OBJ 11|2|PUNCT
+%adu:	$EXA:it $ADD:there-was-blue+tak-on $ADD:but-somebody-nicked-the-blue+tak $DEL:i-don't-want $DIST = 1 $REP = 0.10
+%cof:	$NOT
+
+*CHI:	it was Amy .
+%mor:	pro|it cop|be&PAST&13S n:prop|Amy .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*MOT:	because <it was> [//] the blue+tak was stolen before Amy was born .
+%mor:	conj|because det|the n|+adj|blue+n|tack aux|be&PAST&13S part|steal&PASTP prep|before n:prop|Amy cop|be&PAST&13S adj|born .
+%gra:	1|5|LINK 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|JCT 7|8|SUBJ 8|6|POBJ 9|5|XJCT 10|5|PUNCT
+%adu:	$EXA:be $EXA:amy $ADD:because-the-blue+tak $ADD:stolen-before $ADD:was-born $DEL:it $MEXA:&past&13s $DIST = 2 $REP = 0.22
+%cof:	$NOT
+
+*CHI:	all hoovered up .
+%mor:	post|all v|hoover-PAST adv|up .
+%gra:	1|0|INCROOT 2|1|ROOT 3|2|JCT 4|2|PUNCT
+*MOT:	I'm in the hoover .
+%mor:	pro:sub|I~cop|be&1S prep|in det|the n|hoover .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|2|PUNCT
+%adu:	$EXA:hoover $ADD:i'm-in-the $DEL:all $DEL:up $MDEL:-past $DIST = 3 $REP = 0.25
+%cof:	$NOT
+
+*CHI:	all hoovered up .
+%mor:	post|all v|hoover-PAST adv|up .
+%gra:	1|0|INCROOT 2|1|ROOT 3|2|JCT 4|2|PUNCT
+*MOT:	does that mean I'm in the hoover ?
+%mor:	mod|do&3S pro:dem|that v|mean pro:sub|I~aux|be&1S prep|in det|the n|hoover ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|4|INCROOT 6|5|JCT 7|8|DET 8|6|POBJ 9|5|PUNCT
+%adu:	$EXA:hoover $ADD:does-that-mean-i'm-in-the $DEL:all $DEL:up $MDEL:-past $DIST = 4 $REP = 0.14
+%cof:	$NOT
+
+*CHI:	what did you say ?
+%mor:	pro:wh|what mod|do&PAST pro|you v|say ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*MOT:	I said +"/.
+%mor:	pro:sub|I v|say&PAST +"/.
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+%adu:	$EXA:say $ADD:i $DEL:what-did-you $MADD:&past $DIST = 2 $REP = 0.50
+%cof:	$NOT
+
+*CHI:	I want to write something down .
+%mor:	pro:sub|I v|want inf|to v|write pro:indef|something adv|down .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|XCOMP 5|4|OBJ 6|4|JCT 7|2|PUNCT
+*MOT:	I'm writing something down .
+%mor:	pro:sub|I~aux|be&1S part|write-PRESP pro:indef|something adv|down .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|JCT 6|3|PUNCT
+%adu:	$EXA:write-something-down $ADD:i'm $DEL:i-want-to $MADD:-presp $DIST = 2 $REP = 0.75
+%cof:	$NOT
+
+*CHI:	this is a xxx book . [+ PI]
+%mor:	pro:dem|this cop|be&3S det|a n|book .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*MOT:	a what book ?
+%mor:	det|a adv|what n|book ?
+%gra:	1|3|DET 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+%adu:	$EXA:a $EXA:book $ADD:what $DEL:this-is $DIST = 1 $REP = 0.67
+%cof:	$CLQ $ERR = other;$TYP=omission
+
+*CHI:	and a baby called a xxx . [+ PI]
+%mor:	conj|and det|a n|baby v|call-PAST det|a .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*MOT:	a baby Amy .
+%mor:	det|a n|baby n:prop|Amy .
+%gra:	1|2|DET 2|0|INCROOT 3|2|APP 4|2|PUNCT
+%adu:	$EXA:a-baby $ADD:amy $DEL:and $DEL:called-a $DIST = 2 $REP = 0.67
+%cof:	$NOT
+
+*CHI:	she pricked her finger .
+%mor:	pro:sub|she v|prick-PAST pro:poss:det|her n|finger .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|2|OBJ 5|2|PUNCT
+*MOT:	and she lay down and she went to +..? [+ IN]
+%mor:	conj|and pro:sub|she v|lay adv|down coord|and pro:sub|she v|go&PAST prep|to +..?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|7|LINK 6|7|SUBJ 7|3|CJCT 8|7|JCT 9|3|PUNCT
+%adu:	$EXA:she $ADD:and $ADD:lay-down-and-she-went-to $DEL:pricked-her-finger $DIST = 3 $REP = 0.12
+%cof:	$NOT
+
+*CHI:	he went up the stairs and went hello .
+%mor:	pro:sub|he v|go&PAST prep|up det|the n|stair-PL coord|and v|go&PAST n|hello .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|2|CONJ 7|6|COORD 8|7|OBJ 9|2|PUNCT
+*MOT:	and they lived happily ever after .
+%mor:	conj|and pro:sub|they v|live-PAST adv|happy&dadj-LY adv|ever adv:tem|after .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|JCT 6|3|JCT 7|3|PUNCT
+%adu:	$EXA:and $ADD:they-lived-happily-ever-after $DEL:he-went-up-the-stairs $DEL:went-hello $DIST = 1 $REP = 0.17
+%cof:	$NOT
+
+*CHI:	Sleeping_Beauty .
+%mor:	n:prop|Sleeping_Beauty .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	I know Sleeping_Beauty .
+%mor:	pro:sub|I v|know n:prop|Sleeping_Beauty .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%adu:	$EXA:sleeping_beauty $ADD:i-know $EXPAN $DIST = 1 $REP = 0.33
+%cof:	$NOT
+
+*CHI:	can we go up and down the drive ?
+%mor:	mod|can pro:sub|we v|go adv|up coord|and prep|down det|the n|drive ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|CONJ 6|5|COORD 7|8|DET 8|6|POBJ 9|3|PUNCT
+*MOT:	come here and tell me what you want to eat .
+%mor:	v|come adv|here coord|and v|tell pro:obj|me pro:wh|what pro|you v|want inf|to v|eat .
+%gra:	1|0|ROOT 2|1|JCT 3|1|CONJ 4|3|COORD 5|4|OBJ 6|8|LINK 7|8|SUBJ 8|4|COMP 9|10|INF 10|8|XCOMP 11|1|PUNCT
+%adu:	$EXA:and $ADD:come-here $ADD:tell-me-what-you-want-to-eat $DEL:can-we-go-up $DEL:down-the-drive $DIST = 1 $REP = 0.10
+%cof:	$NOT
+
+*CHI:	I want to +... [+ IN]
+%mor:	pro:sub|I v|want prep|to +...
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|PUNCT
+*MOT:	I can't go up and down the drive with you .
+%mor:	pro:sub|I mod|can~neg|not v|go adv|up coord|and prep|down det|the n|drive prep|with pro|you .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|JCT 6|4|CONJ 7|6|COORD 8|9|DET 9|7|POBJ 10|7|JCT 11|10|POBJ 12|4|PUNCT
+%adu:	$EXA:i $ADD:can't-go-up-and-down-the-drive-with-you $DEL:want-to $DIST = 2 $REP = 0.10
+%cof:	$NOT
+
+*CHI:	where can I sit ?
+%mor:	adv:wh|where mod|can pro:sub|I v|sit ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*MOT:	you can get your chair .
+%mor:	pro|you mod|can v|get pro:poss:det|your n|chair .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|MOD 5|3|OBJ 6|3|PUNCT
+%adu:	$EXA:can $ADD:you $ADD:get-your-chair $DEL:where $DEL:i-sit $DIST = 1 $REP = 0.20
+%cof:	$NOT
+
+*CHI:	does this need a wash ?
+%mor:	mod|do&3S pro:dem|this v|need det|a n|wash ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*MOT:	Amy's cup needs a wash .
+%mor:	n:prop|Amy~poss|s n|cup v|need-3S det|a n|wash .
+%gra:	1|4|LINK 2|1|POSS 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+%adu:	$EXA:need-a-wash $ADD:amy's-cup $DEL:does-this $MADD:-3s $DIST = 2 $REP = 0.60
+%cof:	$NOT
+
+*CHI:	can I have lots_of things ?
+%mor:	mod|can pro:sub|I v|have qn|lots_of n|thing-PL ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|5|QUANT 5|3|OBJ 6|3|PUNCT
+*MOT:	you can have everything there is .
+%mor:	pro|you mod|can v|have pro:indef|everything pro:exist|there cop|be&3S .
+%gra:	1|3|SUBJ 2|3|AUX 3|6|LINK 4|3|OBJ 5|6|SUBJ 6|0|ROOT 7|6|PUNCT
+%adu:	$EXA:can-have $ADD:you $ADD:everything-there-is $DEL:i $DEL:lots_of-things $DIST = 1 $REP = 0.33
+%cof:	$NOT
+
