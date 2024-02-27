@@ -1,0 +1,927 @@
+*CHI:	what do you have_to tape me ? 7694_12333
+%mor:	pro:wh|what mod|do pro|you mod:aux|have_to v|tape pro:obj|me ?
+%gra:	1|5|LINK 2|5|AUX 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|OBJ 7|5|PUNCT
+*CAR:	we're gonna tape you for my job, okay ? 12333_16073
+%mor:	pro:sub|we~aux|be&PRES part|go-PRESP~inf|to v|tape pro|you prep|for pro:poss:det|my n|job cm|cm adj|okay ?
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|INF 5|3|XCOMP 6|5|OBJ 7|5|JCT 8|9|MOD 9|7|POBJ 10|9|LP 11|5|JCT 12|3|PUNCT
+%adu:	$EXA:tape-you $ADD:we're-gonna $ADD:for-my-job-,-okay $DEL:what-do $DEL:have_to $DEL:me $DIST = 1 $REP = 0.22
+%cof:	$NOT
+
+*CHI:	just in there . 69693_72553
+%mor:	adv|just prep|in pro:dem|there .
+%gra:	1|0|JCT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+*CAR:	what's in there ? 73534_74266
+%mor:	pro:wh|what~cop|be&3S prep|in pro:dem|there ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|3|POBJ 5|2|PUNCT
+%adu:	$EXA:in-there $ADD:what's $DEL:just $DIST = 2 $REP = 0.67
+%cof:	$CLQ $ERR = synt:subj;$TYP=omission $ERR = synt:verb;$TYP=omission
+
+*CHI:	I didn't do nothin(g) to Tik(i) . 88895_92653
+%mor:	pro:sub|I mod|do&PAST~neg|not v|do pro:indef|nothing prep|to n:prop|Tiki .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|OBJ 6|4|JCT 7|6|POBJ 8|4|PUNCT
+*CAR:	Emily, talk to me . 98738_101330
+%mor:	n:prop|Emily cm|cm n|talk prep|to pro:obj|me .
+%gra:	1|3|MOD 2|1|LP 3|0|INCROOT 4|3|JCT 5|4|POBJ 6|3|PUNCT
+%adu:	$EXA:to $ADD:emily-,-talk $ADD:me $DEL:i-didn't-do-nothing $DEL:tiki $DIST = 3 $REP = 0.20
+%cof:	$NOT
+
+*CHI:	he went back there . 107182_110358
+%mor:	pro:sub|he v|go&PAST adv|back adv|there .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|JCT 5|2|PUNCT
+*CAR:	back where ? 110358_111422
+%mor:	adv|back adv:wh|where ?
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+%adu:	$EXA:back $ADD:where $DEL:he-went $DEL:there $DIST = 1 $REP = 0.50
+%cof:	$CLQ $ERR = 0
+
+*CHI:	I don't believe it (.) he went back . 111422_116042
+%mor:	pro:sub|I mod|do~neg|not v|believe pro|it pro:sub|he v|go&PAST adv|back .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|OBJ 6|7|SUBJ 7|4|COMP 8|7|JCT 9|4|PUNCT
+*CAR:	did he go see James' mommy and daddy ? 116042_119401
+%mor:	mod|do&PAST pro:sub|he v|go co|see n:prop|James~poss|s n|mommy coord|and n|daddy ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|7|COM 5|7|MOD 6|5|POSS 7|3|OBJ 8|7|CONJ 9|8|COORD 10|3|PUNCT
+%adu:	$EXA:he-go $ADD:did $ADD:see-james'-mommy-and-daddy $DEL:i-don't-believe-it $DEL:back $MDEL:&past $DIST = 1 $REP = 0.25
+%cof:	$NOT
+
+*CHI:	they're somewhere, but he's livin(g) with the mom and dad . 127746_134115
+%mor:	pro:sub|they~aux|be&PRES adv|somewhere cm|cm conj|but pro:sub|he~aux|be&3S part|live-PRESP prep|with det|the n|mom coord|and n|dad .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|3|LP 5|8|LINK 6|8|SUBJ 7|8|AUX 8|2|CJCT 9|8|JCT 10|11|DET 11|9|POBJ 12|11|CONJ 13|12|COORD 14|2|PUNCT
+*CAR:	they live in California . 134115_136707
+%mor:	pro:sub|they v|live prep|in n:prop|California .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|3|POBJ 5|2|PUNCT
+%adu:	$EXA:live $ADD:they $ADD:in-california $DEL:they're-somewhere-,-but-he's $DEL:with-the-mom-and-dad $MDEL:-presp $DIST = 1 $REP = 0.25
+%cof:	$NOT
+
+*CHI:	I'm done swimmin(g) . 153116_154679
+%mor:	pro:sub|I~aux|be&1S part|do&PASTP part|swim-PRESP .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*CAR:	you're done ? 154679_155012
+%mor:	pro|you~aux|be&PRES part|do&PASTP ?
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|PUNCT
+%adu:	$EXA:do $ADD:you're $DEL:i'm $DEL:swimming $MEXA:&pastp $DIST = 1 $REP = 0.50
+%cof:	 $NOT
+
+*CHI:	+< this is &uh tied a little tight . 172050_174660
+%mor:	pro:dem|this aux|be&3S part|tie-PASTP det|a adj|little adj|tight .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|6|DET 5|6|MOD 6|3|JCT 7|3|PUNCT
+*CAR:	it's tied tight ? 174660_175707
+%mor:	pro|it~aux|be&3S part|tie-PASTP adv|tight ?
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|3|PUNCT
+%adu:	$EXA:tie-tight $ADD:it's $DEL:this-is $DEL:a-little $MEXA:-pastp $DIST = 1 $REP = 0.67
+%cof:	$NOT
+
+*CHI:	+< this is &uh tied a little tight . 172050_174660
+%mor:	pro:dem|this aux|be&3S part|tie-PASTP det|a adj|little adj|tight .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|6|DET 5|6|MOD 6|3|JCT 7|3|PUNCT
+*CAR:	what'd you do with Cassandra this week ? 180262_183836
+%mor:	rel|what~mod|genmod pro|you v|do prep|with n:prop|Cassandra det|this n|week ?
+%gra:	1|2|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|5|POBJ 7|8|DET 8|6|OBJ 9|4|PUNCT
+%adu:	$EXA:this $ADD:what'd-you-do-with-cassandra $ADD:week $DEL:is-tied-a-little-tight $DIST = 3 $REP = 0.14
+%cof:	$NOT
+
+*CHI:	wait (un)til you see my new winter coat . 211567_216354
+%mor:	v|wait prep|until pro|you v|see pro:poss:det|my adj|new n|winter n|coat .
+%gra:	1|0|ROOT 2|1|JCT 3|4|SUBJ 4|2|POBJ 5|8|MOD 6|8|MOD 7|8|MOD 8|1|OBJ 9|1|PUNCT
+*CAR:	you got a new coat ? 216354_217501
+%mor:	pro|you v|get&PAST det|a adj|new n|coat ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|OBJ 6|2|PUNCT
+%adu:	$EXA:you $EXA:new-coat $ADD:got-a $DEL:wait-until $DEL:see-my $DEL:winter $DIST = 1 $REP = 0.60
+%cof:	$NOT
+
+*CHI:	even it's snowin(g) [=! whispering] . 217501_220594
+%mor:	adv|even pro|it~aux|be&3S part|snow-PRESP .
+%gra:	1|4|JCT 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|PUNCT
+*CAR:	for when it's snowing . 220594_222289
+%mor:	conj|for conj|when pro|it~aux|be&3S part|snow-PRESP .
+%gra:	1|5|LINK 2|5|LINK 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|PUNCT
+%adu:	$EXA:it~be-snow $ADD:for-when $DEL:even $MEXA:~&3s $MEXA:-presp $DIST = 1 $REP = 0.50
+%cof:	$COF $ERR = umorph:prep;$TYP=subst
+
+*CHI:	we can take that off too . 240011_243752
+%mor:	pro:sub|we mod|can v|take pro:dem|that adv|off adv|too .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|JCT 6|3|JCT 7|3|PUNCT
+*CAR:	oh (.) the Poppel (.) take its hat off . 243752_247242
+%mor:	co|oh det|the n:prop|Poppel v|take pro:poss:det|its n|hat adv|off .
+%gra:	1|4|COM 2|3|DET 3|4|SUBJ 4|0|ROOT 5|6|MOD 6|4|OBJ 7|4|JCT 8|4|PUNCT
+%adu:	$EXA:take $EXA:off $ADD:oh-the-poppel $ADD:its-hat $DEL:we-can $DEL:that $DEL:too $DIST = 1 $REP = 0.29
+%cof:	$NOT
+
+*CHI:	well (.) I gave it to you, it's your birthday . 252529_258962
+%mor:	co|well pro:sub|I v|give&PAST pro|it prep|to pro|you cm|cm pro|it~cop|be&3S pro:poss:det|your n|+n|birth+n|day .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|JCT 6|5|POBJ 7|6|LP 8|9|SUBJ 9|3|COMP 10|11|MOD 11|9|PRED 12|3|PUNCT
+*CAR:	thank you . 258962_260111
+%mor:	v|thank pro|you .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+%adu:	$EXA:you $ADD:thank $DEL:well-i-gave-it-to $DEL:,-it's-your-birthday $DIST = 1 $REP = 0.50
+%cof:	$NOT
+
+*CHI:	well (.) I gave it to you, it's your birthday . 252529_258962
+%mor:	co|well pro:sub|I v|give&PAST pro|it prep|to pro|you cm|cm pro|it~cop|be&3S pro:poss:det|your n|+n|birth+n|day .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|JCT 6|5|POBJ 7|6|LP 8|9|SUBJ 9|3|COMP 10|11|MOD 11|9|PRED 12|3|PUNCT
+*CAR:	when is my birthday ? 260111_261955
+%mor:	conj|when aux|be&3S pro:poss:det|my n|+n|birth+n|day ?
+%gra:	1|4|LINK 2|4|AUX 3|4|MOD 4|0|INCROOT 5|4|PUNCT
+%adu:	$EXA:birth+day $ADD:when-is-my $DEL:well-i-gave-it-to-you-,-it's-your $DIST = 2 $REP = 0.25
+%cof:	$NOT
+
+*CHI:	then she picks the for(k) up (.) then she goes . 286908_290001
+%mor:	adv:tem|then pro:sub|she v|pick-3S det|the n|fork adv|up adv:tem|then pro:sub|she v|go-3S .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|JCT 7|9|JCT 8|9|SUBJ 9|3|CJCT 10|3|PUNCT
+*CAR:	she eats it ? 290001_293093
+%mor:	pro:sub|she v|eat-3S pro|it ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%adu:	$EXA:she $ADD:eats-it $DEL:then $DEL:picks-the-fork-up-then-she-goes $DIST = 1 $REP = 0.33
+%cof:	$NOT
+
+*CHI:	when is her paws gonna drow [: grow] up ? 296369_299593
+%mor:	conj|when aux|be&3S pro:poss:det|her n|paw-PL part|go-PRESP~inf|to v|grow adv|up ?
+%gra:	1|4|LINK 2|4|AUX 3|4|MOD 4|0|ROOT 5|4|XMOD 6|7|INF 7|5|XCOMP 8|7|JCT 9|4|PUNCT
+*CAR:	dry up ? 299593_300407
+%mor:	v|dry prep|up ?
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+%adu:	$EXA:up $ADD:dry $DEL:when-is-her-paws-gonna-grow $DIST = 1 $REP = 0.50
+%cof:	$NOT
+
+*CHI:	that one matches your (.) pants . 339145_342286
+%mor:	det|that pro:indef|one v|match-3S pro:poss:det|your n:pt|pants .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|5|MOD 5|3|OBJ 6|3|PUNCT
+*CAR:	mm hm (.) (be)cause that one's blue . 342286_343916
+%mor:	co|mm co|hm conj|because det|that pro:indef|one~cop|be&3S adj|blue .
+%gra:	1|6|COM 2|6|COM 3|6|LINK 4|5|DET 5|6|SUBJ 6|0|ROOT 7|6|PRED 8|6|PUNCT
+%adu:	$EXA:that $ADD:mm-hm-because $ADD:one's-blue $DEL:one-matches-your-pants $DIST = 1 $REP = 0.17
+%cof:	$NOT
+
+*CHI:	it [/] it won't stay on . 364016_368470
+%mor:	pro|it mod|will~neg|not v|stay adv|on .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|JCT 6|4|PUNCT
+*CAR:	well what is it ? 368470_370183
+%mor:	co|well pro:wh|what aux|be&3S pro|it ?
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+%adu:	$EXA:it $ADD:well-what-is $DEL:won't-stay-on $DIST = 1 $REP = 0.25
+%cof:	$NOT
+
+*CHI:	it won't stay on . 372943_376135
+%mor:	pro|it mod|will~neg|not v|stay adv|on .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|JCT 6|4|PUNCT
+*CAR:	is it your bandaid ? 376135_377017
+%mor:	aux|be&3S pro|it pro:poss:det|your n|bandaid ?
+%gra:	1|0|INCROOT 2|1|OBJ 3|4|MOD 4|2|OBJ 5|1|PUNCT
+%adu:	$EXA:it $ADD:is $ADD:your-bandaid $DEL:won't-stay-on $DIST = 1 $REP = 0.25
+%cof:	$NOT
+
+*CHI:	now (.) now I can just sit . 398545_402137
+%mor:	adv|now adv|now pro:sub|I mod|can adv|just v|sit .
+%gra:	1|6|JCT 2|6|JCT 3|6|SUBJ 4|6|AUX 5|6|JCT 6|0|ROOT 7|6|PUNCT
+*CAR:	+< here, face me, yeah, sit down . 401137_403831
+%mor:	adv|here cm|cm v|face pro:obj|me cm|cm co|yeah cm|cm v|sit adv|down .
+%gra:	1|3|JCT 2|1|LP 3|0|ROOT 4|3|OBJ 5|3|LP 6|8|COM 7|8|SUBJ 8|3|COMP 9|8|JCT 10|3|PUNCT
+%adu:	$EXA:sit $ADD:here-,-face-me-,-yeah-, $ADD:down $DEL:now-now-i-can-just $DIST = 1 $REP = 0.11
+%cof:	$NOT
+
+*CHI:	if I give a present to you . 413838_417745
+%mor:	conj|if pro:sub|I v|give det|a n|present prep|to pro|you .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|5|NJCT 7|6|POBJ 8|3|PUNCT
+*CAR:	thank you . 417745_418692
+%mor:	v|thank pro|you .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+%adu:	$EXA:you $ADD:thank $DEL:if-i-give-a-present-to $DIST = 1 $REP = 0.50
+%cof:	$NOT
+
+*CHI:	if I give a present to you (.) your birthday comes up . 418692_424710
+%mor:	conj|if pro:sub|I v|give det|a n|present prep|to pro|you pro:poss:det|your n|+n|birth+n|day v|come-3S adv|up .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|10|SUBJ 6|10|JCT 7|10|SUBJ 8|9|MOD 9|10|SUBJ 10|3|COMP 11|10|JCT 12|3|PUNCT
+*CAR:	yeah, it's comin(g) up soon huh ? 424710_426590
+%mor:	co|yeah cm|cm pro|it~aux|be&3S part|come-PRESP adv|up adv|soon co|huh ?
+%gra:	1|5|COM 2|1|LP 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|JCT 7|5|JCT 8|5|COM 9|5|PUNCT
+%adu:	$EXA:come-up $ADD:yeah-,-it's $ADD:soon-huh $DEL:if-i-give-a-present-to-you-your-birthday $MSUB:-presp $DIST = 1 $REP = 0.29
+%cof:	$NOT
+
+*CHI:	if I give a present to you (.) your birthday comes up . 418692_424710
+%mor:	conj|if pro:sub|I v|give det|a n|present prep|to pro|you pro:poss:det|your n|+n|birth+n|day v|come-3S adv|up .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|10|SUBJ 6|10|JCT 7|10|SUBJ 8|9|MOD 9|10|SUBJ 10|3|COMP 11|10|JCT 12|3|PUNCT
+*CAR:	and Grammy's is comin(g) up when ? 426590_428951
+%mor:	conj|and n:prop|Grammy~poss|s aux|be&3S part|come-PRESP adv|up conj|when ?
+%gra:	1|5|LINK 2|5|SUBJ 3|2|POSS 4|5|AUX 5|0|ROOT 6|5|JCT 7|5|XJCT 8|5|PUNCT
+%adu:	$EXA:come-up $ADD:and-grammy's-is $ADD:when $DEL:if-i-give-a-present-to-you-your-birthday $MSUB:-presp $DIST = 2 $REP = 0.33
+%cof:	$NOT
+
+*CHI:	and Uncle_Dave's birthday . 428950_431710
+%mor:	coord|and n:prop|Uncle_Dave~poss|s n|+n|birth+n|day .
+%gra:	1|0|INCROOT 2|4|MOD 3|2|POSS 4|1|COORD 5|1|PUNCT
+*CAR:	Grammy's birthday is coming up in one week . 431710_434719
+%mor:	n:prop|Grammy~poss|s n|+n|birth+n|day aux|be&3S part|come-PRESP adv|up prep|in det:num|one n|week .
+%gra:	1|5|LINK 2|1|POSS 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|JCT 7|5|JCT 8|9|QUANT 9|7|POBJ 10|5|PUNCT
+%adu:	$EXA:birth+day $ADD:grammy's $ADD:is-coming-up-in-one-week $DEL:and-uncle_dave's $DIST = 1 $REP = 0.12
+%cof:	$NOT
+
+*CHI:	she's still fourteen, and I can barely hold her . 451395_457347
+%mor:	pro:sub|she~cop|be&3S adj|still det:num|fourteen cm|cm coord|and pro:sub|I mod|can adv|bare&dadj-LY v|hold pro:obj|her .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|6|QUANT 5|4|LP 6|10|LINK 7|10|SUBJ 8|10|AUX 9|10|JCT 10|2|CJCT 11|10|OBJ 12|2|PUNCT
+*CAR:	she's heavy (.) right ? 457347_459358
+%mor:	pro:sub|she~cop|be&3S adj|heavy n|right ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|2|PRED 5|2|PUNCT
+%adu:	$EXA:she~be $ADD:heavy-right $DEL:still-fourteen-,-and-i-can-barely-hold-her $MEXA:~&3s $DIST = 1 $REP = 0.33
+%cof:	$NOT
+
+*CHI:	and soon as I pick my milk cup up . 470413_473506
+%mor:	conj|and adv|soon conj|as pro:sub|I v|pick pro:poss:det|my n|milk n|cup adv|up .
+%gra:	1|0|INCROOT 2|1|COORD 3|5|LINK 4|5|SUBJ 5|2|CJCT 6|8|MOD 7|8|MOD 8|5|OBJ 9|5|JCT 10|1|PUNCT
+*CAR:	your milk cup ? 473506_475569
+%mor:	pro:poss:det|your n|milk n|cup ?
+%gra:	1|2|MOD 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+%adu:	$EXA:milk-cup $ADD:your $DEL:and-soon-as-i-pick-my $DEL:up $DIST = 1 $REP = 0.67
+%cof:	$NOT
+
+*CHI:	oh (.) you forgot to pull them up . 497079_500255
+%mor:	co|oh pro|you v|forget&PAST inf|to v|pull pro:obj|them adv|up .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|XCOMP 6|5|OBJ 7|5|JCT 8|3|PUNCT
+*CAR:	oh, I'm sorry, you're right, here . 500255_503115
+%mor:	co|oh cm|cm pro:sub|I~aux|be&1S adj|sorry cm|cm pro|you~aux|be&PRES adj|right cm|cm adv|here .
+%gra:	1|4|COM 2|1|LP 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|5|LP 7|9|SUBJ 8|9|AUX 9|5|XMOD 10|9|LP 11|9|JCT 12|4|PUNCT
+%adu:	$EXA:oh $ADD:,-i'm-sorry-,-you're-right-,-here $DEL:you-forgot-to-pull-them-up $DIST = 1 $REP = 0.11
+%cof:	$NOT
+
+*CHI:	I pull (th)em up for you (.) I can pull (th)em up for you . 503115_507088
+%mor:	pro:sub|I v|pull pro:obj|them adv|up prep|for pro|you pro:sub|I mod|can v|pull pro:obj|them adv|up prep|for pro|you .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|JCT 5|2|JCT 6|5|POBJ 7|9|SUBJ 8|9|AUX 9|2|COMP 10|9|OBJ 11|9|JCT 12|9|JCT 13|12|POBJ 14|2|PUNCT
+*CAR:	you have_to be careful though . 507088_508301
+%mor:	pro|you mod:aux|have_to cop|be n|care-FUL adv|though .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|PRED 5|4|NJCT 6|3|PUNCT
+%adu:	$EXA:you $ADD:have_to-be-careful-though $DEL:i-pull-them-up-for $DEL:i-can-pull-them-up-for-you $DIST = 1 $REP = 0.20
+%cof:	$NOT
+
+*CHI:	I pull (th)em up for you (.) I can pull (th)em up for you . 503115_507088
+%mor:	pro:sub|I v|pull pro:obj|them adv|up prep|for pro|you pro:sub|I mod|can v|pull pro:obj|them adv|up prep|for pro|you .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|JCT 5|2|JCT 6|5|POBJ 7|9|SUBJ 8|9|AUX 9|2|COMP 10|9|OBJ 11|9|JCT 12|9|JCT 13|12|POBJ 14|2|PUNCT
+*CAR:	what are these, do you know what they're called ? 509847_513023
+%mor:	pro:wh|what aux|be&PRES det|these cm|cm v|do pro|you v|know pro:wh|what pro:sub|they~aux|be&PRES part|call-PASTP ?
+%gra:	1|7|SUBJ 2|7|AUX 3|4|DET 4|7|SUBJ 5|7|JCT 6|7|SUBJ 7|0|ROOT 8|11|LINK 9|11|SUBJ 10|11|AUX 11|7|COMP 12|7|PUNCT
+%adu:	$EXA:you $ADD:what-are-these-,-do $ADD:know-what-they're-called $DEL:i-pull-them-up-for $DEL:i-can-pull-them-up-for-you $DIST = 3 $REP = 0.10
+%cof:	$NOT
+
+*CHI:	I pull (th)em up for you (.) I can pull (th)em up for you . 503115_507088
+%mor:	pro:sub|I v|pull pro:obj|them adv|up prep|for pro|you pro:sub|I mod|can v|pull pro:obj|them adv|up prep|for pro|you .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|JCT 5|2|JCT 6|5|POBJ 7|9|SUBJ 8|9|AUX 9|2|COMP 10|9|OBJ 11|9|JCT 12|9|JCT 13|12|POBJ 14|2|PUNCT
+*CAR:	they're antennas (.) for the microphones . 513023_519956
+%mor:	pro:sub|they~aux|be&PRES n|antenna-PL prep|for det|the n|microphone-PL .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|INCROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+%adu:	$EXA:for $ADD:they're-antennas $ADD:the-microphones $DEL:i-pull-them-up $DEL:you-i-can-pull-them-up-for-you $DIST = 4 $REP = 0.20
+%cof:	$NOT
+
+*CHI:	oh, I gave thi(s) (.) I'm giving that . 575863_579604
+%mor:	co|oh cm|cm pro:sub|I v|give&PAST det|this pro:sub|I~aux|be&1S part|give-PRESP rel|that .
+%gra:	1|4|COM 2|1|LP 3|4|SUBJ 4|0|ROOT 5|8|DET 6|8|SUBJ 7|8|AUX 8|4|COMP 9|8|OBJ 10|4|PUNCT
+*CAR:	for my birthday, thank you . 579604_581465
+%mor:	conj|for pro:poss:det|my n|+n|birth+n|day cm|cm v|thank pro|you .
+%gra:	1|3|LINK 2|3|MOD 3|5|SUBJ 4|3|LP 5|0|ROOT 6|5|OBJ 7|5|PUNCT
+%adu:	$EXA:cm $ADD:for-my-birthday $ADD:thank-you $DEL:oh $DEL:i-gave-this-i'm-giving-that $DIST = 1 $REP = 0.17
+%cof:	$NOT
+
+*CHI:	oh, I gave thi(s) (.) I'm giving that . 575863_579604
+%mor:	co|oh cm|cm pro:sub|I v|give&PAST det|this pro:sub|I~aux|be&1S part|give-PRESP rel|that .
+%gra:	1|4|COM 2|1|LP 3|4|SUBJ 4|0|ROOT 5|8|DET 6|8|SUBJ 7|8|AUX 8|4|COMP 9|8|OBJ 10|4|PUNCT
+*CAR:	wait, come here, talk to me . 581465_583178
+%mor:	co|wait cm|cm v|come adv|here cm|cm n|talk prep|to pro:obj|me .
+%gra:	1|3|COM 2|1|LP 3|0|ROOT 4|3|JCT 5|3|LP 6|5|OBJ 7|6|NJCT 8|7|POBJ 9|3|PUNCT
+%adu:	$EXA:cm $ADD:wait $ADD:come-here-,-talk-to-me $DEL:oh $DEL:i-gave-this-i'm-giving-that $DIST = 2 $REP = 0.12
+%cof:	$NOT
+
+*CHI:	we can read doggies books Carey . 587317_593650
+%mor:	pro:sub|we mod|can v|read&ZERO n|dog-DIM-PL n|book-PL n:prop|Carey .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|MOD 5|3|OBJ 6|5|APP 7|3|PUNCT
+*CAR:	what can we do ? 593650_595546
+%mor:	pro:wh|what mod|can pro:sub|we v|do ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+%adu:	$EXA:can-we $ADD:what $ADD:do $DEL:read-doggies-books-carey $DIST = 1 $REP = 0.50
+%cof:	$NOT
+
+*CHI:	+< it's my toy I left here . 600483_603925
+%mor:	pro|it~cop|be&3S pro:poss:det|my n|toy pro:sub|I v|leave&PAST adv|here .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|2|PRED 5|6|SUBJ 6|2|CJCT 7|6|JCT 8|2|PUNCT
+*CAR:	come here . 605472_606119
+%mor:	v|come adv|here .
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+%adu:	$EXA:here $ADD:come $DEL:it's-my-toy-i-left $DIST = 2 $REP = 0.50
+%cof:	$NOT
+
+*CHI:	these belong to the train . 625519_629742
+%mor:	det|these v|belong prep|to det|the n|train .
+%gra:	1|2|DET 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|2|PUNCT
+*CAR:	come talk to me . 629742_630375
+%mor:	v|come n|talk prep|to pro:obj|me .
+%gra:	1|0|ROOT 2|1|OBJ 3|2|NJCT 4|3|POBJ 5|1|PUNCT
+%adu:	$EXA:to $ADD:come-talk $ADD:me $DEL:these-belong $DEL:the-train $DIST = 1 $REP = 0.25
+%cof:	$NOT
+
+*CHI:	&ah (.) this belongs . 632519_636277
+%mor:	pro:dem|this v|belong-3S .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*CAR:	okay, what'd you do this week ? 636277_638038
+%mor:	co|okay cm|cm rel|what~mod|genmod pro|you v|do det|this n|week ?
+%gra:	1|6|COM 2|1|LP 3|4|LINK 4|6|AUX 5|6|SUBJ 6|0|ROOT 7|8|DET 8|6|OBJ 9|6|PUNCT
+%adu:	$EXA:this $ADD:okay-,-what'd-you-do $ADD:week $DEL:belongs $DIST = 1 $REP = 0.14
+%cof:	$NOT
+
+*CHI:	these belong to +/. 638038_638952
+%mor:	det|these v|belong prep|to +/.
+%gra:	1|2|DET 2|0|ROOT 3|2|JCT 4|2|PUNCT
+*CAR:	you gotta talk to me, and then we can play . 638952_640315
+%mor:	pro|you mod:aux|gotta v|talk prep|to pro:obj|me cm|cm coord|and adv:tem|then pro:sub|we mod|can v|play .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|4|POBJ 6|3|LP 7|3|CONJ 8|11|JCT 9|11|SUBJ 10|11|AUX 11|7|COORD 12|3|PUNCT
+%adu:	$EXA:to $ADD:you-gotta-talk $ADD:me-,-and-then-we-can-play $DEL:these-belong $DIST = 1 $REP = 0.09
+%cof:	$NOT
+
+*CHI:	I gotta go home and xxx . 653083_655195
+%mor:	pro:sub|I mod:aux|gotta v|go n|home coord|and .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|COORD 6|3|PUNCT
+*CAR:	you're gonna run home ? 655195_657056
+%mor:	pro|you~aux|be&PRES part|go-PRESP~inf|to n|run n|home ?
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|INF 5|6|MOD 6|3|JCT 7|3|PUNCT
+%adu:	$EXA:home $ADD:you're-gonna-run $DEL:i-gotta-go $DEL:and $DIST = 1 $REP = 0.25
+%cof:	$NOT
+
+*CHI:	we can read these books for now . 677704_681926
+%mor:	pro:sub|we mod|can v|read&ZERO det|these n|book-PL prep|for adv|now .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|5|NJCT 7|6|POBJ 8|3|PUNCT
+*CAR:	or we're gonna read a book ? 689324_692583
+%mor:	conj|or pro:sub|we~aux|be&PRES part|go-PRESP~inf|to v|read&ZERO det|a n|book ?
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|INF 6|4|XCOMP 7|8|DET 8|6|OBJ 9|4|PUNCT
+%adu:	$EXA:read $EXA:book $ADD:or-we're-gonna $ADD:a $DEL:we-can $DEL:these $DEL:for-now $MEXA:&zero $MDEL:-pl $DIST = 4 $REP = 0.33
+%cof:	$NOT
+
+*CHI:	so, when I say ready, set, go . 697786_701145
+%mor:	adv|so cm|cm adv:wh|when pro:sub|I v|say adj|ready cm|cm v|set&ZERO cm|cm v|go .
+%gra:	1|3|JCT 2|1|LP 3|5|LINK 4|5|SUBJ 5|0|ROOT 6|5|JCT 7|6|LP 8|6|XMOD 9|8|LP 10|8|COMP 11|5|PUNCT
+*CAR:	come on, let's go read then . 701145_706981
+%mor:	v|come adv|on cm|cm v|let~pro:obj|us v|go v|read&ZERO adv:tem|then .
+%gra:	1|0|ROOT 2|1|JCT 3|7|SUBJ 4|7|AUX 5|7|JCT 6|7|SUBJ 7|1|COMP 8|7|OBJ 9|1|PUNCT
+%adu:	$EXA:cm $EXA:go $ADD:come-on $ADD:let's $ADD:read-then $DEL:so $DEL:when-i-say-ready-,-set-, $DIST = 1 $REP = 0.29
+%cof:	$NOT
+
+*CHI:	oh I . 713314_716323
+%mor:	co|oh pro:sub|I .
+%gra:	1|2|COM 2|0|ROOT 3|2|PUNCT
+*CAR:	I got it . 716323_716856
+%mor:	pro:sub|I v|get&PAST pro|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%adu:	$EXA:i $ADD:got-it $DEL:oh $DIST = 1 $REP = 0.33
+%cof:	$NOT
+
+*CHI:	oh I . 713314_716323
+%mor:	co|oh pro:sub|I .
+%gra:	1|2|COM 2|0|ROOT 3|2|PUNCT
+*CAR:	I think . 716856_717703
+%mor:	pro:sub|I v|think .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+%adu:	$EXA:i $ADD:think $DEL:oh $DIST = 2 $REP = 0.50
+%cof:	$NOT
+
+*CHI:	Care(y) (.) I gatta [: gotta] go ho:me . 735908_740446
+%mor:	n:prop|Carey pro:sub|I mod:aux|gotta v|go n|home .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|4|PUNCT
+*CAR:	no you don't have_to go home . 740446_741677
+%mor:	co|no pro|you mod|do~neg|not mod:aux|have_to v|go n|home .
+%gra:	1|6|COM 2|6|SUBJ 3|6|AUX 4|3|NEG 5|6|AUX 6|0|ROOT 7|6|JCT 8|6|PUNCT
+%adu:	$EXA:go-home $ADD:no-you-don't-have_to $DEL:carey-i-gotta $DIST = 1 $REP = 0.33
+%cof:	$NOT
+
+*CHI:	because I not fair at the racin(g) part . 744269_749390
+%mor:	conj|because pro:sub|I neg|not adv|fair prep|at det|the part|race-PRESP n|part .
+%gra:	1|0|INCROOT 2|1|COORD 3|2|NEG 4|2|JCT 5|2|JCT 6|8|DET 7|8|MOD 8|5|POBJ 9|1|PUNCT
+*CAR:	because why ? 749390_752733
+%mor:	conj|because adv:wh|why ?
+%gra:	1|2|LINK 2|0|ROOT 3|2|PUNCT
+%adu:	$EXA:because $ADD:why $DEL:i-not-fair-at-the-racing-part $DIST = 1 $REP = 0.50
+%cof:	$CLQ $ERR = synt:verb;$TYP=omission
+
+*CHI:	he's in his litter box diggin(g) for (.) food . 765399_770602
+%mor:	pro:sub|he~cop|be&3S prep|in pro:poss:det|his n|litter n|box part|dig-PRESP prep|for n|food .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|6|MOD 5|6|MOD 6|3|POBJ 7|2|XJCT 8|7|JCT 9|8|POBJ 10|2|PUNCT
+*CAR:	in the litter box ? 770602_773297
+%mor:	prep|in det|the n|litter n|box ?
+%gra:	1|0|INCROOT 2|4|DET 3|4|MOD 4|1|POBJ 5|1|PUNCT
+%adu:	$EXA:in $EXA:litter-box $ADD:the $DEL:he's $DEL:his $DEL:digging-for-food $DIST = 1 $REP = 0.75
+%cof:	$COF $ERR = umorph:det;$TYP=subst
+
+*CHI:	diggin(g) for food . 773297_775408
+%mor:	part|dig-PRESP prep|for n|food .
+%gra:	1|0|INCROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+*CAR:	what do kitties use a litter box for ? 777270_779464
+%mor:	adv|what v|do n|kitty-PL v|use det|a n|litter n|box prep|for ?
+%gra:	1|2|JCT 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|7|DET 6|7|MOD 7|4|OBJ 8|4|JCT 9|4|PUNCT
+%adu:	$EXA:for $ADD:what-do-kitties-use-a-litter-box $DEL:digging $DEL:food $DIST = 2 $REP = 0.12
+%cof:	$NOT
+
+*CHI:	no, I gotta read this again . 829722_832648
+%mor:	co|no cm|cm pro:sub|I mod:aux|gotta v|read&ZERO det|this adv|again .
+%gra:	1|5|COM 2|1|LP 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|7|DET 7|5|JCT 8|5|PUNCT
+*CAR:	oh, you're gonna read that one again . 832648_834377
+%mor:	co|oh cm|cm pro|you~aux|be&PRES part|go-PRESP~inf|to v|read&ZERO rel|that det:num|one adv|again .
+%gra:	1|5|COM 2|1|LP 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|7|INF 7|5|XCOMP 8|10|LINK 9|10|QUANT 10|7|JCT 11|5|PUNCT
+%adu:	$EXA:cm $EXA:read $EXA:again $ADD:oh $ADD:you're-gonna $ADD:that-one $DEL:no $DEL:i-gotta $DEL:this $MEXA:&zero $DIST = 1 $REP = 0.38
+%cof:	$NOT
+
+*CHI:	what's that kitty doin(g) ? 857867_860876
+%mor:	adv:wh|what~cop|be&3S det|that adj|kit&dn-Y part|do-PRESP ?
+%gra:	1|2|LINK 2|0|ROOT 3|5|DET 4|5|MOD 5|2|PRED 6|2|PUNCT
+*CAR:	I don't know, what is he doing ? 860876_862589
+%mor:	pro:sub|I mod|do~neg|not v|know cm|cm pro:wh|what cop|be&3S pro:sub|he part|do-PRESP ?
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|LP 6|9|LINK 7|9|AUX 8|9|SUBJ 9|4|COMP 10|9|PUNCT
+%adu:	$EXA:do $ADD:i-don't-know-,-what-is-he $DEL:what's-that-kitty $MEXA:-presp $DIST = 1 $REP = 0.12
+%cof:	$NOT
+
+*CHI:	and he signs my belly button . 878681_881225
+%mor:	conj|and pro:sub|he v|sign-3S pro:poss:det|my n|belly n|button .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|MOD 5|6|MOD 6|3|OBJ 7|3|PUNCT
+*CAR:	he diz [: does] ? 881225_881890
+%mor:	pro:sub|he v|do&3S ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+%adu:	$EXA:he $ADD:does $DEL:and $DEL:signs-my-belly-button $DIST = 1 $REP = 0.50
+%cof:	$NOT
+
+*CHI:	and he signs my belly button . 878681_881225
+%mor:	conj|and pro:sub|he v|sign-3S pro:poss:det|my n|belly n|button .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|MOD 5|6|MOD 6|3|OBJ 7|3|PUNCT
+*CAR:	do you mean he checks it ? 881890_884200
+%mor:	mod|do pro|you v|mean pro:sub|he v|check-3S pro|it ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|5|SUBJ 5|3|COMP 6|5|OBJ 7|3|PUNCT
+%adu:	$EXA:he $ADD:do-you-mean $ADD:checks-it $DEL:and $DEL:signs-my-belly-button $DIST = 2 $REP = 0.17
+%cof:	$NOT
+
+*CHI:	he's in his litter box diggin(g) (.) diggin(g) for food . 893661_898264
+%mor:	pro:sub|he~cop|be&3S prep|in pro:poss:det|his n|litter n|box part|dig-PRESP part|dig-PRESP prep|for n|food .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|6|MOD 5|6|MOD 6|3|POBJ 7|2|XJCT 8|7|XMOD 9|8|JCT 10|9|POBJ 11|2|PUNCT
+*CAR:	he's not diggin(g) for food in a litter box . 898264_900725
+%mor:	pro:sub|he~aux|be&3S neg|not part|dig-PRESP prep|for n|food prep|in det|a n|litter n|box .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|JCT 6|5|POBJ 7|6|NJCT 8|10|DET 9|10|MOD 10|7|POBJ 11|4|PUNCT
+%adu:	$EXA:he~be $EXA:dig-for-food-in $EXA:litter-box $ADD:not $ADD:a $DEL:his $DEL:digging $MEXA:~&3s $MEXA:-presp $DIST = 1 $REP = 0.78
+%cof:	$NOT
+
+*CHI:	he's goin(g) potty (.) and that other cat is lookin(g) (.) look . 908838_915421
+%mor:	pro:sub|he~aux|be&3S part|go-PRESP adj|pot&dn-Y coord|and rel|that qn|other n|cat aux|be&3S part|look-PRESP co|look .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|4|COORD 6|8|LINK 7|8|QUANT 8|10|SUBJ 9|10|AUX 10|5|CONJ 11|10|COM 12|3|PUNCT
+*CAR:	he's lookin(g) at him goin(g) potty, huh ? 915421_917865
+%mor:	pro:sub|he~aux|be&3S part|look-PRESP prep|at pro:obj|him part|go-PRESP adj|pot&dn-Y cm|cm co|huh ?
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|4|POBJ 6|9|MOD 7|9|MOD 8|7|LP 9|3|COM 10|3|PUNCT
+%adu:	$EXA:he~be-look $EXA:go-pot $ADD:at-him $ADD:,-huh $DEL:and-that-other-cat-is $DEL:look $MEXA:~&3s $MEXA:-presp $MEXA:-presp $MEXA:-y&dn $DIST = 1 $REP = 0.50
+%cof:	$NOT
+
+*CHI:	what's that cat doin(g) ? 920476_922106
+%mor:	adv:wh|what~cop|be&3S det|that n|cat part|do-PRESP ?
+%gra:	1|2|LINK 2|0|ROOT 3|4|DET 4|2|PRED 5|4|XMOD 6|2|PUNCT
+*CAR:	what's he looking for ? 925513_927957
+%mor:	pro:wh|what~aux|be&3S pro:sub|he part|look-PRESP prep|for ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|PUNCT
+%adu:	$EXA:what~be $ADD:he-looking-for $DEL:that-cat-doing $MEXA:~&3s $DIST = 2 $REP = 0.25
+%cof:	$NOT
+
+*CHI:	the [//] see ? 946529_949753
+%mor:	v|see ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*CAR:	I see it, but how'd you get it ? 949753_951466
+%mor:	pro:sub|I v|see pro|it cm|cm conj|but adv:wh|how~mod|genmod pro|you v|get pro|it ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|LP 5|9|LINK 6|9|LINK 7|9|AUX 8|9|SUBJ 9|2|CJCT 10|9|OBJ 11|2|PUNCT
+%adu:	$EXA:see $ADD:i $ADD:it-,-but-how'd-you-get-it $EXPAN $DIST = 1 $REP = 0.11
+%cof:	$NOT
+
+*CHI:	how did I (.) I was bothering her . 956355_959197
+%mor:	adv:wh|how mod|do&PAST pro:sub|I pro:sub|I aux|be&PAST&13S part|bother-PRESP pro:obj|her .
+%gra:	1|2|LINK 2|6|AUX 3|6|SUBJ 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|6|OBJ 8|6|PUNCT
+*CAR:	you were watering Tiki ? 959197_961075
+%mor:	pro|you aux|be&PAST part|water-PRESP n:prop|Tiki ?
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+%adu:	$EXA:be $ADD:you $ADD:watering-tiki $DEL:how-did-i-i $DEL:bothering-her $MSUB:&past $DIST = 1 $REP = 0.25
+%cof:	$COF $ERR = other;$TYP=subst
+
+*CHI:	no, I was waterin(g) her (.) I was waterin(g) her chest . 961075_966993
+%mor:	co|no cm|cm pro:sub|I aux|be&PAST&13S part|water-PRESP pro:obj|her pro:sub|I aux|be&PAST&13S part|water-PRESP pro:poss:det|her n|chest .
+%gra:	1|5|COM 2|1|LP 3|5|SUBJ 4|5|AUX 5|9|LINK 6|5|OBJ 7|9|SUBJ 8|9|AUX 9|0|ROOT 10|11|MOD 11|9|OBJ 12|9|PUNCT
+*CAR:	did you poor water on her ? 966993_969836
+%mor:	v|do&PAST pro|you adj|poor n|water prep|on pro:obj|her ?
+%gra:	1|0|ROOT 2|4|MOD 3|4|MOD 4|1|OBJ 5|4|NJCT 6|5|POBJ 7|1|PUNCT
+%adu:	$EXA:water $EXA:her $ADD:did-you-poor $ADD:on $DEL:no-,-i-was $DEL:i-was-watering-her-chest $MDEL:-presp $DIST = 1 $REP = 0.33
+%cof:	$NOT
+
+*CHI:	no, I poured water (.) on her . 975223_978880
+%mor:	co|no cm|cm pro:sub|I v|pour-PAST n|water prep|on pro:obj|her .
+%gra:	1|4|COM 2|1|LP 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|JCT 7|6|POBJ 8|4|PUNCT
+*CAR:	yeah, but that made her scratch you probably . 978880_981009
+%mor:	co|yeah cm|cm conj|but adv|that v|make&PAST pro:poss:det|her n|scratch pro|you adv|probable&dadj-LY .
+%gra:	1|5|COM 2|1|LP 3|5|LINK 4|5|JCT 5|0|ROOT 6|7|MOD 7|5|OBJ 8|7|OBJ 9|8|JCT 10|5|PUNCT
+%adu:	$EXA:cm $EXA:her $ADD:yeah $ADD:but-that-made $ADD:scratch-you-probably $DEL:no $DEL:i-poured-water-on $DIST = 1 $REP = 0.22
+%cof:	$NOT
+
+*CHI:	no, I gotta read this one . 1008305_1010184
+%mor:	co|no cm|cm pro:sub|I mod:aux|gotta v|read&ZERO det|this pro:indef|one .
+%gra:	1|5|COM 2|1|LP 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|7|DET 7|5|OBJ 8|5|PUNCT
+*CAR:	you've already read me that book . 1010184_1011647
+%mor:	pro|you~aux|have adv|already v|read&ZERO pro:obj|me det|that n|book .
+%gra:	1|4|SUBJ 2|4|AUX 3|4|JCT 4|0|ROOT 5|4|OBJ 6|7|DET 7|4|OBJ 8|4|PUNCT
+%adu:	$EXA:read $ADD:you've-already $ADD:me-that-book $DEL:no-,-i-gotta $DEL:this-one $MEXA:&zero $DIST = 1 $REP = 0.17
+%cof:	$NOT
+
+*CHI:	you house cat . 1017166_1021472
+%mor:	pro|you v|house n|cat .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*CAR:	I'm a house cat ? 1021472_1022803
+%mor:	pro:sub|I~cop|be&1S det|a n|house n|cat ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|PRED 6|2|PUNCT
+%adu:	$EXA:house-cat $ADD:i'm-a $DEL:you $DIST = 1 $REP = 0.50
+%cof:	$COF $ERR = synt:verb;$TYP=omission $ERR = umorph:det;$TYP=omission
+
+*CHI:	house (.) stop it house cat ! 1027425_1030833
+%mor:	n|house n|stop pro|it n|house n|cat !
+%gra:	1|2|MOD 2|0|INCROOT 3|5|MOD 4|5|MOD 5|2|OBJ 6|2|PUNCT
+*CAR:	stop it alley cat . 1030833_1032147
+%mor:	v|stop pro|it n|alley n|cat .
+%gra:	1|0|ROOT 2|4|MOD 3|4|MOD 4|1|OBJ 5|1|PUNCT
+%adu:	$EXA:stop-it $EXA:cat $ADD:alley $DEL:house $DEL:house $DIST = 1 $REP = 0.75
+%cof:	$NOT
+
+*CHI:	house (.) stop it house cat ! 1027425_1030833
+%mor:	n|house n|stop pro|it n|house n|cat !
+%gra:	1|2|MOD 2|0|INCROOT 3|5|MOD 4|5|MOD 5|2|OBJ 6|2|PUNCT
+*CAR:	you dirty alley cat . 1032147_1034008
+%mor:	pro|you v|dirty n|alley n|cat .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|2|OBJ 5|2|PUNCT
+%adu:	$EXA:cat $ADD:you-dirty-alley $DEL:house-stop-it-house $DIST = 2 $REP = 0.25
+%cof:	$NOT
+
+*CHI:	I got (.) I gonna read you that story again . 1050719_1055791
+%mor:	pro:sub|I v|get&PAST pro:sub|I part|go-PRESP~inf|to v|read&ZERO pro|you det|that n|story adv|again .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|3|XMOD 5|6|INF 6|4|XCOMP 7|6|OBJ 8|9|DET 9|6|OBJ 10|9|NJCT 11|2|PUNCT
+*CAR:	you already did . 1055790_1057037
+%mor:	pro|you adv|already v|do&PAST .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|PUNCT
+%adu:	$EXA:you $ADD:already-did $DEL:i-got-i-gonna-read $DEL:that-story-again $DIST = 1 $REP = 0.33
+%cof:	$NOT
+
+*CHI:	I fighted [: fought] [* m:=ed] with her too . 1097030_1098641
+%mor:	pro:sub|I v|fight&PAST prep|with pro:obj|her post|too .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|3|POBJ 5|4|PQ 6|2|PUNCT
+*CAR:	you fought with Grandma ! 1098641_1100039
+%mor:	pro|you v|fight&PAST prep|with n:prop|Grandma !
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|3|POBJ 5|2|PUNCT
+%adu:	$EXA:fight-with $ADD:you $ADD:grandma $DEL:i $DEL:her-too $MEXA:&past $DIST = 1 $REP = 0.50
+%cof:	  $COF $ERR = vmorph:irrpast;$TYP=subst
+
+*CHI:	a sheep ! 1227310_1229289
+%mor:	det|a n|sheep !
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*CAR:	what do sheep do ? 1229289_1230835
+%mor:	adv|what v|do n|sheep v|do ?
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+%adu:	$EXA:sheep $ADD:what-do $ADD:do $DEL:a $DIST = 1 $REP = 0.25
+%cof:	$NOT
+
+*CHI:	a chicken . 1244750_1246629
+%mor:	det|a n|chicken .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*CAR:	yeah, but what's the chicken and duck doing together ? 1246629_1249622
+%mor:	co|yeah cm|cm conj|but adv:wh|what~aux|be&3S det|the n|chicken coord|and n|duck part|do-PRESP adv|together ?
+%gra:	1|3|COM 2|1|LP 3|0|ROOT 4|5|LINK 5|3|COORD 6|7|DET 7|5|OBJ 8|7|CONJ 9|8|COORD 10|9|XMOD 11|10|JCT 12|3|PUNCT
+%adu:	$EXA:chicken $ADD:yeah-,-but-what's-the $ADD:and-duck-doing-together $DEL:a $DIST = 1 $REP = 0.10
+%cof:	$NOT
+
+*CHI:	a Christmas tree . 1294918_1297363
+%mor:	det|a n:prop|Christmas n|tree .
+%gra:	1|3|DET 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+*CAR:	what do Christmas trees have underneath them ? 1297363_1299242
+%mor:	pro:wh|what mod|do n:prop|Christmas n|tree-PL v|have prep|underneath pro:obj|them ?
+%gra:	1|5|LINK 2|5|AUX 3|5|JCT 4|5|SUBJ 5|0|ROOT 6|5|JCT 7|6|POBJ 8|5|PUNCT
+%adu:	$EXA:christmas-tree $ADD:what-do $ADD:have-underneath-them $DEL:a $MADD:-pl $DIST = 1 $REP = 0.29
+%cof:	$NOT
+
+*CHI:	what that polar bear doin(g) ? 1354871_1357565
+%mor:	pro:wh|what det|that adj|polar n|bear part|do-PRESP ?
+%gra:	1|0|INCROOT 2|4|DET 3|4|MOD 4|1|OBJ 5|4|XMOD 6|1|PUNCT
+*CAR:	+< read me the story, what is he doin(g) ? 1356565_1358842
+%mor:	v|read&ZERO pro:obj|me det|the n|story cm|cm pro:wh|what cop|be&3S pro:sub|he part|do-PRESP ?
+%gra:	1|0|ROOT 2|1|OBJ 3|4|DET 4|1|OBJ 5|4|LP 6|9|LINK 7|9|AUX 8|9|SUBJ 9|4|CJCT 10|1|PUNCT
+%adu:	$EXA:what $EXA:do $ADD:read-me-the-story-, $ADD:is-he $DEL:that-polar-bear $MEXA:-presp $DIST = 1 $REP = 0.22
+%cof:	$COF $ERR = umorph:presprogr;$TYP=omission
+
+*CHI:	I'm watchin(g) read (.) you can read it about (.) you can read it to me . 1371360_1380554
+%mor:	pro:sub|I~aux|be&1S part|watch-PRESP v|read&ZERO pro|you mod|can v|read&ZERO pro|it prep|about pro|you mod|can v|read&ZERO pro|it prep|to pro:obj|me .
+%gra:	1|3|SUBJ 2|3|AUX 3|4|SUBJ 4|7|SUBJ 5|4|OBJ 6|7|AUX 7|0|ROOT 8|7|OBJ 9|7|JCT 10|12|SUBJ 11|12|AUX 12|9|POBJ 13|7|OBJ 14|13|JCT 15|14|POBJ 16|7|PUNCT
+*CAR:	yeah but I wanna hear you talk, for my job . 1380554_1383397
+%mor:	co|yeah conj|but pro:sub|I v|want~inf|to v|hear pro|you n|talk cm|cm prep|for pro:poss:det|my n|job .
+%gra:	1|4|COM 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|6|INF 6|4|XCOMP 7|6|OBJ 8|6|OBJ 9|8|LP 10|8|NJCT 11|12|MOD 12|10|POBJ 13|4|PUNCT
+%adu:	$EXA:you $ADD:yeah-but-i-wanna-hear $ADD:talk-,-for-my-job $DEL:i'm-watching-read $DEL:can-read-it-about-you-can-read-it-to-me $DIST = 1 $REP = 0.09
+%cof:	$NOT
+
+*CHI:	oh (.) well (.) I'm a scary guy . 1383397_1387619
+%mor:	co|oh co|well pro:sub|I~cop|be&1S det|a adj|scare&dn-Y n|guy .
+%gra:	1|4|COM 2|4|COM 3|4|SUBJ 4|0|ROOT 5|7|DET 6|7|MOD 7|4|PRED 8|4|PUNCT
+*CAR:	you're scary ? 1387619_1389166
+%mor:	pro|you~cop|be&PRES adj|scare&dn-Y ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%adu:	$EXA:scare $ADD:you're $DEL:oh-well-i'm-a $DEL:guy $MEXA:-y&dn $DIST = 1 $REP = 0.50
+%cof:	$NOT
+
+*CHI:	and I say trick or treat ! 1404230_1406739
+%mor:	conj|and pro:sub|I v|say n|trick coord|or n|treat !
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|4|CONJ 6|5|COORD 7|3|PUNCT
+*CAR:	where are you gonna go and say trick or treat ? 1406739_1410730
+%mor:	adv:wh|where aux|be&PRES pro|you part|go-PRESP~inf|to v|go coord|and v|say n|trick coord|or n|treat ?
+%gra:	1|4|LINK 2|4|AUX 3|4|AUX 4|0|ROOT 5|6|INF 6|4|XCOMP 7|6|CONJ 8|7|COORD 9|8|OBJ 10|9|CONJ 11|10|COORD 12|4|PUNCT
+%adu:	$EXA:and-say-trick-or-treat $ADD:where-are-you-gonna-go $DEL:i $DIST = 1 $REP = 0.50
+%cof:	$NOT
+
+*CHI:	and that (.) and they will give us a piece of candy [=! whispering] . 1410730_1415600
+%mor:	conj|and pro:dem|that coord|and pro:sub|they mod|will v|give pro:obj|us det|a n|piece prep|of n|candy .
+%gra:	1|0|INCROOT 2|1|COORD 3|6|LINK 4|6|SUBJ 5|6|AUX 6|2|COMP 7|6|OBJ 8|9|DET 9|6|OBJ 10|9|NJCT 11|10|POBJ 12|1|PUNCT
+*CAR:	who will ? 1415600_1416765
+%mor:	pro:wh|who mod|will ?
+%gra:	1|2|OBJ 2|0|ROOT 3|2|PUNCT
+%adu:	$EXA:will $ADD:who $DEL:and-that-and-they $DEL:give-us-a-piece-of-candy $DIST = 1 $REP = 0.50
+%cof:	$CLQ $ERR = 0
+
+*CHI:	and they will give me some candy . 1416765_1420804
+%mor:	conj|and pro:sub|they mod|will v|give pro:obj|me qn|some n|candy .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|7|QUANT 7|4|OBJ 8|4|PUNCT
+*CAR:	oh, Dave will ? 1420804_1421618
+%mor:	co|oh cm|cm n:prop|Dave mod|will ?
+%gra:	1|4|COM 2|1|LP 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+%adu:	$EXA:will $ADD:oh-,-dave $DEL:and-they $DEL:give-me-some-candy $DIST = 1 $REP = 0.25
+%cof:	$NOT
+
+*CHI:	don't take it out ! 1425776_1427470
+%mor:	mod|do~neg|not v|take pro|it adv|out !
+%gra:	1|3|AUX 2|1|NEG 3|0|ROOT 4|3|OBJ 5|3|JCT 6|3|PUNCT
+*CAR:	I'm not (.) I'm just fixing it . 1427470_1428702
+%mor:	pro:sub|I~cop|be&1S neg|not pro:sub|I~aux|be&1S adv|just part|fix-PRESP pro|it .
+%gra:	1|2|SUBJ 2|7|LINK 3|2|NEG 4|7|SUBJ 5|7|AUX 6|7|JCT 7|0|ROOT 8|7|OBJ 9|7|PUNCT
+%adu:	$EXA:it $ADD:i'm-not-i'm-just-fixing $DEL:don't-take $DEL:out $DIST = 1 $REP = 0.17
+%cof:	$NOT
+
+*CHI:	the wizard book . 1433091_1435054
+%mor:	det|the n|wizard n|book .
+%gra:	1|3|DET 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+*CAR:	okay, read that book to me . 1435054_1437164
+%mor:	co|okay cm|cm v|read&ZERO rel|that n|book prep|to pro:obj|me .
+%gra:	1|3|COM 2|1|LP 3|0|ROOT 4|3|OBJ 5|4|OBJ 6|5|NJCT 7|6|POBJ 8|3|PUNCT
+%adu:	$EXA:book $ADD:okay-,-read-that $ADD:to-me $DEL:the-wizard $DIST = 1 $REP = 0.14
+%cof:	$NOT
+
+*CHI:	where's the toys Care(y) ? 1437164_1441137
+%mor:	rel|where~aux|be&3S det|the n|toy-PL n:prop|Carey ?
+%gra:	1|2|LINK 2|0|ROOT 3|4|DET 4|2|OBJ 5|4|APP 6|2|PUNCT
+*CAR:	what toys ? 1441137_1442034
+%mor:	pro:wh|what n|toy-PL ?
+%gra:	1|2|OBJ 2|0|INCROOT 3|2|PUNCT
+%adu:	$EXA:toy $ADD:what $DEL:where's-the $DEL:carey $MEXA:-pl $DIST = 1 $REP = 0.50
+%cof:	 $CLQ $ERR = 0
+
+*CHI:	+< you squeeze his fins, then he lights up . 1463597_1467504
+%mor:	pro|you v|squeeze pro:poss:det|his n|fin-PL cm|cm adv:tem|then pro:sub|he v|light-3S adv|up .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|2|OBJ 5|4|LP 6|8|JCT 7|8|SUBJ 8|4|CJCT 9|8|JCT 10|2|PUNCT
+*CAR:	he does ? 1467504_1468319
+%mor:	pro:sub|he v|do&3S ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+%adu:	$EXA:he $ADD:does $DEL:you-squeeze-his-fins-,-then $DEL:lights-up $DIST = 1 $REP = 0.50
+%cof:	$NOT
+
+*CHI:	he squirts water (.) and he swims like that . 1468319_1473272
+%mor:	pro:sub|he v|squirt-3S n|water coord|and pro:sub|he v|swim-3S prep|like pro:dem|that .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|6|LINK 5|6|SUBJ 6|2|CJCT 7|6|JCT 8|7|POBJ 9|2|PUNCT
+*CAR:	he does ? 1473272_1474686
+%mor:	pro:sub|he v|do&3S ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+%adu:	$EXA:he $ADD:does $DEL:squirts-water-and-he-swims-like-that $DIST = 1 $REP = 0.50
+%cof:	$NOT
+
+*CHI:	where are they ? 1524326_1525789
+%mor:	adv:wh|where cop|be&PRES pro:sub|they ?
+%gra:	1|2|LINK 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*CAR:	what are you doing ? 1525789_1529446
+%mor:	pro:wh|what aux|be&PRES pro|you part|do-PRESP ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+%adu:	$EXA:be $ADD:what $ADD:you-doing $DEL:where $DEL:they $MEXA:&pres $DIST = 1 $REP = 0.25
+%cof:	$NOT
+
+*CHI:	where are they ? 1533603_1535465
+%mor:	adv:wh|where cop|be&PRES pro:sub|they ?
+%gra:	1|2|LINK 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*CAR:	what are you doing ? 1535465_1536196
+%mor:	pro:wh|what aux|be&PRES pro|you part|do-PRESP ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+%adu:	$EXA:be $ADD:what $ADD:you-doing $DEL:where $DEL:they $MEXA:&pres $DIST = 1 $REP = 0.25
+%cof:	$NOT
+
+*CHI:	where are the(se) ? 1566020_1569760
+%mor:	adv:wh|where aux|be&PRES pro:dem|these ?
+%gra:	1|3|LINK 2|3|AUX 3|0|ROOT 4|3|PUNCT
+*CAR:	what ar:e (.) hold on . 1569760_1572936
+%mor:	pro:wh|what aux|be&PRES n|hold adv|on .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|INCROOT 4|3|JCT 5|3|PUNCT
+%adu:	$EXA:be $ADD:what $ADD:hold-on $DEL:where $DEL:these $MEXA:&pres $DIST = 1 $REP = 0.25
+%cof:	$NOT
+
+*CHI:	where are the(se) ? 1566020_1569760
+%mor:	adv:wh|where aux|be&PRES pro:dem|these ?
+%gra:	1|3|LINK 2|3|AUX 3|0|ROOT 4|3|PUNCT
+*CAR:	what is this girl doing ? 1572936_1576112
+%mor:	pro:wh|what cop|be&3S det|this n|girl part|do-PRESP ?
+%gra:	1|2|LINK 2|0|ROOT 3|4|DET 4|2|PRED 5|4|XMOD 6|2|PUNCT
+%adu:	$EXA:be $ADD:what $ADD:this-girl-doing $DEL:where $DEL:these $MSUB:&3s $DIST = 2 $REP = 0.20
+%cof:	$NOT
+
+*CHI:	I put all the sti(ck)ers here . 1611257_1617907
+%mor:	pro:sub|I v|put&ZERO qn|all det|the n|stick&dv-AGT-PL adv|here .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|QUANT 4|5|DET 5|2|OBJ 6|2|JCT 7|2|PUNCT
+*CAR:	this is your favorite sticker book, huh ? 1619536_1623027
+%mor:	pro:dem|this cop|be&3S pro:poss:det|your n|favorite n|stick&dv-AGT n|book cm|cm co|huh ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|6|MOD 5|6|MOD 6|2|PRED 7|6|LP 8|6|COM 9|2|PUNCT
+%adu:	$EXA:stick $ADD:this-is-your-favorite $ADD:book-,-huh $DEL:i-put-all-the $DEL:here $MSUB:-agt&dv $DIST = 2 $REP = 0.12
+%cof:	$NOT
+
+*CHI:	ladybugs are all around the water . 1623027_1627351
+%mor:	n|+n|lady+n|bug-PL cop|be&PRES adv|all prep|around det|the n|water .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|JCT 5|6|DET 6|4|POBJ 7|2|PUNCT
+*CAR:	what is he doing ? 1629545_1631822
+%mor:	pro:wh|what cop|be&3S pro:sub|he part|do-PRESP ?
+%gra:	1|2|LINK 2|0|ROOT 3|4|SUBJ 4|2|PRED 5|2|PUNCT
+%adu:	$EXA:be $ADD:what $ADD:he-doing $DEL:ladybugs $DEL:all-around-the-water $MSUB:&3s $DIST = 2 $REP = 0.25
+%cof:	$NOT
+
+*CHI:	I'm missin(g) a ladybug (.) it's a +/. 1631822_1635081
+%mor:	pro:sub|I~aux|be&1S part|miss-PRESP det|a n|+n|lady+n|bug pro|it~cop|be&3S det|a +/.
+%gra:	1|3|SUBJ 2|3|AUX 3|7|LINK 4|5|DET 5|3|OBJ 6|7|SUBJ 7|0|ROOT 8|7|PRED 9|7|PUNCT
+*CAR:	oh no (.) it's all on there . 1635081_1636710
+%mor:	co|oh co|no pro|it~cop|be&3S adv|all prep|on pro:dem|there .
+%gra:	1|4|COM 2|4|COM 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|JCT 7|6|POBJ 8|4|PUNCT
+%adu:	$EXA:it~be $ADD:oh-no $ADD:all-on-there $DEL:i'm-missing-a-ladybug $DEL:a $MEXA:~&3s $DIST = 1 $REP = 0.17
+%cof:	$NOT
+
+*CHI:	because her finger's bleedin(g) . 1646785_1650211
+%mor:	conj|because pro:poss:det|her n|finger~aux|be&3S part|bleed-PRESP .
+%gra:	1|5|LINK 2|3|MOD 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|PUNCT
+*CAR:	but what about her ? 1650211_1652321
+%mor:	conj|but pro:wh|what prep|about pro:obj|her ?
+%gra:	1|2|LINK 2|0|ROOT 3|2|JCT 4|3|POBJ 5|2|PUNCT
+%adu:	$EXA:her $ADD:but-what-about $DEL:because $DEL:finger's-bleeding $DIST = 1 $REP = 0.25
+%cof:	$NOT
+
+*CHI:	but her finger's just . 1652321_1654997
+%mor:	conj|but pro:poss:det|her n|finger~poss|s adj|just .
+%gra:	1|0|INCROOT 2|3|MOD 3|1|OBJ 4|3|POSS 5|3|JCT 6|1|PUNCT
+*CAR:	what is she doing with her hair ? 1661183_1664192
+%mor:	pro:wh|what cop|be&3S pro:sub|she part|do-PRESP prep|with pro:poss:det|her n|hair ?
+%gra:	1|2|LINK 2|0|ROOT 3|2|PRED 4|3|XMOD 5|4|JCT 6|7|MOD 7|5|POBJ 8|2|PUNCT
+%adu:	$EXA:her $ADD:what-is-she-doing-with $ADD:hair $DEL:but $DEL:finger's-just $DIST = 2 $REP = 0.14
+%cof:	$NOT
+
+*CHI:	I gotta +/. 1680766_1681497
+%mor:	pro:sub|I mod:aux|gotta +/.
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*CAR:	we gotta talk . 1682710_1683359
+%mor:	pro:sub|we mod:aux|gotta v|talk .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|PUNCT
+%adu:	$EXA:gotta $ADD:we $ADD:talk $DEL:i $DIST = 2 $REP = 0.33
+%cof:	$COF $ERR = synt:verb;$TYP=omission
+
+*CHI:	I gotta +/. 1680766_1681497
+%mor:	pro:sub|I mod:aux|gotta +/.
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*CAR:	you gotta talk to me . 1683359_1684256
+%mor:	pro|you mod:aux|gotta v|talk prep|to pro:obj|me .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|4|POBJ 6|3|PUNCT
+%adu:	$EXA:gotta $ADD:you $ADD:talk-to-me $DEL:i $DIST = 3 $REP = 0.20
+%cof:	$COF $ERR = synt:verb;$TYP=omission
+
+*CHI:	I gotta +/. 1680766_1681497
+%mor:	pro:sub|I mod:aux|gotta +/.
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*CAR:	we can't do stickers (.) we just gotta read the book . 1684256_1686302
+%mor:	pro:sub|we mod|can~neg|not v|do n|stick&dv-AGT-PL pro:sub|we adv|just mod:aux|gotta v|read&ZERO det|the n|book .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|OBJ 6|9|SUBJ 7|6|JCT 8|9|AUX 9|4|COMP 10|11|DET 11|9|OBJ 12|4|PUNCT
+%adu:	$EXA:gotta $ADD:we-can't-do-stickers-we-just $ADD:read-the-book $DEL:i $DIST = 4 $REP = 0.10
+%cof:	 $NOT
+
+*CHI:	oh, one of these sailboats can go there . 1687913_1691005
+%mor:	co|oh cm|cm det:num|one prep|of det|these n|+n|sail+n|boat-PL mod|can v|go adv|there .
+%gra:	1|3|COM 2|1|LP 3|8|QUANT 4|3|JCT 5|6|DET 6|4|POBJ 7|8|AUX 8|0|ROOT 9|8|JCT 10|8|PUNCT
+*CAR:	what do sailboats do ? 1691005_1693134
+%mor:	adv|what v|do n|+n|sail+n|boat-PL v|do ?
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+%adu:	$EXA:sail+boat $ADD:what-do $ADD:do $DEL:oh-,-one-of-these $DEL:can-go-there $MEXA:-pl $DIST = 1 $REP = 0.25
+%cof:	$NOT
+
+*CHI:	she's standin(g) . 1698154_1700598
+%mor:	pro:sub|she~aux|be&3S part|stand-PRESP .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|PUNCT
+*CAR:	she's jumpin(g) . 1700598_1702327
+%mor:	pro:sub|she~aux|be&3S part|jump-PRESP .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|PUNCT
+%adu:	$EXA:she~be $ADD:jumping $DEL:standing $MEXA:~&3s $DIST = 1 $REP = 0.50
+%cof:	$NOT
+
+*CHI:	what is (.) that (.) boy doing ? 1702327_1705969
+%mor:	pro:wh|what cop|be&3S rel|that n|boy part|do-PRESP ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|LINK 4|5|MOD 5|2|PRED 6|2|PUNCT
+*CAR:	I don't know, what is he doing ? 1705969_1707663
+%mor:	pro:sub|I mod|do~neg|not v|know cm|cm pro:wh|what cop|be&3S pro:sub|he part|do-PRESP ?
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|LP 6|9|LINK 7|9|AUX 8|9|SUBJ 9|4|COMP 10|9|PUNCT
+%adu:	$EXA:what-be $EXA:do $ADD:i-don't-know-, $ADD:he $DEL:that-boy $MEXA:&3s $MEXA:-presp $DIST = 1 $REP = 0.38
+%cof:	$NOT
+
+*CHI:	we kick it . 1731070_1732385
+%mor:	pro:sub|we v|kick pro|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*CAR:	kick what ? 1732385_1733681
+%mor:	v|kick pro:wh|what ?
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+%adu:	$EXA:kick $ADD:what $DEL:we $DEL:it $DIST = 1 $REP = 0.50
+%cof:	$CLQ $ERR = 0
+
+*CHI:	we throw it . 1733681_1740912
+%mor:	pro:sub|we v|throw pro|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*CAR:	we throw and kick . 1742042_1744005
+%mor:	pro:sub|we v|throw coord|and n|kick .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|CONJ 4|3|COORD 5|2|PUNCT
+%adu:	$EXA:we-throw $ADD:and-kick $DEL:it $DIST = 2 $REP = 0.50
+%cof:	$NOT
+
+*CHI:	he's goin(g) under the tunnel . 1756106_1759449
+%mor:	pro:sub|he~aux|be&3S part|go-PRESP prep|under det|the n|tunnel .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+*CAR:	yeah, but how do you go underneath the tunnel ? 1759449_1762458
+%mor:	co|yeah cm|cm conj|but adv|how v|do pro|you v|go prep|underneath det|the n|tunnel ?
+%gra:	1|5|COM 2|1|LP 3|5|LINK 4|5|JCT 5|0|ROOT 6|7|SUBJ 7|5|CJCT 8|7|JCT 9|10|DET 10|8|POBJ 11|5|PUNCT
+%adu:	$EXA:go $EXA:the-tunnel $ADD:yeah-,-but-how-do-you $ADD:underneath $DEL:he's $DEL:under $MDEL:-presp $DIST = 1 $REP = 0.30
+%cof:	$COF $ERR = umorph:prep;$TYP=subst
+
+*CHI:	that one looks like Tiki, like my cat . 1768504_1771911
+%mor:	det|that pro:indef|one v|look-3S prep|like n:prop|Tiki cm|cm prep|like pro:poss:det|my n|cat .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|4|POBJ 6|5|LP 7|5|JCT 8|9|MOD 9|7|POBJ 10|3|PUNCT
+*CAR:	what's that ? 1772726_1778030
+%mor:	pro:wh|what~cop|be&3S pro:dem|that ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%adu:	$EXA:that $ADD:what's $DEL:one-looks-like-tiki-,-like-my-cat $DIST = 2 $REP = 0.50
+%cof:	$NOT
+
+*CHI:	I wanted that cat to sleep in there . 1797680_1802069
+%mor:	pro:sub|I v|want-PAST rel|that n|cat inf|to v|sleep prep|in pro:dem|there .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|3|OBJ 5|6|INF 6|4|XCOMP 7|6|JCT 8|7|POBJ 9|2|PUNCT
+*CAR:	she is sleeping in there . 1802069_1803615
+%mor:	pro:sub|she aux|be&3S part|sleep-PRESP prep|in pro:dem|there .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|4|POBJ 6|3|PUNCT
+%adu:	$EXA:sleep-in-there $ADD:she-is $DEL:i-wanted-that-cat-to $MADD:-presp $DIST = 1 $REP = 0.60
+%cof:	$NOT
+
+*CHI:	I gotta put the teddy bears in theres [: there] (.) to show you . 1812078_1817430
+%mor:	pro:sub|I mod:aux|gotta v|put&ZERO det|the n|teddy v|bear-3S prep|in pro:dem|there inf|to v|show pro|you .
+%gra:	1|3|SUBJ 2|3|AUX 3|6|LINK 4|5|DET 5|6|SUBJ 6|0|ROOT 7|6|JCT 8|7|POBJ 9|10|INF 10|6|XCOMP 11|10|OBJ 12|6|PUNCT
+*CAR:	+< no, will you tell me what this little boy's doing ? 1816430_1818624
+%mor:	co|no cm|cm mod|will pro|you v|tell pro:obj|me pro:wh|what det|this adj|little n|boy~aux|be&3S part|do-PRESP ?
+%gra:	1|5|COM 2|1|LP 3|5|AUX 4|5|SUBJ 5|0|ROOT 6|5|OBJ 7|12|LINK 8|10|DET 9|10|MOD 10|12|SUBJ 11|12|AUX 12|5|OBJ 13|5|PUNCT
+%adu:	$EXA:you $ADD:no-,-will $ADD:tell-me-what-this-little-boy's-doing $DEL:i-gotta-put-the-teddy-bears-in-there-to-show $DIST = 1 $REP = 0.09
+%cof:	$NOT
+
+*CHI:	I gotta show you these (.) how I put them in there . 1821632_1825790
+%mor:	pro:sub|I mod:aux|gotta v|show pro|you det|these adv:wh|how pro:sub|I v|put&ZERO pro:obj|them prep|in pro:dem|there .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|6|DET 6|8|LINK 7|8|SUBJ 8|3|CJCT 9|8|OBJ 10|8|JCT 11|10|POBJ 12|3|PUNCT
+*CAR:	I don't want you to put them in there . 1825790_1827900
+%mor:	pro:sub|I mod|do~neg|not v|want pro|you inf|to v|put&ZERO pro:obj|them prep|in pro:dem|there .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|OBJ 6|7|INF 7|4|XCOMP 8|7|OBJ 9|7|JCT 10|9|POBJ 11|4|PUNCT
+%adu:	$EXA:i $EXA:you $EXA:put-them-in-there $ADD:don't-want $ADD:to $DEL:gotta-show $DEL:these-how-i $MEXA:&zero $DIST = 1 $REP = 0.67
+%cof:	$NOT
+
+*CHI:	+< I gotta sh(ow) . 1825790_1828067
+%mor:	pro:sub|I mod:aux|gotta v|show .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|PUNCT
+*CAR:	I want you to leave them on, so we can read the next page . 1828067_1830762
+%mor:	pro:sub|I v|want pro|you inf|to v|leave pro:obj|them adv|on cm|cm co|so pro:sub|we mod|can v|read&ZERO det|the adj|next n|page .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|5|INF 5|2|XCOMP 6|5|OBJ 7|5|JCT 8|5|LP 9|12|COM 10|12|SUBJ 11|12|AUX 12|5|COMP 13|15|DET 14|15|MOD 15|12|OBJ 16|2|PUNCT
+%adu:	$EXA:i $ADD:want-you-to-leave-them-on-,-so-we-can-read-the-next-page $DEL:gotta-show $DIST = 1 $REP = 0.07
+%cof:	$NOT
+
+*CHI:	I gotta put (th)em in there to show you . 1847618_1854719
+%mor:	pro:sub|I mod:aux|gotta v|put&ZERO pro:obj|them prep|in pro:dem|there inf|to v|show pro|you .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|JCT 6|5|POBJ 7|8|INF 8|3|XCOMP 9|8|OBJ 10|3|PUNCT
+*CAR:	to show me what ? 1854719_1855350
+%mor:	inf|to v|show pro:obj|me pro:wh|what ?
+%gra:	1|2|INF 2|0|ROOT 3|2|OBJ 4|2|OBJ 5|2|PUNCT
+%adu:	$EXA:to-show $ADD:me-what $DEL:i-gotta-put-them-in-there $DEL:you $DIST = 1 $REP = 0.50
+%cof:	$CLQ $ERR = other;$TYP=omission
+
+*CHI:	don't be just . 1866839_1869182
+%mor:	mod|do~neg|not cop|be adv|just .
+%gra:	1|3|AUX 2|1|NEG 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*CAR:	don't be what ? 1870895_1872274
+%mor:	mod|do~neg|not aux|be pro:wh|what ?
+%gra:	1|3|AUX 2|1|NEG 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+%adu:	$EXA:do~not-be $ADD:what $DEL:just $DIST = 2 $REP = 0.67
+%cof:	$CLQ $ERR = other;$TYP=subst
+
+*CHI:	where are the stickers ? 1875550_1884395
+%mor:	adv:wh|where cop|be&PRES det|the n|stick&dv-AGT-PL ?
+%gra:	1|2|LINK 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*CAR:	now where are you gonna put those bears ? 1884395_1888467
+%mor:	adv|now rel|where aux|be&PRES pro|you part|go-PRESP~inf|to v|put&ZERO det|those n|bear-PL ?
+%gra:	1|5|JCT 2|5|LINK 3|5|AUX 4|5|SUBJ 5|0|ROOT 6|7|INF 7|5|XCOMP 8|9|DET 9|7|OBJ 10|5|PUNCT
+%adu:	$EXA:where-be $ADD:now $ADD:you-gonna-put-those-bears $DEL:the-stickers $MEXA:&pres $DIST = 1 $REP = 0.25
+%cof:	$NOT
+
