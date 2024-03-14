@@ -1192,7 +1192,7 @@ CHI: the   moon .
 MOT: yeah .
 MOT: xxx ,  the moon .
 CHI: dance ?",1.662,pro:sub v,P1Y8M14D,20.0
-Providence,Providence_under_2/010814.xml,u912,2,1,MOT,Mother,Mother,you wan<t> 0to dance ?,,4.289,pro:per v 0inf n,P1Y8M14D,20.0
+Providence,Providence_under_2/010814.xml,u912,2,1,MOT,Mother,Mother,you wan<t> to dance ?,,4.289,pro:per v 0inf n,P1Y8M14D,20.0
 Providence,Providence_under_2/010814.xml,u1543,3,0,CHI,Target_Child,William,is it a duck ?,"CHI: xxx why 
 MOT: no .
 CHI: why ?
@@ -1201,7 +1201,7 @@ CHI: hi .",1.662,aux pro:per det:art n,P1Y8M14D,20.0
 Providence,Providence_under_2/010814.xml,u1544,3,1,MOT,Mother,Mother,o:h yes and what does a duck say ?,,4.289,co co coord pro:int v det:art n v,P1Y8M14D,20.0
 Providence,Providence_under_2/010814.xml,u1832,4,0,CHI,Target_Child,William,yyy a moon ?,"MOT: is Dada at work ?
 OPE: hello .
-CHI: Dada 0is at work .
+CHI: Dada is at work .
 MOT: yeah Dada at work ,  that's right .
 MOT: xxx Dada's at work .",1.662,det:art n,P1Y8M14D,20.0
 Providence,Providence_under_2/010814.xml,u1833,4,1,MOT,Mother,Mother,the moon ?,,4.289,det:art n,P1Y8M14D,20.0
@@ -1338,7 +1338,7 @@ MOT: oh we called it a snuggle snake because it snuggled up to that woman .
 CHI: yes !",3.399,det:poss n,P1Y9M25D,22.0
 Providence,Providence_under_2/010925 copy.xml,u469,1,1,MOT,Mother,Mother,"&-um ,  what was her name ?",,5.431,cm pro:int aux det:poss n,P1Y9M25D,22.0
 Providence,Providence_under_2/010925 copy.xml,u518,2,0,CHI,Target_Child,Naima,xxx Sally go ?,"CHI: where did Sally Bally go ?
-CHI: where 0did Sally Bally go ?
+CHI: where did Sally Bally go ?
 MOT: I think Sally's hiding amongst the blocks .
 CHI: yyy there she is !
 CHI: xxx Sally go ?",3.399,n:prop v,P1Y9M25D,22.0
@@ -1379,24 +1379,18 @@ MOT: listen .
 MOT: William Anthony .
 MOT: what are you doing ?",1.381,pro:int n:gerund,P1Y9M12D,21.0
 Providence,Providence_under_2/010912.xml,u832,1,1,MOT,Mother,Mother,"yeah ,  what are you doing ?",,4.731,co cm pro:int aux pro:per part,P1Y9M12D,21.0
-Providence,Providence_under_2/011005.xml,u111,1,0,CHI,Target_Child,Naima,0who had 0the lobster on her shirt ?,"MOT: and I think you said the butterfly has whiskers .
-MOT: didn't you ?
-FAT: did you say the butterfly has whiskers booboo ?
-CHI: yeah .
-FAT: oh .",3.216,0pro v 0det n prep det:poss n,P1Y10M5D,22.0
-Providence,Providence_under_2/011005.xml,u112,1,1,FAT,Father,Father,who had the lobster on her shirt ?,,4.679,pro:rel v det:art n prep det:poss n,P1Y10M5D,22.0
-Providence,Providence_under_2/011005.xml,u659,2,0,CHI,Target_Child,Naima,what was she doing ?,"MOT: that's an interesting question .
+Providence,Providence_under_2/011005.xml,u659,1,0,CHI,Target_Child,Naima,what was she doing ?,"MOT: that's an interesting question .
 MOT: someone walk in this song ?
 CHI: walk along John .
 CHI: yyy doing .
 CHI: what was xxx Mommy's name what was xxx Mommy's name .",3.216,pro:int cop pro:sub part,P1Y10M5D,22.0
-Providence,Providence_under_2/011005.xml,u660,2,1,MOT,Mother,Mother,what was xxx doing ?,,5.552,pro:int aux part,P1Y10M5D,22.0
-Providence,Providence_under_2/011005.xml,u921,3,0,CHI,Target_Child,Naima,where Lucille go ?,"MOT: can I take your bib off ?
+Providence,Providence_under_2/011005.xml,u660,1,1,MOT,Mother,Mother,what was xxx doing ?,,5.552,pro:int aux part,P1Y10M5D,22.0
+Providence,Providence_under_2/011005.xml,u921,2,0,CHI,Target_Child,Naima,where Lucille go ?,"MOT: can I take your bib off ?
 CHI: no .
 MOT: oh okay .
 CHI: let's keep her in there .
 MOT: okay .",3.216,adv:int n:prop v,P1Y10M5D,22.0
-Providence,Providence_under_2/011005.xml,u922,3,1,MOT,Mother,Mother,where did she go ?,,5.552,adv:int mod pro:sub v,P1Y10M5D,22.0
+Providence,Providence_under_2/011005.xml,u922,2,1,MOT,Mother,Mother,where did she go ?,,5.552,adv:int mod pro:sub v,P1Y10M5D,22.0
 Providence,Providence_under_2/011011.xml,u95,1,0,CHI,Target_Child,Ethan,yyy yyy to go to the construction site ?,"CHI: away .
 MOT: away ,  yeah .
 MOT: to the garage ,  yeah .
@@ -1415,13 +1409,13 @@ CHI: xxx a yyy .
 CHI: yyy yyy yyy a bat .
 MOT: oh yeah it looks a little bit like a baseball bat ,  but you need a ball ,  take a piece for the ball ,  there's the bat ,  you hold on I'm gonna throw you the ball ,  I'm gonna pitch ,  ready ,  bong ,  home run .",3.021,mod:aux cop n,P1Y10M11D,22.0
 Providence,Providence_under_2/011011.xml,u297,3,1,MOT,Mother,Mother,"you gonna be safe ,  on first ?",,5.762,pro:per mod:aux cop n cm adv adv,P1Y10M11D,22.0
-Providence,Providence_under_2/011011.xml,u333,4,0,CHI,Target_Child,Ethan,do 0you wanna throw it ?,"CHI: run 
+Providence,Providence_under_2/011011.xml,u333,4,0,CHI,Target_Child,Ethan,do you wanna throw it ?,"CHI: run 
 MOT: run the bases ,  got you ,  out .
 CHI: I got you yyy out ?
 CHI: strike !
 MOT: strike .",3.021,mod 0pro mod:aux v pro:per,P1Y10M11D,22.0
 Providence,Providence_under_2/011011.xml,u334,4,1,MOT,Mother,Mother,"can you throw it to mommy ,  good catch ,  good throw ,  ready ?",,5.762,mod pro:per v pro:per prep n cm adj v cm adj v cm adj,P1Y10M11D,22.0
-Providence,Providence_under_2/011011.xml,u424,5,0,CHI,Target_Child,Ethan,okay what 0do you want 0to be for halloween ?,"CHI: a pumpkin .
+Providence,Providence_under_2/011011.xml,u424,5,0,CHI,Target_Child,Ethan,okay what do you want to be for halloween ?,"CHI: a pumpkin .
 MOT: hm: .
 MOT: yup .
 CHI: you yyy yyy you hug it .
@@ -1487,7 +1481,7 @@ MOT: wanna get out ?
 MOT: should I tip you over ?
 CHI: beaches ",2.559,n pro:sub v inf v,P1Y9M4D,21.0
 Providence,Providence_under_2/010904.xml,u410,3,1,MOT,Mother,Mother,"you wanna go to the beach ,  and swim in the ocean ?",,3.95,pro:per mod:aux v prep det:art n cm coord n prep det:art n,P1Y9M4D,21.0
-Providence,Providence_under_2/010904.xml,u441,4,0,CHI,Target_Child,Ethan,"dandelion ,  dandelion you want 0to read ?","CHI: dandelion !
+Providence,Providence_under_2/010904.xml,u441,4,0,CHI,Target_Child,Ethan,"dandelion ,  dandelion you want to read ?","CHI: dandelion !
 MOT: dandelion ,  yeah .
 MOT: whoops !
 MOT: whoops !
@@ -1496,7 +1490,7 @@ Providence,Providence_under_2/010904.xml,u442,4,1,MOT,Mother,Mother,you wanna re
 Providence,Providence_under_2/010904.xml,u443,5,0,CHI,Target_Child,Ethan,you what about   a different ?,"MOT: whoops !
 MOT: whoops !
 MOT: whoops !
-CHI: dandelion ,  dandelion you want 0to read ?
+CHI: dandelion ,  dandelion you want to read ?
 MOT: you wanna read it ?",2.559,pro:per pro:int adv det:art adj,P1Y9M4D,21.0
 Providence,Providence_under_2/010904.xml,u444,5,1,MOT,Mother,Mother,you want a different book ?,,3.95,pro:per v det:art adj n,P1Y9M4D,21.0
 Providence,Providence_under_2/010904.xml,u598,6,0,CHI,Target_Child,Ethan,what's that ?,"MOT: did you see these shapes ?
@@ -1649,7 +1643,7 @@ MOT: see them ,  yeah .
 MOT: ooh .
 MOT: ashay@c ashay@c .",2.703,pro:int mod:aux part,P1Y9M8D,21.0
 Providence,Providence_under_2/010908 copy.xml,u220,1,1,MOT,Mother,Mother,who's what ?,,5.098,pro:rel aux pro:int,P1Y9M8D,21.0
-Providence,Providence_under_2/010908 copy.xml,u221,2,0,CHI,Target_Child,Naima,who yyy coming at Babaji 0and Dadaji's house ?,"MOT: see them ,  yeah .
+Providence,Providence_under_2/010908 copy.xml,u221,2,0,CHI,Target_Child,Naima,who yyy coming at Babaji and Dadaji's house ?,"MOT: see them ,  yeah .
 MOT: ooh .
 MOT: ashay@c ashay@c .
 CHI: who gonna coming ?
@@ -1820,7 +1814,7 @@ Providence,Providence_under_2/010714.xml,u1001,5,1,MOT,Mother,Mother,would you l
 Providence,Providence_under_2/010700.xml,u604,1,0,CHI,Target_Child,Ethan,a clown do you ?,"CHI: block 
 CHI: clown ?
 MOT: no clown .
-CHI: 0do you have a clown 0do you ?
+CHI: do you have a clown do you ?
 CHI: you .",2.146,det:art n v pro:per,P1Y7M0D,19.0
 Providence,Providence_under_2/010700.xml,u605,1,1,MOT,Mother,Mother,I don't have a clown do you ?,,4.858,pro:sub mod neg v det:art n v pro:per,P1Y7M0D,19.0
 Providence,Providence_under_2/010927.xml,u110,1,0,CHI,Target_Child,William,where go ?,"CHI: wanna see it .
@@ -1871,13 +1865,13 @@ CHI: rooster .
 MOT: and these are the baby
 CHI: this one .",1.577,pro:int cop pro:dem pro:indef cm n,P1Y9M25D,22.0
 Providence,Providence_under_2/010925.xml,u586,1,1,MOT,Mother,Mother,which one ?,,4.141,pro:rel pro:indef,P1Y9M25D,22.0
-Providence,Providence_under_2/010717.xml,u45,1,0,CHI,Target_Child,Naima,where 0did she go where 0did she go ?,"MOT: I'm gonna look in my bag and see if any of your other friends are in there .
+Providence,Providence_under_2/010717.xml,u45,1,0,CHI,Target_Child,Naima,where did she go where did she go ?,"MOT: I'm gonna look in my bag and see if any of your other friends are in there .
 MOT: I'm gonna just look in your room for a second see if I can find them see if there's any friend here I don't see any hm: I'm gonna check my bag I have a feeling there might be in my bag ah let see ah there's lot of things here but not friends not yet anyway no you're putting one in oh .
 MOT: is she hiding in there ?
 CHI: yyy where yyy she go ?
 MOT: she's trying to hide ?",2.939,adv:int 0aux pro:sub v adv:int 0aux pro:sub v,P1Y7M17D,20.0
 Providence,Providence_under_2/010717.xml,u46,1,1,MOT,Mother,Mother,where did Sally go ?,,6.95,adv:int mod n:prop v,P1Y7M17D,20.0
-Providence,Providence_under_2/010717.xml,u52,2,0,CHI,Target_Child,Naima,where 0did Sally Lally where 0did Sally go ?,"CHI: where Sally go ?
+Providence,Providence_under_2/010717.xml,u52,2,0,CHI,Target_Child,Naima,where did Sally Lally where did Sally go ?,"CHI: where Sally go ?
 CHI: Mommy where Sally where Sally go ?
 MOT: I think Sally is hiding in Mommy's bag Sally come back here there she is .
 CHI: yyy is .
@@ -1886,87 +1880,81 @@ Providence,Providence_under_2/010717.xml,u53,2,1,MOT,Mother,Mother,where did she
 Providence,Providence_under_2/010717.xml,u54,3,0,CHI,Target_Child,Naima,where Sally go ?,"MOT: I think Sally is hiding in Mommy's bag Sally come back here there she is .
 CHI: yyy is .
 MOT: she can hide in your hat too she can hide in Naima's hat .
-CHI: where 0did Sally Lally where 0did Sally go ?
+CHI: where did Sally Lally where did Sally go ?
 MOT: where did she go did she go in the hat ?",2.939,adv:int n:prop v,P1Y7M17D,20.0
 Providence,Providence_under_2/010717.xml,u55,3,1,MOT,Mother,Mother,I don't know did she go in your hat ?,,6.95,pro:sub mod neg v mod pro:sub v prep det:poss n,P1Y7M17D,20.0
-Providence,Providence_under_2/010717.xml,u65,4,0,CHI,Target_Child,Naima,where 0did Sally go ?,"CHI: yyy again .
+Providence,Providence_under_2/010717.xml,u65,4,0,CHI,Target_Child,Naima,where did Sally go ?,"CHI: yyy again .
 MOT: is she gonna hide again ?
 CHI: Sally go .
 MOT: where did she go ?
 MOT: I don't know where did she go ?",2.939,adv:int 0aux n:prop v,P1Y7M17D,20.0
 Providence,Providence_under_2/010717.xml,u66,4,1,MOT,Mother,Mother,where did that Sally Lally go ?,,6.95,adv:int mod pro:rel n:prop n:prop v,P1Y7M17D,20.0
-Providence,Providence_under_2/010717.xml,u67,5,0,CHI,Target_Child,Naima,where 0did Sally go ?,"CHI: Sally go .
-MOT: where did she go ?
-MOT: I don't know where did she go ?
-CHI: where 0did Sally go ?
-MOT: where did that Sally Lally go ?",2.939,adv:int 0aux n:prop v,P1Y7M17D,20.0
-Providence,Providence_under_2/010717.xml,u68,5,1,MOT,Mother,Mother,where did Sally go ?,,6.95,adv:int mod n:prop v,P1Y7M17D,20.0
-Providence,Providence_under_2/010717.xml,u69,6,0,CHI,Target_Child,Naima,where 0did Sally go ?,"MOT: I don't know where did she go ?
-CHI: where 0did Sally go ?
+Providence,Providence_under_2/010717.xml,u69,5,0,CHI,Target_Child,Naima,where did Sally go ?,"MOT: I don't know where did she go ?
+CHI: where did Sally go ?
 MOT: where did that Sally Lally go ?
-CHI: where 0did Sally go ?
+CHI: where did Sally go ?
 MOT: where did Sally go ?",2.939,adv:int 0aux n:prop v,P1Y7M17D,20.0
-Providence,Providence_under_2/010717.xml,u70,6,1,MOT,Mother,Mother,I don't know where did she go ?,,6.95,pro:sub mod neg v adv:int mod pro:sub v,P1Y7M17D,20.0
-Providence,Providence_under_2/010717.xml,u78,7,0,CHI,Target_Child,Naima,where yyy where Sally go where Sally go ?,"MOT: I don't know .
+Providence,Providence_under_2/010717.xml,u70,5,1,MOT,Mother,Mother,I don't know where did she go ?,,6.95,pro:sub mod neg v adv:int mod pro:sub v,P1Y7M17D,20.0
+Providence,Providence_under_2/010717.xml,u78,6,0,CHI,Target_Child,Naima,where yyy where Sally go where Sally go ?,"MOT: I don't know .
 MOT: where did she ?
 CHI: there she is yyy .
 MOT: there she is .
 MOT: I see her .",2.939,adv:int adv:int n:prop v adv:int n:prop v,P1Y7M17D,20.0
-Providence,Providence_under_2/010717.xml,u79,7,1,MOT,Mother,Mother,where did she go where that Sally Lally girl go ?,,6.95,adv:int mod pro:sub v adv:int pro:rel n:prop n:prop n v,P1Y7M17D,20.0
-Providence,Providence_under_2/010717.xml,u108,8,0,CHI,Target_Child,Naima,yyy yyy yyy Sally go ?,"MOT: scissors .
+Providence,Providence_under_2/010717.xml,u79,6,1,MOT,Mother,Mother,where did she go where that Sally Lally girl go ?,,6.95,adv:int mod pro:sub v adv:int pro:rel n:prop n:prop n v,P1Y7M17D,20.0
+Providence,Providence_under_2/010717.xml,u108,7,0,CHI,Target_Child,Naima,yyy yyy yyy Sally go ?,"MOT: scissors .
 CHI: Sally yyy Sally Sally yyy xxx .
 MOT: what what happen .
 MOT: she can go in she can go in can't she ,  you're having trouble putting her in ,  how about I hold that open for you .
 MOT: there .",2.939,n:prop v,P1Y7M17D,20.0
-Providence,Providence_under_2/010717.xml,u109,8,1,MOT,Mother,Mother,where did she go ?,,6.95,adv:int mod pro:sub v,P1Y7M17D,20.0
-Providence,Providence_under_2/010717.xml,u134,9,0,CHI,Target_Child,Naima,where yyy Asha Basha ?,"CHI: yyy Sally go .
+Providence,Providence_under_2/010717.xml,u109,7,1,MOT,Mother,Mother,where did she go ?,,6.95,adv:int mod pro:sub v,P1Y7M17D,20.0
+Providence,Providence_under_2/010717.xml,u134,8,0,CHI,Target_Child,Naima,where yyy Asha Basha ?,"CHI: yyy Sally go .
 MOT: where did Sally go hah is someone else in there too ?
 CHI: Mommy yyy .
 MOT: who else is in there hah that's Sally oh just Sally in there .
 MOT: okay keep it open while I'm putting her in okay we keep that open there .",2.939,adv:int n:prop n:prop,P1Y7M17D,20.0
-Providence,Providence_under_2/010717.xml,u135,9,1,MOT,Mother,Mother,oh where's Asha where is she ?,,6.95,co pro:rel aux n:prop adv:int cop pro:sub,P1Y7M17D,20.0
-Providence,Providence_under_2/010717.xml,u137,10,0,CHI,Target_Child,Naima,where yyy Asha Basha go ?,"CHI: Mommy yyy .
+Providence,Providence_under_2/010717.xml,u135,8,1,MOT,Mother,Mother,oh where's Asha where is she ?,,6.95,co pro:rel aux n:prop adv:int cop pro:sub,P1Y7M17D,20.0
+Providence,Providence_under_2/010717.xml,u137,9,0,CHI,Target_Child,Naima,where yyy Asha Basha go ?,"CHI: Mommy yyy .
 MOT: who else is in there hah that's Sally oh just Sally in there .
 MOT: okay keep it open while I'm putting her in okay we keep that open there .
 CHI: where yyy Asha Basha ?
 MOT: oh where's Asha where is she ?",2.939,adv:int n:prop v,P1Y7M17D,20.0
-Providence,Providence_under_2/010717.xml,u138,10,1,MOT,Mother,Mother,where did Asha Basha go ?,,6.95,adv:int mod n:prop v,P1Y7M17D,20.0
-Providence,Providence_under_2/010717.xml,u168,11,0,CHI,Target_Child,Naima,yyy Asha Basha go ?,"MOT: she was in the hat oh my gosh .
+Providence,Providence_under_2/010717.xml,u138,9,1,MOT,Mother,Mother,where did Asha Basha go ?,,6.95,adv:int mod n:prop v,P1Y7M17D,20.0
+Providence,Providence_under_2/010717.xml,u168,10,0,CHI,Target_Child,Naima,yyy Asha Basha go ?,"MOT: she was in the hat oh my gosh .
 CHI: yyy turn taking a turn taking a turn .
 MOT: taking turns oh who's turn is it next ?
 CHI: Asha Basha .
 MOT: oh is her turn next ah: .",2.939,n:prop n:prop v,P1Y7M17D,20.0
-Providence,Providence_under_2/010717.xml,u169,11,1,MOT,Mother,Mother,where's Asha Basha ?,,6.95,adv:int cop n:prop n:prop,P1Y7M17D,20.0
-Providence,Providence_under_2/010717.xml,u182,12,0,CHI,Target_Child,Naima,where 0did Sally go where 0did Sally go ?,"CHI: yyy Asha Basha yyy yyy yyy yyy .
-MOT: let's see attention .
-CHI: Lucy yyy .
+Providence,Providence_under_2/010717.xml,u169,10,1,MOT,Mother,Mother,where's Asha Basha ?,,6.95,adv:int cop n:prop n:prop,P1Y7M17D,20.0
+Providence,Providence_under_2/010717.xml,u184,11,0,CHI,Target_Child,Naima,yyy yyy Sally go ?,"CHI: Lucy yyy .
 MOT: Robin Lucy Busi Sullusy .
-CHI: where yyy 0did Asha Basha go where did Asha Basha Asha Basha go ?",2.939,adv:int 0aux n:prop v adv:int 0aux n:prop v,P1Y7M17D,20.0
-Providence,Providence_under_2/010717.xml,u183,12,1,MOT,Mother,Mother,where did Sally go ?,,6.95,adv:int mod n:prop v,P1Y7M17D,20.0
-Providence,Providence_under_2/010717.xml,u184,13,0,CHI,Target_Child,Naima,yyy yyy Sally go ?,"CHI: Lucy yyy .
-MOT: Robin Lucy Busi Sullusy .
-CHI: where yyy 0did Asha Basha go where did Asha Basha Asha Basha go ?
-CHI: where 0did Sally go where 0did Sally go ?
+CHI: where yyy did Asha Basha go where did Asha Basha Asha Basha go ?
+CHI: where did Sally go where did Sally go ?
 MOT: where did Sally go ?",2.939,n:prop v,P1Y7M17D,20.0
-Providence,Providence_under_2/010717.xml,u185,13,1,MOT,Mother,Mother,did she go in the hat ?,,6.95,mod pro:sub v prep det:art n,P1Y7M17D,20.0
-Providence,Providence_under_2/010717.xml,u625,14,0,CHI,Target_Child,Naima,where yyy friends go where yyy friends go ?,"MOT: Naima's building stairs yeah .
+Providence,Providence_under_2/010717.xml,u185,11,1,MOT,Mother,Mother,did she go in the hat ?,,6.95,mod pro:sub v prep det:art n,P1Y7M17D,20.0
+Providence,Providence_under_2/010717.xml,u625,12,0,CHI,Target_Child,Naima,where yyy friends go where yyy friends go ?,"MOT: Naima's building stairs yeah .
 MOT: good job .
 MOT: oops sorry xxx .
 MOT: there's another stair .
 MOT: for your friends oh where did we leave where did all those friends go anyway .",2.939,adv:int n v adv:int n v,P1Y7M17D,20.0
-Providence,Providence_under_2/010717.xml,u626,14,1,MOT,Mother,Mother,where did those friends go ?,,6.95,adv:int v pro:dem n v,P1Y7M17D,20.0
-Providence,Providence_under_2/010717.xml,u890,15,0,CHI,Target_Child,Naima,what letter is that ?,"MOT: oh you're drawing it oh .
+Providence,Providence_under_2/010717.xml,u626,12,1,MOT,Mother,Mother,where did those friends go ?,,6.95,adv:int v pro:dem n v,P1Y7M17D,20.0
+Providence,Providence_under_2/010717.xml,u890,13,0,CHI,Target_Child,Naima,what letter is that ?,"MOT: oh you're drawing it oh .
 MOT: alright .
 MOT: okay ah: what letter is that ?
 CHI: what letter is that ?
 CHI: what letter is that ?",2.939,pro:int n cop pro:dem,P1Y7M17D,20.0
-Providence,Providence_under_2/010717.xml,u891,15,1,MOT,Mother,Mother,what letter do you think that is ?,,6.95,pro:int n v pro:per v pro:dem cop,P1Y7M17D,20.0
+Providence,Providence_under_2/010717.xml,u891,13,1,MOT,Mother,Mother,what letter do you think that is ?,,6.95,pro:int n v pro:per v pro:dem cop,P1Y7M17D,20.0
 Providence,Providence_under_2/010918.xml,u141,1,0,CHI,Target_Child,Ethan,what you doing ?,"MOT: maybe they used the other battery for something .
 MOT: xxx so there's only one today .
 CHI: two batteries xxx .
 MOT: one battery today .
 MOT: whatcha doin<g> ?",2.75,pro:int pro:per part,P1Y9M18D,22.0
 Providence,Providence_under_2/010918.xml,u142,1,1,MOT,Mother,Mother,what're you doing ?,,4.133,pro:int aux pro:per part,P1Y9M18D,22.0
+Providence,Providence_under_2/010111.xml,u247,1,0,CHI,Target_Child,Naima,where'd it go ?,"MOT: soft training baseball .
+MOT: doesn't bounce that one bounces .
+MOT: woo !
+MOT: very nice .
+MOT: yeah .",1.212,adv:int mod pro:per 0v,P1Y1M11D,13.0
+Providence,Providence_under_2/010111.xml,u248,1,1,MOT,Mother,Mother,where did it go ?,,3.975,adv:int mod pro:per v,P1Y1M11D,13.0
 Providence,Providence_under_2/010700 copy.xml,u428,1,0,CHI,Target_Child,Naima,where's   the shapes ?,"MOT: red block .
 MOT: that's a triangle block isn't it ?
 MOT: are there shapes in
@@ -1979,102 +1967,78 @@ MOT: where's the circle ?
 MOT: do you see any circles here ?
 CHI: see any yyy",2.954,v qn n,P1Y7M0D,19.0
 Providence,Providence_under_2/010700 copy.xml,u447,2,1,MOT,Mother,Mother,where's the circle on this page ?,,6.051,adv:int cop det:art n prep pro:dem n,P1Y7M0D,19.0
-Providence,Providence_under_2/010700 copy.xml,u559,3,0,CHI,Target_Child,Naima,Mama where 0is good night book ?,"CHI: where's the good night book ?
+Providence,Providence_under_2/010700 copy.xml,u559,3,0,CHI,Target_Child,Naima,Mama where is good night book ?,"CHI: where's the good night book ?
 MOT: can you
 MOT: can you bring it it's over there .
 MOT: are you gonna bring your cards xxx .
 MOT: you can bring the cards that's fine .",2.954,n:prop adv:int 0aux co n,P1Y7M0D,19.0
 Providence,Providence_under_2/010700 copy.xml,u560,3,1,MOT,Mother,Mother,we gonna take these all into your room and put them in the book case where is Naima ?,,6.051,pro:sub mod:aux v pro:dem pro:indef prep det:poss n coord v pro:obj prep det:art n n pro:rel cop n:prop,P1Y7M0D,19.0
-Providence,Providence_under_2/010700 copy.xml,u724,4,0,CHI,Target_Child,Naima,where 0did the armadillo go ?,"MOT: what is that panda bear doing ?
+Providence,Providence_under_2/010700 copy.xml,u724,4,0,CHI,Target_Child,Naima,where did the armadillo go ?,"MOT: what is that panda bear doing ?
 CHI: standing .
 MOT: standing eating bamboo .
 CHI: eating a bamboo .
 MOT: yummy .",2.954,adv:int 0aux det:art n v,P1Y7M0D,19.0
 Providence,Providence_under_2/010700 copy.xml,u725,4,1,MOT,Mother,Mother,where's the armadillo ?,,6.051,adv:int cop det:art n,P1Y7M0D,19.0
-Providence,Providence_under_2/010700 copy.xml,u727,5,0,CHI,Target_Child,Naima,where 0did the armadillo go where 0did the armadillo go ?,"CHI: eating a bamboo .
-MOT: yummy .
-CHI: where 0did the armadillo go ?
-MOT: where's the armadillo ?
-MOT: xxx hiding behind the panda .",2.954,adv:int 0aux det:art n v adv:int 0aux det:art n v,P1Y7M0D,19.0
-Providence,Providence_under_2/010700 copy.xml,u728,5,1,MOT,Mother,Mother,where did the armadillo go ?,,6.051,pro:rel v det:art n v,P1Y7M0D,19.0
-Providence,Providence_under_2/010700 copy.xml,u744,6,0,CHI,Target_Child,Naima,xxx where 0did the armadillo go ?,"MOT: Eliza ?
-CHI: yyy yyy behind the fox xxx .
-MOT: what ?
-MOT: you're mixing up the song with the game with the cards .
-MOT: the song is Eliza Jane .",2.954,adv:int 0aux det:art n v,P1Y7M0D,19.0
-Providence,Providence_under_2/010700 copy.xml,u745,6,1,MOT,Mother,Mother,where did the armadillo go ?,,6.051,pro:rel v det:art n v,P1Y7M0D,19.0
-Providence,Providence_under_2/010700 copy.xml,u761,7,0,CHI,Target_Child,Naima,where 0did the armadillo xxx ?,"MOT: oh God .
+Providence,Providence_under_2/010700 copy.xml,u761,5,0,CHI,Target_Child,Naima,where did the armadillo xxx ?,"MOT: oh God .
 CHI: armadillo &dillo &dillo armadillo .
 MOT: ah: .
 CHI: armadillo armadi<llo> yyy armadillo .
 MOT: stupid prerecorded",2.954,adv:int 0aux det:art n,P1Y7M0D,19.0
-Providence,Providence_under_2/010700 copy.xml,u762,7,1,MOT,Mother,Mother,where did the armadillo go ?,,6.051,pro:rel v det:art n v,P1Y7M0D,19.0
-Providence,Providence_under_2/010700 copy.xml,u764,8,0,CHI,Target_Child,Naima,where 0did the armadi<llo> 0go ?,"CHI: armadillo armadi<llo> yyy armadillo .
+Providence,Providence_under_2/010700 copy.xml,u762,5,1,MOT,Mother,Mother,where did the armadillo go ?,,6.051,pro:rel v det:art n v,P1Y7M0D,19.0
+Providence,Providence_under_2/010700 copy.xml,u764,6,0,CHI,Target_Child,Naima,where did the armadi<llo> go ?,"CHI: armadillo armadi<llo> yyy armadillo .
 MOT: stupid prerecorded
-CHI: where 0did the armadillo xxx ?
+CHI: where did the armadillo xxx ?
 MOT: where did the armadillo go ?
-CHI: where 0did the armadillo go ?",2.954,adv:int 0aux det:art n 0v,P1Y7M0D,19.0
-Providence,Providence_under_2/010700 copy.xml,u765,8,1,MOT,Mother,Mother,is that armadillo hiding again ?,,6.051,cop pro:dem n part adv,P1Y7M0D,19.0
-Providence,Providence_under_2/010700 copy.xml,u777,9,0,CHI,Target_Child,Naima,xxx where's her yyy ?,"MOT: she hides she likes to
+CHI: where did the armadillo go ?",2.954,adv:int 0aux det:art n 0v,P1Y7M0D,19.0
+Providence,Providence_under_2/010700 copy.xml,u765,6,1,MOT,Mother,Mother,is that armadillo hiding again ?,,6.051,cop pro:dem n part adv,P1Y7M0D,19.0
+Providence,Providence_under_2/010700 copy.xml,u777,7,0,CHI,Target_Child,Naima,xxx where's her yyy ?,"MOT: she hides she likes to
 CHI: yyy there .
 MOT: where ?
 MOT: over there ?
 MOT: oh there she is .",2.954,adv:int cop pro:obj,P1Y7M0D,19.0
-Providence,Providence_under_2/010700 copy.xml,u778,9,1,MOT,Mother,Mother,where's her where is she ?,,6.051,adv:int cop pro:obj pro:rel cop pro:sub,P1Y7M0D,19.0
-Providence,Providence_under_2/010700 copy.xml,u779,10,0,CHI,Target_Child,Naima,where 0did the armadillo go ?,"MOT: where ?
+Providence,Providence_under_2/010700 copy.xml,u778,7,1,MOT,Mother,Mother,where's her where is she ?,,6.051,adv:int cop pro:obj pro:rel cop pro:sub,P1Y7M0D,19.0
+Providence,Providence_under_2/010700 copy.xml,u779,8,0,CHI,Target_Child,Naima,where did the armadillo go ?,"MOT: where ?
 MOT: over there ?
 MOT: oh there she is .
 CHI: xxx where's her yyy ?
 MOT: where's her where is she ?",2.954,adv:int 0aux det:art n v,P1Y7M0D,19.0
-Providence,Providence_under_2/010700 copy.xml,u780,10,1,MOT,Mother,Mother,did she go to the bathroom ?,,6.051,mod pro:sub v prep det:art n n n,P1Y7M0D,19.0
-Providence,Providence_under_2/010700 copy.xml,u803,11,0,CHI,Target_Child,Naima,top what yyy top doing there ?,"CHI: drop him drop him .
+Providence,Providence_under_2/010700 copy.xml,u780,8,1,MOT,Mother,Mother,did she go to the bathroom ?,,6.051,mod pro:sub v prep det:art n n n,P1Y7M0D,19.0
+Providence,Providence_under_2/010700 copy.xml,u803,9,0,CHI,Target_Child,Naima,top what yyy top doing there ?,"CHI: drop him drop him .
 CHI: drop him .
-CHI: where 0did the armadillo willo@wp go ?
-CHI: where 0did the armadillo willo@wp
+CHI: where did the armadillo willo@wp go ?
+CHI: where did the armadillo willo@wp
 MOT: I don't know where is the armadillo ?",2.954,n pro:int n part adv,P1Y7M0D,19.0
-Providence,Providence_under_2/010700 copy.xml,u804,11,1,MOT,Mother,Mother,what's the top doing there ?,,6.051,pro:int aux det:art n part adv,P1Y7M0D,19.0
-Providence,Providence_under_2/010700 copy.xml,u805,12,0,CHI,Target_Child,Naima,what's the grapes doing there ?,"CHI: where 0did the armadillo willo@wp go ?
-CHI: where 0did the armadillo willo@wp
+Providence,Providence_under_2/010700 copy.xml,u804,9,1,MOT,Mother,Mother,what's the top doing there ?,,6.051,pro:int aux det:art n part adv,P1Y7M0D,19.0
+Providence,Providence_under_2/010700 copy.xml,u805,10,0,CHI,Target_Child,Naima,what's the grapes doing there ?,"CHI: where did the armadillo willo@wp go ?
+CHI: where did the armadillo willo@wp
 MOT: I don't know where is the armadillo ?
 CHI: top what yyy top doing there ?
 MOT: what's the top doing there ?",2.954,pro:int aux det:art n part adv,P1Y7M0D,19.0
-Providence,Providence_under_2/010700 copy.xml,u806,12,1,MOT,Mother,Mother,what're the grapes doing there ?,,6.051,pro:int aux det:art n part adv,P1Y7M0D,19.0
-Providence,Providence_under_2/010700 copy.xml,u839,13,0,CHI,Target_Child,Naima,where 0did the armadillo ?,"MOT: yes you hit the bug with those grapes .
+Providence,Providence_under_2/010700 copy.xml,u806,10,1,MOT,Mother,Mother,what're the grapes doing there ?,,6.051,pro:int aux det:art n part adv,P1Y7M0D,19.0
+Providence,Providence_under_2/010700 copy.xml,u839,11,0,CHI,Target_Child,Naima,where did the armadillo ?,"MOT: yes you hit the bug with those grapes .
 CHI: Naima .
 CHI: where where'd it go ?
-CHI: where 0did the armadillo go ?
+CHI: where did the armadillo go ?
 MOT: I don't know where the armadillo went .",2.954,adv:int 0aux det:art n,P1Y7M0D,19.0
-Providence,Providence_under_2/010700 copy.xml,u840,13,1,MOT,Mother,Mother,where did the armadillo go ?,,6.051,pro:rel v det:art n v,P1Y7M0D,19.0
-Providence,Providence_under_2/010700 copy.xml,u899,14,0,CHI,Target_Child,Naima,where 0did the armadillo go ?,"MOT: all the rattles .
+Providence,Providence_under_2/010700 copy.xml,u840,11,1,MOT,Mother,Mother,where did the armadillo go ?,,6.051,pro:rel v det:art n v,P1Y7M0D,19.0
+Providence,Providence_under_2/010700 copy.xml,u899,12,0,CHI,Target_Child,Naima,where did the armadillo go ?,"MOT: all the rattles .
 CHI: spot .
 MOT: you slipped on the cards all the rattles and the shaky egg and this star fish is kind of a rattle too then I'm gonna put all the animals that move around in another spot .
-CHI: where 0did the armadillo go ?
+CHI: where did the armadillo go ?
 MOT: oh here she is she was hiding Naima .",2.954,adv:int 0aux det:art n v,P1Y7M0D,19.0
-Providence,Providence_under_2/010700 copy.xml,u900,14,1,MOT,Mother,Mother,where did she go ?,,6.051,adv:int mod pro:sub v,P1Y7M0D,19.0
-Providence,Providence_under_2/010700 copy.xml,u922,15,0,CHI,Target_Child,Naima,where 0did the armadillo go ?,"CHI: Naima Naima putting yyy .
-MOT: you're putting a ribbon on you head .
-CHI: shaky egg .
-CHI: shaky egg .
-MOT: shaky egg's over here see the blue shaky egg is right there .",2.954,adv:int 0aux det:art n v,P1Y7M0D,19.0
-Providence,Providence_under_2/010700 copy.xml,u923,15,1,MOT,Mother,Mother,where did the armadillo go ?,,6.051,pro:rel v det:art n v,P1Y7M0D,19.0
-Providence,Providence_under_2/010700 copy.xml,u946,16,0,CHI,Target_Child,Naima,where 0did the armadillo willo@wp go ?,"CHI: lego the person .
-MOT: there's a lego .
-MOT: where's the lego ?
-CHI: where where 0did the armadillo go ?
-CHI: where 0did the armadillo go ?",2.954,adv:int 0aux det:art n wplay v,P1Y7M0D,19.0
-Providence,Providence_under_2/010700 copy.xml,u947,16,1,MOT,Mother,Mother,where did the armadillo willo@wp go ?,,6.051,pro:rel v det:art n wplay v,P1Y7M0D,19.0
-Providence,Providence_under_2/010700 copy.xml,u958,17,0,CHI,Target_Child,Naima,where 0did the armadillo go ?,"MOT: there she is and there is the spider hello spider I don't think that's good to eat is it ?
-CHI: xxx where 0did the spider go ?
-CHI: where 0did the spider ?
+Providence,Providence_under_2/010700 copy.xml,u900,12,1,MOT,Mother,Mother,where did she go ?,,6.051,adv:int mod pro:sub v,P1Y7M0D,19.0
+Providence,Providence_under_2/010700 copy.xml,u958,13,0,CHI,Target_Child,Naima,where did the armadillo go ?,"MOT: there she is and there is the spider hello spider I don't think that's good to eat is it ?
+CHI: xxx where did the spider go ?
+CHI: where did the spider ?
 MOT: you have the spider in your hand .
-CHI: where 0did the armadillo go ?",2.954,adv:int 0aux det:art n v,P1Y7M0D,19.0
-Providence,Providence_under_2/010700 copy.xml,u959,17,1,MOT,Mother,Mother,where did the airplane go ?,,6.051,pro:rel v det:art n v,P1Y7M0D,19.0
-Providence,Providence_under_2/010700 copy.xml,u1007,18,0,CHI,Target_Child,Naima,where's yyy armadillo ?,"CHI: yyy take yyy armadillo .
+CHI: where did the armadillo go ?",2.954,adv:int 0aux det:art n v,P1Y7M0D,19.0
+Providence,Providence_under_2/010700 copy.xml,u959,13,1,MOT,Mother,Mother,where did the airplane go ?,,6.051,pro:rel v det:art n v,P1Y7M0D,19.0
+Providence,Providence_under_2/010700 copy.xml,u1007,14,0,CHI,Target_Child,Naima,where's yyy armadillo ?,"CHI: yyy take yyy armadillo .
 MOT: you can take the armadillo .
 MOT: I'm just gonna turn the music down a little bit .
 MOT: you wanna hear Eliza again ?
 MOT: I'm just put it down down very low .",2.954,adv:int cop n,P1Y7M0D,19.0
-Providence,Providence_under_2/010700 copy.xml,u1008,18,1,MOT,Mother,Mother,where's that armadillo ?,,6.051,adv:int cop pro:dem n,P1Y7M0D,19.0
+Providence,Providence_under_2/010700 copy.xml,u1008,14,1,MOT,Mother,Mother,where's that armadillo ?,,6.051,adv:int cop pro:dem n,P1Y7M0D,19.0
 Providence,Providence_under_2/010605.xml,u1388,1,0,CHI,Target_Child,William,yyy light ?,"MOT: I see the light .
 CHI: yyy light ?
 MOT: yes .
@@ -2087,26 +2051,26 @@ CHI: little ball .
 MOT: the little ball that's right .
 CHI: yellow ball .",1.729,n:prop v,P1Y4M11D,16.0
 Providence,Providence_under_2/010411.xml,u604,1,1,MOT,Mother,Mother,Ethan catch the ball ?,,4.142,n:prop v det:art n,P1Y4M11D,16.0
-Providence,Providence_under_2/010808.xml,u137,1,0,CHI,Target_Child,Naima,where 0did the k@l go ?,"MOT: letter x@l and letter k@l are there .
+Providence,Providence_under_2/010808.xml,u137,1,0,CHI,Target_Child,Naima,where did the k@l go ?,"MOT: letter x@l and letter k@l are there .
 CHI: look   at   the   yyy .
 MOT: letter x@l ,  what's the picture
 MOT: oh there's a picture of a xylophone there .
-CHI: where where 0did the k@l go ?",2.508,adv:int 0aux det:art n:let v,P1Y8M8D,20.0
+CHI: where where did the k@l go ?",2.508,adv:int 0aux det:art n:let v,P1Y8M8D,20.0
 Providence,Providence_under_2/010808.xml,u138,1,1,MOT,Mother,Mother,where'd the k@l go ?,,4.962,pro:rel v det:art n:let v,P1Y8M8D,20.0
 Providence,Providence_under_2/010808.xml,u140,2,0,CHI,Target_Child,Naima,where yyy k@l go ?,"MOT: oh there's a picture of a xylophone there .
-CHI: where where 0did the k@l go ?
-CHI: where 0did the k@l go ?
+CHI: where where did the k@l go ?
+CHI: where did the k@l go ?
 MOT: where'd the k@l go ?
 MOT: there it is !",2.508,adv:int n:let v,P1Y8M8D,20.0
 Providence,Providence_under_2/010808.xml,u141,2,1,MOT,Mother,Mother,where'd the k@l go ?,,4.962,pro:rel v det:art n:let v,P1Y8M8D,20.0
 Providence,Providence_under_2/010808.xml,u148,3,0,CHI,Target_Child,Naima,where'd it go ?,"CHI: yyy go ?
 CHI: where is it ?
 MOT: where'd the k@l go Naima ?
-CHI: there 0it is .
+CHI: there it is .
 MOT: there it is !",2.508,adv:int mod pro:per v,P1Y8M8D,20.0
 Providence,Providence_under_2/010808.xml,u149,3,1,MOT,Mother,Mother,where did it go ?,,4.962,adv:int mod pro:per v,P1Y8M8D,20.0
 Providence,Providence_under_2/010808.xml,u156,4,0,CHI,Target_Child,Naima,where'd it go ?,"CHI: where'd it   go ?
-CHI: where 0did it go ?
+CHI: where did it go ?
 MOT: it's hiding I think .
 CHI: there .
 MOT: there it is .",2.508,adv:int mod pro:per v,P1Y8M8D,20.0
@@ -2117,11 +2081,11 @@ CHI: Mommy yyy yyy .
 CHI: Mommy yyy yyy .
 MOT: Mommy what ?",2.508,adv:int cop pro:rel v,P1Y8M8D,20.0
 Providence,Providence_under_2/010808.xml,u207,5,1,MOT,Mother,Mother,where's that three belong ?,,4.962,adv:int cop det:dem det:num v,P1Y8M8D,20.0
-Providence,Providence_under_2/010808.xml,u526,6,0,CHI,Target_Child,Naima,where 0did the whale go ?,"CHI: the nuts fell out .
+Providence,Providence_under_2/010808.xml,u526,6,0,CHI,Target_Child,Naima,where did the whale go ?,"CHI: the nuts fell out .
 CHI: the nuts .
 MOT: the nuts are always falling out .
 MOT: oh ,  and here's the horse .
-CHI: where 0did the yyy ,  where 0did the whale go ?",2.508,adv:int 0aux det:art n v,P1Y8M8D,20.0
+CHI: where did the yyy ,  where did the whale go ?",2.508,adv:int 0aux det:art n v,P1Y8M8D,20.0
 Providence,Providence_under_2/010808.xml,u527,6,1,MOT,Mother,Mother,"did you hide the whale ,  is the whale hiding ?",,4.962,v pro:per v det:art n cm aux det:art n part,P1Y8M8D,20.0
 Providence,Providence_under_2/010808.xml,u1306,7,0,CHI,Target_Child,Naima,what's her name ?,"MOT: who else there was one more person who visited the other day .
 MOT: xxx and xxx and xxx came with
@@ -2147,7 +2111,7 @@ MOT: you're welcome ,  sweetie .
 MOT: thank you for saying thank you .
 MOT: what's up ?",2.149,det:art n,P1Y8M20D,21.0
 Providence,Providence_under_2/010820.xml,u438,2,1,MOT,Mother,Mother,you want some toys ?,,4.271,pro:per v qn n,P1Y8M20D,21.0
-Providence,Providence_under_2/010820.xml,u737,3,0,CHI,Target_Child,Ethan,yyy yyy yyy yyy yyy yyy yyy yyy yyy do 0you see any ?,"CHI: different .
+Providence,Providence_under_2/010820.xml,u737,3,0,CHI,Target_Child,Ethan,yyy yyy yyy yyy yyy yyy yyy yyy yyy do you see any ?,"CHI: different .
 MOT: yup ,  they're different .
 MOT: they're a different shape .
 CHI: yyy color yyy .
@@ -2177,13 +2141,13 @@ CHI: yeah .
 MOT: huh ,  huh .
 MOT: who's gonna use those stairs ,  do you think ?",2.888,pro:rel aux mod:aux v pro:dem n,P1Y8M21D,21.0
 Providence,Providence_under_2/010821.xml,u131,1,1,MOT,Mother,Mother,who do you think ?,,5.51,pro:int mod pro:per v,P1Y8M21D,21.0
-Providence,Providence_under_2/010821.xml,u338,2,0,CHI,Target_Child,Naima,I wonder 0if it's in there ?,"CHI: the other room ,  that other one .
+Providence,Providence_under_2/010821.xml,u338,2,0,CHI,Target_Child,Naima,I wonder if it's in there ?,"CHI: the other room ,  that other one .
 MOT: that other one .
 MOT: yeah .
 CHI: I wanted to stay there .
-CHI: I wonder 0if it's in there ?",2.888,pro:sub v 0conj pro:per aux adv adv,P1Y8M21D,21.0
+CHI: I wonder if it's in there ?",2.888,pro:sub v 0conj pro:per aux adv adv,P1Y8M21D,21.0
 Providence,Providence_under_2/010821.xml,u339,2,1,MOT,Mother,Mother,you wonder if it's in there ?,,5.51,pro:per v conj pro:per aux adv adv,P1Y8M21D,21.0
-Providence,Providence_under_2/010821.xml,u536,3,0,CHI,Target_Child,Naima,what 0is in the baskets ?,"CHI: I think
+Providence,Providence_under_2/010821.xml,u536,3,0,CHI,Target_Child,Naima,what is in the baskets ?,"CHI: I think
 MOT: mhm .
 MOT: mhm .
 CHI: I think
@@ -2195,19 +2159,19 @@ MOT: of the owl's house .
 CHI: what's he doing ?
 MOT: who ?",2.888,pro:int aux n part,P1Y8M21D,21.0
 Providence,Providence_under_2/010821.xml,u565,4,1,MOT,Mother,Mother,Pooh bear ?,,5.51,n:prop n,P1Y8M21D,21.0
-Providence,Providence_under_2/010821.xml,u632,5,0,CHI,Target_Child,Naima,xxx who 0is eating at the table ?,"MOT: okay .
+Providence,Providence_under_2/010821.xml,u632,5,0,CHI,Target_Child,Naima,xxx who is eating at the table ?,"MOT: okay .
 MOT: let's turn the page here .
 MOT: on this page we have another pop+up .
 MOT: oh ,  this is owl's living room .
 MOT: it looks a little bit like our living room because it has a fire+place .",2.888,pro:int 0aux part prep det:art n,P1Y8M21D,21.0
 Providence,Providence_under_2/010821.xml,u633,5,1,MOT,Mother,Mother,is he eating at that table ?,,5.51,cop pro:sub part prep pro:dem n,P1Y8M21D,21.0
-Providence,Providence_under_2/010821.xml,u637,6,0,CHI,Target_Child,Naima,what else ?,"CHI: xxx who 0is eating at the table ?
+Providence,Providence_under_2/010821.xml,u637,6,0,CHI,Target_Child,Naima,what else ?,"CHI: xxx who is eating at the table ?
 MOT: is he eating at that table ?
 MOT: hm: .
 CHI: he did
 MOT: what else does the owl have in his house ?",2.888,pro:int post,P1Y8M21D,21.0
 Providence,Providence_under_2/010821.xml,u638,6,1,MOT,Mother,Mother,what else is in the picture ?,,5.51,pro:int post aux prep det:art n,P1Y8M21D,21.0
-Providence,Providence_under_2/010821.xml,u744,7,0,CHI,Target_Child,Naima,what 0is over it ?,"CHI: there 0it is .
+Providence,Providence_under_2/010821.xml,u744,7,0,CHI,Target_Child,Naima,what is over it ?,"CHI: there it is .
 CHI: where did it go ?
 CHI: there
 MOT: it's a river and it has
@@ -2216,7 +2180,7 @@ Providence,Providence_under_2/010821.xml,u745,7,1,MOT,Mother,Mother,you know wha
 Providence,Providence_under_2/010821.xml,u942,8,0,CHI,Target_Child,Naima,how did you get there ?,"CHI: knocking the light .
 MOT: mhm .
 MOT: knocking over the light .
-CHI: what 0did he said 
+CHI: what did he said 
 MOT: what does the policeman say ?",2.888,adv:int mod pro:per v adv,P1Y8M21D,21.0
 Providence,Providence_under_2/010821.xml,u943,8,1,MOT,Mother,Mother,how did you get up there ?,,5.51,adv:int mod pro:per v adv adv,P1Y8M21D,21.0
 Providence,Providence_under_2/010821.xml,u1216,9,0,CHI,Target_Child,Naima,what's Mama doing ?,"MOT: her mommy tucks her in .
@@ -2225,7 +2189,7 @@ MOT: what ?
 CHI: what's she doing ?
 MOT: who ?",2.888,pro:int aux n:prop part,P1Y8M21D,21.0
 Providence,Providence_under_2/010821.xml,u1217,9,1,MOT,Mother,Mother,"you mean ,  little bird's mama ?",,5.51,pro:per adj cm adj n poss n,P1Y8M21D,21.0
-Providence,Providence_under_2/010821.xml,u1445,10,0,CHI,Target_Child,Naima,what's Liza doing ?,"CHI: what's she 0am 0i doing with Liza ?
+Providence,Providence_under_2/010821.xml,u1445,10,0,CHI,Target_Child,Naima,what's Liza doing ?,"CHI: what's she am i doing with Liza ?
 MOT: are you giving her bath ?
 MOT: oh .
 MOT: looks like fun .
@@ -2243,7 +2207,7 @@ MOT: I don't see a cow now .
 CHI: do you ?
 CHI: house .",1.537,adv:int n,P1Y4M0D,16.0
 Providence,Providence_under_2/010400.xml,u347,1,1,MOT,Mother,Mother,"you wanna put him in the house ,  you have to open the door ,  right ?",,3.973,pro:per mod:aux v pro:obj prep det:art n cm pro:per mod:aux v det:art n cm n,P1Y4M0D,16.0
-Providence,Providence_under_2/010825.xml,u780,1,0,CHI,Target_Child,Alex,what 0is that ?,"MOT: you fou:nd me ,  how did you do that ?
+Providence,Providence_under_2/010825.xml,u780,1,0,CHI,Target_Child,Alex,what is that ?,"MOT: you fou:nd me ,  how did you do that ?
 MOT: you found me ,  yeah .
 MOT: hm: ,  has anyone seen Alex ?
 MOT: where could he be ?
@@ -2255,7 +2219,7 @@ MOT: this is this is the can't sit up slug .
 MOT: he put the Tooth Fairy's magic wand and wings on the slug .
 MOT: ah .",2.696,adv:int mod n:prop n:prop v,P1Y10M27D,23.0
 Providence,Providence_under_2/011027 copy.xml,u213,1,1,MOT,Mother,Mother,you wanna look for Curly Shirley ?,,5.215,pro:per mod:aux v prep n:prop n:prop,P1Y10M27D,23.0
-Providence,Providence_under_2/011027 copy.xml,u864,2,0,CHI,Target_Child,Naima,wait   what 0are they called ?,"MOT: and then maybe while you're eating dinner maybe I'll read that .
+Providence,Providence_under_2/011027 copy.xml,u864,2,0,CHI,Target_Child,Naima,wait   what are they called ?,"MOT: and then maybe while you're eating dinner maybe I'll read that .
 MOT: okay ?
 CHI: no   Mommy xxx .
 MOT: what kind of stickers do you have there ?
@@ -2270,7 +2234,7 @@ Providence,Providence_under_2/011027 copy.xml,u1385,3,1,MOT,Mother,Mother,"what 
 Providence,Providence_under_2/011027 copy.xml,u1502,4,0,CHI,Target_Child,Naima,what else ?,"MOT: no .
 CHI: no .
 MOT: no .
-CHI: what else you 0i don't like ?
+CHI: what else you i don't like ?
 MOT: xxx there's lots you don't like .",2.696,pro:int post,P1Y10M27D,23.0
 Providence,Providence_under_2/011027 copy.xml,u1504,4,1,MOT,Mother,Mother,you mean what food don't you like or what songs don't you like ?,,5.215,pro:per v pro:int n mod neg pro:per conj coord pro:int n mod neg pro:per co,P1Y10M27D,23.0
 Providence,Providence_under_2/011012 copy 2.xml,u36,1,0,CHI,Target_Child,Naima,what's that spell ?,"CHI: your addy .
@@ -2279,48 +2243,24 @@ MOT: excellent .
 CHI: what's that spell ?
 CHI: what's that spell ?",2.569,pro:int cop pro:dem n,P1Y10M12D,22.0
 Providence,Providence_under_2/011012 copy 2.xml,u37,1,1,MOT,Mother,Mother,"let me see ,  what does that spell ?",,5.501,v pro:obj v cm det:int mod pro:dem n,P1Y10M12D,22.0
-Providence,Providence_under_2/011012 copy 2.xml,u1122,2,0,CHI,Target_Child,Naima,where where 0did the walruses go ?,"MOT: these are called box cars ,  that's a locomotive that pulls the train .
-MOT: and these are box cars .
-CHI: that's a mouse 
-CHI: that's a   elephant .
-MOT: yeah .",2.569,adv:int adv:int 0aux det:art n v,P1Y10M12D,22.0
-Providence,Providence_under_2/011012 copy 2.xml,u1123,2,1,MOT,Mother,Mother,where did walruses go ?,,5.501,pro:rel v n v,P1Y10M12D,22.0
-Providence,Providence_under_2/011012 copy 2.xml,u1187,3,0,CHI,Target_Child,Naima,where 0did the walruses go ?,"MOT: do you wanna check ?
+Providence,Providence_under_2/011012 copy 2.xml,u1187,2,0,CHI,Target_Child,Naima,where did the walruses go ?,"MOT: do you wanna check ?
 CHI: &-um yeah .
 MOT: okay ,  let's find the other side .
 CHI: yeah .
 MOT: there's the elephants .",2.569,adv:int 0aux det:art n v,P1Y10M12D,22.0
-Providence,Providence_under_2/011012 copy 2.xml,u1188,3,1,MOT,Mother,Mother,can you find the walrus ?,,5.501,mod pro:per v det:art n,P1Y10M12D,22.0
-Providence,Providence_under_2/011012 copy 2.xml,u1212,4,0,CHI,Target_Child,Naima,xxx where 0did the elephant go ?,"CHI: no .
-MOT: we don't have to clean up everything ,  just a few things .
-CHI: yyy clean yyy .
-CHI: where the where the .
-CHI: where's the elephant ?",2.569,adv:int 0aux det:art n v,P1Y10M12D,22.0
-Providence,Providence_under_2/011012 copy 2.xml,u1213,4,1,MOT,Mother,Mother,where did the elephant go: ?,,5.501,pro:rel v det:art n v,P1Y10M12D,22.0
-Providence,Providence_under_2/011012 copy 2.xml,u1216,5,0,CHI,Target_Child,Naima,where 0did the walruses go ?,"CHI: where's the elephant ?
-CHI: xxx where 0did the elephant go ?
+Providence,Providence_under_2/011012 copy 2.xml,u1188,2,1,MOT,Mother,Mother,can you find the walrus ?,,5.501,mod pro:per v det:art n,P1Y10M12D,22.0
+Providence,Providence_under_2/011012 copy 2.xml,u1216,3,0,CHI,Target_Child,Naima,where did the walruses go ?,"CHI: where's the elephant ?
+CHI: xxx where did the elephant go ?
 MOT: where did the elephant go: ?
 CHI: there there .
 MOT: there it is ,  in that box car .",2.569,adv:int 0aux det:art n v,P1Y10M12D,22.0
-Providence,Providence_under_2/011012 copy 2.xml,u1217,5,1,MOT,Mother,Mother,the walruses and three horses ?,,5.501,det:art n coord det:num n,P1Y10M12D,22.0
-Providence,Providence_under_2/011012 copy 2.xml,u1230,6,0,CHI,Target_Child,Naima,where 0did the alligator go ?,"MOT: they're in their car .
-MOT: where are they ?
-MOT: do you see where they are ?
-CHI: they they're over there .
-CHI: where 0did the alligator go ?",2.569,adv:int 0aux det:art n v,P1Y10M12D,22.0
-Providence,Providence_under_2/011012 copy 2.xml,u1231,6,1,MOT,Mother,Mother,where did the alligator go ?,,5.501,pro:rel v det:art n v,P1Y10M12D,22.0
-Providence,Providence_under_2/011012 copy 2.xml,u1251,7,0,CHI,Target_Child,Naima,where 0did the walruses go ?,"MOT: gorilla's
+Providence,Providence_under_2/011012 copy 2.xml,u1217,3,1,MOT,Mother,Mother,the walruses and three horses ?,,5.501,det:art n coord det:num n,P1Y10M12D,22.0
+Providence,Providence_under_2/011012 copy 2.xml,u1251,4,0,CHI,Target_Child,Naima,where did the walruses go ?,"MOT: gorilla's
 MOT: banana's gorilla is surprised see the alligator .
 CHI: there's the alligator .
 CHI: where banana's gorilla go ?
 MOT: banana's gori<lla>",2.569,adv:int 0aux det:art n v,P1Y10M12D,22.0
-Providence,Providence_under_2/011012 copy 2.xml,u1252,7,1,MOT,Mother,Mother,oh where did they go ?,,5.501,co adv:int mod pro:sub v,P1Y10M12D,22.0
-Providence,Providence_under_2/011012 copy 2.xml,u1379,8,0,CHI,Target_Child,Naima,where 0did the walruses go ?,"CHI: summer papupper@c summer papupper@c .
-CHI: where 0is the elephant ?
-MOT: I think the elephant is in the
-MOT: brown box car .
-CHI: there it is .",2.569,adv:int 0aux det:art n v,P1Y10M12D,22.0
-Providence,Providence_under_2/011012 copy 2.xml,u1380,8,1,MOT,Mother,Mother,where did the walruses go ?,,5.501,pro:rel v det:art n v,P1Y10M12D,22.0
+Providence,Providence_under_2/011012 copy 2.xml,u1252,4,1,MOT,Mother,Mother,oh where did they go ?,,5.501,co adv:int mod pro:sub v,P1Y10M12D,22.0
 Providence,Providence_under_2/010818.xml,u123,1,0,CHI,Target_Child,Naima,yyy doing ?,"MOT: can I use the tape please ?
 MOT: thank you .
 CHI: yeah .
@@ -2387,19 +2327,13 @@ MOT: what is that do you know what that is ?
 CHI: what's what's that called ?
 MOT: that's called a raccoon .",2.182,n part,P1Y8M18D,21.0
 Providence,Providence_under_2/010818.xml,u647,11,1,MOT,Mother,Mother,what's the raccoon doing ?,,6.112,pro:int aux det:art n part,P1Y8M18D,21.0
-Providence,Providence_under_2/010818.xml,u763,12,0,CHI,Target_Child,Naima,what 0is Asha Basha doing ?,"CHI: xxx some yyy rug .
-CHI: moose .
-MOT: what are you doing Naima ?
-CHI: Mommy read yyy .
-MOT: hm: okay .",2.182,pro:int 0aux n:prop n:prop part,P1Y8M18D,21.0
-Providence,Providence_under_2/010818.xml,u764,12,1,MOT,Mother,Mother,what is Asha Basha doing ?,,6.112,pro:int cop n:prop n:prop part,P1Y8M18D,21.0
-Providence,Providence_under_2/010818.xml,u1015,13,0,CHI,Target_Child,Naima,what's he doing ?,"CHI: persons sit yyy .
+Providence,Providence_under_2/010818.xml,u1015,12,0,CHI,Target_Child,Naima,what's he doing ?,"CHI: persons sit yyy .
 MOT: is that person having a picnic at that table ?
 CHI: what's doggy doing ?
 CHI: what Doggie Woggie doing ?
 MOT: is he going to eat something at the picnic also ?",2.182,pro:int aux pro:sub part,P1Y8M18D,21.0
-Providence,Providence_under_2/010818.xml,u1016,13,1,MOT,Mother,Mother,hm: what is he doing ?,,6.112,co pro:int cop pro:sub part,P1Y8M18D,21.0
-Providence,Providence_under_2/011012 copy.xml,u508,1,0,CHI,Target_Child,Violet,xxx where 0did mine go ?,"MOT: mama's bag ?
+Providence,Providence_under_2/010818.xml,u1016,12,1,MOT,Mother,Mother,hm: what is he doing ?,,6.112,co pro:int cop pro:sub part,P1Y8M18D,21.0
+Providence,Providence_under_2/011012 copy.xml,u508,1,0,CHI,Target_Child,Violet,xxx where did mine go ?,"MOT: mama's bag ?
 MOT: where ?
 MOT: we'll write down some stuff we need in here .
 MOT: Caroline's number .
@@ -2467,7 +2401,7 @@ DAD: what's that picture of ?",1.676,pro:int pro:dem,P1Y11M09D,23.0
 Lara,Lara_under_2/011109.xml,u595,1,1,DAD,Father,,what's that on the front page ?,,3.269,pro:int pro:dem prep det:art adj n,P1Y11M09D,23.0
 Providence,Providence_2_4/020527.xml,u100,1,0,CHI,Target_Child,Violet,the pegs ?,"MOT: here ,  want that one ?
 CHI: yeah .
-CHI: where 0are the other ones ?
+CHI: where are the other ones ?
 MOT: I don't know ,  but you can put the pegs in the caterpillar if you want .
 MOT: right here .",3.426,det:art n,P2Y5M27D,30.0
 Providence,Providence_2_4/020527.xml,u101,1,1,MOT,Mother,Mother,"yeah ,  these are the little pegs ,  all these ,  see ?",,5.079,co cm pro:dem cop det:art adj n cm qn pro:dem cm v,P2Y5M27D,30.0
@@ -2495,7 +2429,7 @@ CHI: it's a little tiny ball .
 CHI: I'm squishing it .
 MOT: you're squishing it ?",3.104,mod pro:per v qn pro:indef,P3Y9M27D,46.0
 Providence,Providence_2_4/030927b.xml,u336,2,1,MOT,Mother,Mother,&-uh: yeah do you wanna give me the bigger piece of Play Doh and I'll make some more ?,,5.816,co v pro:per mod:aux v pro:obj det:art adj n prep n:prop coord pro:sub mod v qn pro:indef,P3Y9M27D,46.0
-Providence,Providence_2_4/030927b.xml,u491,3,0,CHI,Target_Child,Lily,can I have 0the box ?,"CHI: it is on the floor .
+Providence,Providence_2_4/030927b.xml,u491,3,0,CHI,Target_Child,Lily,can I have the box ?,"CHI: it is on the floor .
 CHI: and here's on the rug .
 MOT: thank you .
 CHI: I was cleaning up xxx .
@@ -2504,7 +2438,7 @@ Providence,Providence_2_4/030927b.xml,u492,3,1,MOT,Mother,Mother,is that xxx box
 Providence,Providence_2_4/030927b.xml,u493,4,0,CHI,Target_Child,Lily,I wonder what it says ?,"MOT: thank you .
 CHI: I was cleaning up xxx .
 MOT: you were cleaning up thank you very much .
-CHI: can I have 0the box ?
+CHI: can I have the box ?
 MOT: is that xxx box ?",3.104,pro:sub v pro:int pro:per v,P3Y9M27D,46.0
 Providence,Providence_2_4/030927b.xml,u494,4,1,MOT,Mother,Mother,what does the box say ?,,5.816,pro:int v det:art n v,P3Y9M27D,46.0
 Providence,Providence_2_4/030927b.xml,u851,5,0,CHI,Target_Child,Lily,what is this ?,"MOT: we just come up with these like random things xxx .
@@ -2531,7 +2465,7 @@ MOT: you're best friends aren't you ?
 MOT: we were but now she wants to play with some frog .
 MOT: well maybe I can help said Penelope I know a lot about friends and friendship .",3.104,pro:int aux det:art adj pro:indef,P3Y9M27D,46.0
 Providence,Providence_2_4/030927b.xml,u1354,8,1,MOT,Mother,Mother,the little what ?,,5.816,det:art adj pro:int,P3Y9M27D,46.0
-Providence,Providence_2_4/020725.xml,u71,1,0,CHI,Target_Child,Ethan,yyy tie to yyy finger ?,"CHI: tie 0it tie 0it tie 0it .
+Providence,Providence_2_4/020725.xml,u71,1,0,CHI,Target_Child,Ethan,yyy tie to yyy finger ?,"CHI: tie it tie it tie it .
 MOT: should I tie it when it's bigger ?
 MOT: oops .
 MOT: big enough ?
@@ -2543,7 +2477,7 @@ MOT: we can't get the bench out of the way sweetie <be>cause it's stuck there .
 CHI: yyy crack .
 CHI: yyy crack in the house ?",3.243,det:art n,P2Y7M25D,32.0
 Providence,Providence_2_4/020725.xml,u247,2,1,MOT,Mother,Mother,what house ?,,5.148,pro:int n,P2Y7M25D,32.0
-Providence,Providence_2_4/020725.xml,u365,3,0,CHI,Target_Child,Ethan,are you 0going 0to put his ice+skates in ?,"MOT: whoops .
+Providence,Providence_2_4/020725.xml,u365,3,0,CHI,Target_Child,Ethan,are you going to put his ice+skates in ?,"MOT: whoops .
 CHI: yeah 
 CHI: look ,  he lost a pontoon .
 MOT: he needs to be repaired a little huh ?
@@ -2558,11 +2492,11 @@ Providence,Providence_2_4/020725.xml,u527,4,1,MOT,Mother,Mother,who could help o
 Providence,Providence_2_4/020725.xml,u595,5,0,CHI,Target_Child,Ethan,what   is   the car dreaming about ?,"CHI: yyy yyy can't fit .
 CHI: but the cars can .
 MOT: the cars can ,  yep .
-CHI: I guess the car's dreaming about 0it .
+CHI: I guess the car's dreaming about it .
 MOT: xxx xxx dreaming about it ?",3.243,pro:int cop det:art n part adv,P2Y7M25D,32.0
 Providence,Providence_2_4/020725.xml,u596,5,1,MOT,Mother,Mother,oh what is the car dreaming about ?,,5.148,co pro:int cop det:art n part adv,P2Y7M25D,32.0
 Providence,Providence_2_4/020725.xml,u743,6,0,CHI,Target_Child,Ethan,then chase after the no no ?,"CHI: yyy green   I pump .
-CHI: oh I know 0how 0to put yyy yyy yyy yyy .
+CHI: oh I know how to put yyy yyy yyy yyy .
 MOT: we need something to pump up don't we ?
 MOT: hm: .
 MOT: like the noonoo@c .",3.243,adv:tem n prep det:art co co,P2Y7M25D,32.0
@@ -2575,39 +2509,33 @@ MOT: and she gave him a great big fuzzy bunny hug .",3.243,pro:int cop pro:dem n
 Providence,Providence_2_4/020725.xml,u969,7,1,MOT,Mother,Mother,what's that what ?,,5.148,pro:int cop pro:dem pro:int,P2Y7M25D,32.0
 Providence,Providence_2_4/020725.xml,u992,8,0,CHI,Target_Child,Ethan,yyy want to make the sky dark ?,"MOT: I turned the air+conditioner on .
 MOT: it's hot ,  yeah .
-MOT: 0it 0will keep us nice and cool right ?
+MOT: it will keep us nice and cool right ?
 MOT: are you a sleepy guy ?
 MOT: sweetie ?",3.243,v inf v det:art n n,P2Y7M25D,32.0
 Providence,Providence_2_4/020725.xml,u993,8,1,MOT,Mother,Mother,you wanna make the sky dark ?,,5.148,pro:per mod:aux v det:art n adj,P2Y7M25D,32.0
-Providence,Providence_2_4/020725.xml,u1033,9,0,CHI,Target_Child,Ethan,the propeller 0in ?,"CHI: now you just have this .
-MOT: now I don't have a microphone anymore
-MOT: what am I gonna do ?
-MOT: you wanna xxx snap it in for me ?
-CHI: you put the propeller in ?",3.243,det:art n 0prep,P2Y7M25D,32.0
-Providence,Providence_2_4/020725.xml,u1034,9,1,MOT,Mother,Mother,the propeller in ?,,5.148,det:art n adv,P2Y7M25D,32.0
-Providence,Providence_2_4/020725.xml,u1272,10,0,CHI,Target_Child,Ethan,have some peppers ?,"CHI: pickled peppers .
+Providence,Providence_2_4/020725.xml,u1272,9,0,CHI,Target_Child,Ethan,have some peppers ?,"CHI: pickled peppers .
 MOT: pickled peppers !
 MOT: pickled peppers !
 MOT: pickled peppers !
 MOT: pickled peppers ,  pickled xxx !",3.243,v qn n,P2Y7M25D,32.0
-Providence,Providence_2_4/020725.xml,u1273,10,1,MOT,Mother,Mother,you want some peppers or do you want some fried rice ?,,5.148,pro:per v qn n coord v pro:per v qn v n,P2Y7M25D,32.0
+Providence,Providence_2_4/020725.xml,u1273,9,1,MOT,Mother,Mother,you want some peppers or do you want some fried rice ?,,5.148,pro:per v qn n coord v pro:per v qn v n,P2Y7M25D,32.0
 Providence,Providence_2_4/011117.xml,u559,1,0,CHI,Target_Child,Alex,what's that ?,"MOT: there's something stuck ,  nope .
 MOT: what ?
 MOT: why ya gettin<g> aggravated ?
-CHI: what 0is that ?
+CHI: what is that ?
 MOT: wha<t> ?",1.563,pro:int cop pro:dem,P1Y11M17D,24.0
 Providence,Providence_2_4/011117.xml,u560,1,1,MOT,Mother,Mother,what's what ?,,4.025,pro:int aux pro:int,P1Y11M17D,24.0
-Providence,Providence_2_4/011117.xml,u1402,2,0,CHI,Target_Child,Alex,that 0is your car ?,"MOT: where's the green car ?
+Providence,Providence_2_4/011117.xml,u1402,2,0,CHI,Target_Child,Alex,that is your car ?,"MOT: where's the green car ?
 MOT: xxx there it is ,  you found it !
-CHI: 0it is 0a car .
+CHI: it is a car .
 CHI: where your car xxx .
 MOT: wha<t> honey ?",1.563,pro:dem 0aux det:poss n,P1Y11M17D,24.0
 Providence,Providence_2_4/011117.xml,u1403,2,1,MOT,Mother,Mother,Joey's in the car ?,,4.025,n:prop poss prep det:art n,P1Y11M17D,24.0
-Providence,Providence_2_4/011116.xml,u147,1,0,CHI,Target_Child,Naima,where 0did the koala go ?,"MOT: from Mommy and Daddy ?
+Providence,Providence_2_4/011116.xml,u147,1,0,CHI,Target_Child,Naima,where did the koala go ?,"MOT: from Mommy and Daddy ?
 MOT: where's the koala ?
 CHI: is he
 MOT: where's the koala ?
-CHI: where 0did the koala go ?",3.197,adv:int 0aux det:art n v,P1Y11M16D,24.0
+CHI: where did the koala go ?",3.197,adv:int 0aux det:art n v,P1Y11M16D,24.0
 Providence,Providence_2_4/011116.xml,u148,1,1,MOT,Mother,Mother,where'd that koala go ?,,6.357,adv:int mod pro:dem n v,P1Y11M16D,24.0
 Providence,Providence_2_4/021002.xml,u301,1,0,CHI,Target_Child,Violet,is this the same as the other one ?,"CHI: not ,  not what I want to read .
 MOT: scootch closer to me so I can see it .
@@ -2615,21 +2543,21 @@ CHI: okay .
 MOT: okay .
 MOT: now what's this one called ?",3.602,cop pro:dem det:art adj prep det:art qn pro:indef,P2Y10M2D,34.0
 Providence,Providence_2_4/021002.xml,u302,1,1,MOT,Mother,Mother,what was the other one ?,,4.817,pro:int cop det:art qn pro:indef,P2Y10M2D,34.0
-Providence,Providence_2_4/021002.xml,u1097,2,0,CHI,Target_Child,Violet,why 0are they going to the aquarium ?,"MOT: they going to the aquarium .
+Providence,Providence_2_4/021002.xml,u1097,2,0,CHI,Target_Child,Violet,why are they going to the aquarium ?,"MOT: they going to the aquarium .
 FAT: this is not enough
 MOT: departs Tuesdays xxx .
-CHI: why are they 0going to 0the aquarium ?
+CHI: why are they going to the aquarium ?
 MOT: fourteen dollars .",3.602,adv:int 0aux pro:sub part prep det:art n,P2Y10M2D,34.0
 Providence,Providence_2_4/021002.xml,u1098,2,1,FAT,Father,Father,the Boston Aquarium ?,,2.125,det:art n:prop,P2Y10M2D,34.0
 Providence,Providence_2_4/020122.xml,u704,1,0,CHI,Target_Child,Ethan,where is the train brush ?,"MOT: xxx ,  blow on him ,  then he'll dry .
-CHI: he 0is drying off .
+CHI: he is drying off .
 MOT: you're drying him off .
-MOT: we have the train brush ,  0do 0you wanna scrub him ?
+MOT: we have the train brush ,  do you wanna scrub him ?
 CHI: no ",3.341,adv:int cop det:art n n,P2Y1M22D,26.0
 Providence,Providence_2_4/020122.xml,u705,1,1,MOT,Mother,Mother,where's the train brush ?,,4.828,adv:int cop det:art n n,P2Y1M22D,26.0
-Providence,Providence_2_4/030325.xml,u508,1,0,CHI,Target_Child,William,not in 0the house ?,"FAT: right .
+Providence,Providence_2_4/030325.xml,u508,1,0,CHI,Target_Child,William,not in the house ?,"FAT: right .
 CHI: and see the yyy ,  so you wanna play golf ?
-CHI: got 0to swing in there .
+CHI: got to swing in there .
 CHI: can you swing in here ?
 FAT: no ,  not in the house .",3.171,neg adv 0det n,P3Y3M25D,40.0
 Providence,Providence_2_4/030325.xml,u509,1,1,FAT,Father,Father,"you can do a little bit ,  little putting in the house ,  but if you swing you might break something ,  right ?",,4.715,pro:per mod v det:art adj n cm adj n:gerund prep det:art n cm conj conj pro:per v pro:per mod v pro:indef cm co,P3Y3M25D,40.0
@@ -2650,36 +2578,36 @@ MOT: to the rescue !
 CHI: yyy ,  he was too late .
 MOT: he was too late ?
 MOT: &aw ,  poor Thomas .",3.248,v qn n cm cm det:num qn n,P2Y5M26D,30.0
-Providence,Providence_2_4/020526.xml,u49,1,1,MOT,Mother,Mother,0do you want one more story ?,,5.344,0aux pro:per v det:num qn n,P2Y5M26D,30.0
+Providence,Providence_2_4/020526.xml,u49,1,1,MOT,Mother,Mother,do you want one more story ?,,5.344,0aux pro:per v det:num qn n,P2Y5M26D,30.0
 Providence,Providence_2_4/020526.xml,u83,2,0,CHI,Target_Child,Ethan,xxx yyy peas and carrots ?,"MOT: ah ,  thank goodness .
 MOT: peas and carrots .
 MOT: I mean ,  peace and quiet .
 MOT: peas and carrots .
 MOT: peace and quiet .",3.248,n coord n,P2Y5M26D,30.0
-Providence,Providence_2_4/020526.xml,u84,2,1,MOT,Mother,Mother,0do you want some peas and carrots ?,,5.344,0aux pro:per v qn n coord n,P2Y5M26D,30.0
+Providence,Providence_2_4/020526.xml,u84,2,1,MOT,Mother,Mother,do you want some peas and carrots ?,,5.344,0aux pro:per v qn n coord n,P2Y5M26D,30.0
 Providence,Providence_2_4/020526.xml,u87,3,0,CHI,Target_Child,Ethan,"yyy yyy ,  I wanna take off ,  yyy yyy yyy ,  yyy hat ?","MOT: peace and quiet .
 CHI: xxx yyy peas and carrots ?
-MOT: 0do you want some peas and carrots ?
+MOT: do you want some peas and carrots ?
 MOT: whenever I give you peas and carrots ,  you don't eat them .
 MOT: we'll have some peas and carrots for dinner ,  okay ?",3.248,cm pro:sub mod:aux v adv cm cm n,P2Y5M26D,30.0
-Providence,Providence_2_4/020526.xml,u88,3,1,MOT,Mother,Mother,0do you wanna take off your hat ?,,5.344,0aux pro:per mod:aux v prep det:poss n,P2Y5M26D,30.0
+Providence,Providence_2_4/020526.xml,u88,3,1,MOT,Mother,Mother,do you wanna take off your hat ?,,5.344,0aux pro:per mod:aux v prep det:poss n,P2Y5M26D,30.0
 Providence,Providence_2_4/020526.xml,u205,4,0,CHI,Target_Child,Ethan,to Thomas ?,"MOT: yep .
 CHI: yyy yyy for Thomas ?
 MOT: there you go .
 CHI: yyy Thomas ?
 CHI: to Thomas ?",3.248,prep n:prop,P2Y5M26D,30.0
-Providence,Providence_2_4/020526.xml,u206,4,1,MOT,Mother,Mother,"0do you want Thomas ,  the train Thomas ?",,5.344,0aux pro:per v n:prop cm det:art n n:prop,P2Y5M26D,30.0
+Providence,Providence_2_4/020526.xml,u206,4,1,MOT,Mother,Mother,"do you want Thomas ,  the train Thomas ?",,5.344,0aux pro:per v n:prop cm det:art n n:prop,P2Y5M26D,30.0
 Providence,Providence_2_4/020526.xml,u213,5,0,CHI,Target_Child,Ethan,this one ?,"MOT: which one do you want ?
 MOT: the happy one ?
 MOT: that's the one you wanted ,  right ?
-MOT: hm: ,  0do you wanna story ?
+MOT: hm: ,  do you wanna story ?
 MOT: this one ,  or this one ?",3.248,pro:dem pro:indef,P2Y5M26D,30.0
 Providence,Providence_2_4/020526.xml,u214,5,1,MOT,Mother,Mother,"xxx ,  which one is this one ?",,5.344,cm pro:rel pro:indef cop pro:dem pro:indef,P2Y5M26D,30.0
 Providence,Providence_2_4/020526.xml,u378,6,0,CHI,Target_Child,Ethan,a better view for Gordon ?,"MOT: the barge ,  that's right .
 MOT: are you sleepy today ?
 MOT: you got up early this morning .
 MOT: you got up very early .
-MOT: 0do 0you wanna read another one ?",3.248,det:art adj n prep n:prop,P2Y5M26D,30.0
+MOT: do you wanna read another one ?",3.248,det:art adj n prep n:prop,P2Y5M26D,30.0
 Providence,Providence_2_4/020526.xml,u379,6,1,MOT,Mother,Mother,"mm ,  better view for Gordon ?",,5.344,co cm adj n prep n:prop,P2Y5M26D,30.0
 Providence,Providence_2_4/020526.xml,u454,7,0,CHI,Target_Child,Ethan,I lie down ?,"MOT: if we go over that waterfall ,  we're
 CHI: doomed .
@@ -2699,14 +2627,14 @@ MOT: what do you think Thomas would want to do ,  if he went to school ?
 MOT: what would Thomas like to do ?
 MOT: does he like painting ,  or reading ?",3.248,mod pro:sub v part,P2Y5M26D,30.0
 Providence,Providence_2_4/020526.xml,u610,9,1,MOT,Mother,Mother,"he wants reading ,  he likes to read ?",,5.344,pro:sub v n:gerund cm pro:sub v inf v,P2Y5M26D,30.0
-Providence,Providence_2_4/020526.xml,u648,10,0,CHI,Target_Child,Ethan,yyy yyy to sit in 0the circle by Thomas ?,"MOT: dyou remember how to spell Blue ?
+Providence,Providence_2_4/020526.xml,u648,10,0,CHI,Target_Child,Ethan,yyy yyy to sit in the circle by Thomas ?,"MOT: dyou remember how to spell Blue ?
 CHI: B L U E .
 MOT: very ,  very good !
 MOT: thanks for helping Blue find her cubbyhole !
 MOT: now ,  she can sit in circle time nexta Magenta !",3.248,inf v prep 0det n prep n:prop,P2Y5M26D,30.0
 Providence,Providence_2_4/020526.xml,u649,10,1,MOT,Mother,Mother,"no ,  where would Thomas sit ?",,5.344,co cm pro:rel mod n:prop v,P2Y5M26D,30.0
 Providence,Providence_2_4/020526.xml,u659,11,0,CHI,Target_Child,Ethan,yyy yyy share ?,"MOT: what would Thomas share ?
-MOT: wha<t> 0do you think Thomas would share in circle time ?
+MOT: wha<t> do you think Thomas would share in circle time ?
 CHI: yyy ,  you don't know ?
 MOT: hm: ?
 MOT: do you know ?",3.248,n,P2Y5M26D,30.0
@@ -2716,31 +2644,31 @@ MOT: peace and quiet .
 CHI: and carrots .
 MOT: peas and carrots .
 MOT: shucks .",3.248,n coord n,P2Y5M26D,30.0
-Providence,Providence_2_4/020526.xml,u730,12,1,MOT,Mother,Mother,0do you want some peas and carrots ?,,5.344,0aux pro:per v qn n coord n,P2Y5M26D,30.0
+Providence,Providence_2_4/020526.xml,u730,12,1,MOT,Mother,Mother,do you want some peas and carrots ?,,5.344,0aux pro:per v qn n coord n,P2Y5M26D,30.0
 Providence,Providence_2_4/020526.xml,u742,13,0,CHI,Target_Child,Ethan,I make bricks ?,"MOT: yeah ,  I got blue .
 MOT: <be>cause Thomas is blue ,  too .
 CHI: Thomas .
 MOT: mm .
 MOT: here ,  let's ,  we'll both have some .",3.248,pro:sub v n,P2Y5M26D,30.0
 Providence,Providence_2_4/020526.xml,u743,13,1,MOT,Mother,Mother,you're gonna make some bricks ?,,5.344,pro:per aux mod:aux v qn n,P2Y5M26D,30.0
-Providence,Providence_2_4/020526.xml,u764,14,0,CHI,Target_Child,Ethan,could 0you   couple them together ?,"CHI: tell me what you   0can make 0out of wood .
+Providence,Providence_2_4/020526.xml,u764,14,0,CHI,Target_Child,Ethan,could you   couple them together ?,"CHI: tell me what you   can make out of wood .
 MOT: you could make a house out of wood
 MOT: you know what you could make out of wood ?
 MOT: a bridge .
 MOT: that kinda looks like a bridge that Thomas might go over .",3.248,mod 0pro v pro:obj adv,P2Y5M26D,30.0
-Providence,Providence_2_4/020526.xml,u765,14,1,MOT,Mother,Mother,0do 0you wanna couple them together ?,,5.344,0aux 0pro mod:aux v pro:obj adv,P2Y5M26D,30.0
+Providence,Providence_2_4/020526.xml,u765,14,1,MOT,Mother,Mother,do you wanna couple them together ?,,5.344,0aux 0pro mod:aux v pro:obj adv,P2Y5M26D,30.0
 Providence,Providence_2_4/020526.xml,u821,15,0,CHI,Target_Child,Ethan,I make that ?,"MOT: bricks ,  and
 MOT: something's stuck to you .
 MOT: uhuh .
 CHI: yyy ,  yyy that ?
 CHI: those are cracks .",3.248,pro:sub v pro:dem,P2Y5M26D,30.0
-Providence,Providence_2_4/020526.xml,u822,15,1,MOT,Mother,Mother,0do you wanna make that ?,,5.344,0aux pro:per mod:aux v pro:dem,P2Y5M26D,30.0
+Providence,Providence_2_4/020526.xml,u822,15,1,MOT,Mother,Mother,do you wanna make that ?,,5.344,0aux pro:per mod:aux v pro:dem,P2Y5M26D,30.0
 Providence,Providence_2_4/020526.xml,u1009,16,0,CHI,Target_Child,Ethan,"fix a clock ,  I fix the clock ?","MOT: peep ,  peep !
 MOT: you're sleepy ,  huh ?
 MOT: what would you like to do today ,  mister E ?
 MOT: what would you like to do today ?
 MOT: yeah ,  what something else would you like to do ?",3.248,v det:art n cm pro:sub v det:art n,P2Y5M26D,30.0
-Providence,Providence_2_4/020526.xml,u1010,16,1,MOT,Mother,Mother,0you wanna fix the clock ?,,5.344,0pro mod:aux v det:art n,P2Y5M26D,30.0
+Providence,Providence_2_4/020526.xml,u1010,16,1,MOT,Mother,Mother,you wanna fix the clock ?,,5.344,0pro mod:aux v det:art n,P2Y5M26D,30.0
 Providence,Providence_2_4/020526.xml,u1165,17,0,CHI,Target_Child,Ethan,what does he want to sleep in ?,"CHI: later yyy .
 MOT: okay ?
 MOT: come on back xxx .
@@ -2822,7 +2750,7 @@ Providence,Providence_2_4/020726.xml,u1016,4,1,MOT,Mother,Mother,"you did it all
 Providence,Providence_2_4/020726.xml,u1166,5,0,CHI,Target_Child,William,wanna watch tv ?,"MOT: if you don't wanna put this on your back ,  can you hold it please ?
 CHI: that's okay .
 MOT: well I know it's okay ,  but
-CHI: I want 0the tv .
+CHI: I want the tv .
 MOT: no ,  we don't want to .",2.266,mod:aux v n,P2Y7M26D,32.0
 Providence,Providence_2_4/020726.xml,u1167,5,1,MOT,Mother,Mother,"here ,  you know what we can do ,  you wanna read a couple of books in the other room ?",,5.726,adv cm pro:per v pro:int pro:sub mod v cm pro:per mod:aux v det:art n prep n prep det:art qn n,P2Y7M26D,32.0
 Providence,Providence_2_4/030327.xml,u359,1,0,CHI,Target_Child,Alex,can you draw this one Mom ?,"MOT: I know but I had to take off the elastic .
@@ -2892,12 +2820,12 @@ OPE: yeah .
 MOT: is chocolate your favorite food ?",3.803,mod pro:per v prep det:art det:art det:art n,P2Y4M16D,29.0
 Providence,Providence_2_4/020416 copy 2.xml,u857,6,1,MOT,Mother,Mother,"let's see ,  can I turn into a piece of chocolate ?",,5.67,v pro:obj v cm mod pro:sub v prep det:art n prep n,P2Y4M16D,29.0
 Providence,Providence_2_4/030125.xml,u649,1,0,CHI,Target_Child,William,you wanna xxx sounds of it ?,"CHI: take a ride in the tractor .
-CHI: I'm taking 0a ride 0in this tractor .
+CHI: I'm taking a ride in this tractor .
 MOT: uhhuh .
 MOT: little overcooked .
 CHI: you like it ?",2.612,pro:per mod:aux n prep pro:per,P3Y1M25D,38.0
 Providence,Providence_2_4/030125.xml,u650,1,1,MOT,Mother,Mother,you like the sounds of it ?,,4.391,pro:per conj det:art n prep pro:per,P3Y1M25D,38.0
-Providence,Providence_2_4/030125.xml,u1184,2,0,CHI,Target_Child,William,how about 0that backpack ?,"CHI: go ahead .
+Providence,Providence_2_4/030125.xml,u1184,2,0,CHI,Target_Child,William,how about that backpack ?,"CHI: go ahead .
 CHI: &-uh .
 CHI: okay .
 CHI: come here .
@@ -2963,18 +2891,18 @@ CHI: which made it
 CHI: does it go like that ?
 CHI: does it reach ?",3.488,mod pro:per v,P2Y9M0D,33.0
 Providence,Providence_2_4/020900.xml,u185,1,1,MOT,Mother,Mother,it does reach the e:nd doesn't it ?,,4.835,pro:per mod v det:art n mod neg pro:per,P2Y9M0D,33.0
-Providence,Providence_2_4/020900.xml,u198,2,0,CHI,Target_Child,Ethan,does it reach xxx ?,"CHI: now can 0it reach ?
-MOT: yep 0it reaches the very very end .
-CHI: does 0it reach the yyy yyy .
+Providence,Providence_2_4/020900.xml,u198,2,0,CHI,Target_Child,Ethan,does it reach xxx ?,"CHI: now can it reach ?
+MOT: yep it reaches the very very end .
+CHI: does it reach the yyy yyy .
 MOT: yes it doe:s .
 MOT: it",3.488,mod pro:per v,P2Y9M0D,33.0
-Providence,Providence_2_4/020900.xml,u199,2,1,MOT,Mother,Mother,0do you wanna to:tally reach the edge ?,,4.835,0aux pro:per mod:aux adv v det:art n,P2Y9M0D,33.0
+Providence,Providence_2_4/020900.xml,u199,2,1,MOT,Mother,Mother,do you wanna to:tally reach the edge ?,,4.835,0aux pro:per mod:aux adv v det:art n,P2Y9M0D,33.0
 Providence,Providence_2_4/020900.xml,u247,3,0,CHI,Target_Child,Ethan,once   xxx ?,"CHI: go right through .
 CHI: he can yyy to the xxx .
 MOT: Etha:n you're gonna break the ca:mera .
-MOT: 0the camera's gonna fall down remember ?
-MOT: 0it fell on your head once and that hurt !",3.488,adv,P2Y9M0D,33.0
-Providence,Providence_2_4/020900.xml,u248,3,1,MOT,Mother,Mother,once 0do you wanna see yourself ?,,4.835,adv 0aux pro:per mod:aux v pro:refl,P2Y9M0D,33.0
+MOT: the camera's gonna fall down remember ?
+MOT: it fell on your head once and that hurt !",3.488,adv,P2Y9M0D,33.0
+Providence,Providence_2_4/020900.xml,u248,3,1,MOT,Mother,Mother,once do you wanna see yourself ?,,4.835,adv 0aux pro:per mod:aux v pro:refl,P2Y9M0D,33.0
 Providence,Providence_2_4/020900.xml,u430,4,0,CHI,Target_Child,Ethan,read a story ?,"MOT: yeah: .
 MOT: we'll do that one day huh ?
 MOT: we'll take a dri:ve ?
@@ -3051,11 +2979,11 @@ Providence,Providence_2_4/020810 copy.xml,u323,2,0,CHI,Target_Child,Ethan,yyy re
 CHI: xxx too ?
 CHI: open   sesame 
 CHI: have the red kind ?
-CHI: the red 0one ?",2.672,adj pro:indef,P2Y8M10D,32.0
+CHI: the red one ?",2.672,adj pro:indef,P2Y8M10D,32.0
 Providence,Providence_2_4/020810 copy.xml,u324,2,1,MOT,Mother,Mother,the red what ?,,4.108,det:art n pro:int,P2Y8M10D,32.0
-Providence,Providence_2_4/020810 copy.xml,u415,3,0,CHI,Target_Child,Ethan,what 0does that sound like ?,"MOT: oh Ev .
+Providence,Providence_2_4/020810 copy.xml,u415,3,0,CHI,Target_Child,Ethan,what does that sound like ?,"MOT: oh Ev .
 MOT: let's see
-MOT: you 0have gotta keep that together sweetie .
+MOT: you have gotta keep that together sweetie .
 MOT: and you've gotta stay away from the tripod .
 CHI: tripod .",2.672,pro:int 0v pro:dem n prep,P2Y8M10D,32.0
 Providence,Providence_2_4/020810 copy.xml,u416,3,1,MOT,Mother,Mother,what does tripod sound like ?,,4.108,pro:int mod n n prep,P2Y8M10D,32.0
@@ -3069,7 +2997,7 @@ Providence,Providence_2_4/020810 copy.xml,u574,5,0,CHI,Target_Child,Ethan,yyy lo
 CHI: mm yyy yyy .
 MOT: jambo .
 MOT: hm: ?
-MOT: 0are 0you gonna give me a big long nose ?",2.672,v prep,P2Y8M10D,32.0
+MOT: are you gonna give me a big long nose ?",2.672,v prep,P2Y8M10D,32.0
 Providence,Providence_2_4/020810 copy.xml,u575,5,1,MOT,Mother,Mother,xxx does it look like a long nose ?,,4.108,mod pro:per v prep det:art adj n,P2Y8M10D,32.0
 Providence,Providence_2_4/020810 copy.xml,u981,6,0,CHI,Target_Child,Ethan,they doing ?,"MOT: in the winter book ?
 MOT: not in the winter book <be>cause there isn't any grass in the winter .
@@ -3077,7 +3005,7 @@ MOT: it's usually covered with snow .
 MOT: hm: ?
 MOT: what are they doing there ?",2.672,pro:sub part,P2Y8M10D,32.0
 Providence,Providence_2_4/020810 copy.xml,u982,6,1,MOT,Mother,Mother,yeah what are they doing ?,,4.108,co pro:int aux pro:sub part,P2Y8M10D,32.0
-Providence,Providence_2_4/020810 copy.xml,u1324,7,0,CHI,Target_Child,Ethan,what does 0it sound like ?,"MOT: but we hafta wait fi:ve minutes .
+Providence,Providence_2_4/020810 copy.xml,u1324,7,0,CHI,Target_Child,Ethan,what does it sound like ?,"MOT: but we hafta wait fi:ve minutes .
 MOT: f:ive minutes .
 MOT: I see a tickle spot .
 CHI: Eva !
@@ -3101,13 +3029,13 @@ CHI: I want that
 MOT: tempeh .
 CHI: don't xxx me up on the",4.231,pro:int aux pro:sub part prep det:art n,P2Y5M19D,30.0
 Providence,Providence_2_4/020519.xml,u1439,2,1,MOT,Mother,Mother,what are you doing on that stool ?,,4.774,pro:int aux pro:per part prep pro:dem n,P2Y5M19D,30.0
-Providence,Providence_2_4/020509.xml,u557,1,0,CHI,Target_Child,Alex,where 0is the moon ?,"MOT: again ?
+Providence,Providence_2_4/020509.xml,u557,1,0,CHI,Target_Child,Alex,where is the moon ?,"MOT: again ?
 MOT: what is this ?
 CHI: it's a block .
 MOT: a key .
 CHI: key .",2.072,adv:int 0aux det:art n,P2Y5M9D,29.0
 Providence,Providence_2_4/020509.xml,u558,1,1,MOT,Mother,Mother,"&-uh: ,  the moon ?",,3.801,cm det:art n,P2Y5M9D,29.0
-Providence,Providence_2_4/020509.xml,u982,2,0,CHI,Target_Child,Alex,where 0did 0it go ?,"MOT: set .
+Providence,Providence_2_4/020509.xml,u982,2,0,CHI,Target_Child,Alex,where did it go ?,"MOT: set .
 CHI: go .
 MOT: go .
 MOT: uhoh .
@@ -3137,13 +3065,7 @@ CHI: what is the bear doing ?
 CHI: what would ,  what would the bear think of it ?
 FAT: yeah .",5.486,pro:int mod det:art n v prep pro:per,P2Y10M18D,35.0
 Providence,Providence_2_4/021018 copy.xml,u1012,1,1,MOT,Mother,Mother,what do you think ?,,5.849,pro:int mod pro:per v,P2Y10M18D,35.0
-Providence,Providence_2_4/020119.xml,u505,1,0,CHI,Target_Child,Violet,0what 0are they doing ?,"CHI: yyy yyy up .
-CHI: what's this ?
-MOT: that looks really good ,  we could make those if we got the boxes .
-CHI: xxx what 0are they ,  what 0are they doing ?
-MOT: huh ?",2.937,0pro 0aux pro:sub part,P2Y1M19D,26.0
-Providence,Providence_2_4/020119.xml,u506,1,1,MOT,Mother,Mother,what are they doing ?,,4.39,det:int aux pro:sub part,P2Y1M19D,26.0
-Providence,Providence_2_4/021005.xml,u303,1,0,CHI,Target_Child,Ethan,where 0is the rolling+pin ?,"MOT: I don't see a rolling+pi:n .
+Providence,Providence_2_4/021005.xml,u303,1,0,CHI,Target_Child,Ethan,where is the rolling+pin ?,"MOT: I don't see a rolling+pi:n .
 MOT: mm .
 CHI: where's the rolling+pin ?
 MOT: that's a good question .
@@ -3167,7 +3089,7 @@ MOT: yep ,  push a little ,  got it ?
 MOT: good jo:b .
 CHI: yyy police officer .",3.184,pro:int mod pro:sub v pro:obj,P2Y10M5D,34.0
 Providence,Providence_2_4/021005.xml,u619,4,1,MOT,Mother,Mother,what's a good name for a police officer ?,,4.462,pro:int aux det:art adj n prep det:art n n,P2Y10M5D,34.0
-Providence,Providence_2_4/021005.xml,u758,5,0,CHI,Target_Child,Ethan,yyy the cat ?,"CHI: now put the traffic cone   right   0here 
+Providence,Providence_2_4/021005.xml,u758,5,0,CHI,Target_Child,Ethan,yyy the cat ?,"CHI: now put the traffic cone   right   here 
 MOT: police officer Pete's gonna watch everything and make sure you do that right .
 CHI: how does he know ?
 MOT: he's keeping an eye on you .
@@ -3227,60 +3149,36 @@ MOT: is that good ,  to start ?
 CHI: shape .
 MOT: alright ,  let's start with that .",1.98,adv:int n,P2Y3M26D,28.0
 Providence,Providence_2_4/020326.xml,u143,1,1,MOT,Mother,Mother,or do you need more shapes ?,,3.154,coord v pro:per v qn n,P2Y3M26D,28.0
-Providence,Providence_2_4/020326.xml,u1394,2,0,CHI,Target_Child,Alex,where 0did the little horse go ?,"MOT: peekaboo .
-CHI: where 0did the little   Mommy ,  no .
+Providence,Providence_2_4/020326.xml,u1394,2,0,CHI,Target_Child,Alex,where did the little horse go ?,"MOT: peekaboo .
+CHI: where did the little   Mommy ,  no .
 CHI: where'd the little horse go ?
 CHI: no yyy Mommy .
 MOT: okay ,  okay .",1.98,adv:int 0aux det:art adj n v,P2Y3M26D,28.0
-Providence,Providence_2_4/020326.xml,u1395,2,1,MOT,Mother,Mother,"I don't know ,  where 0did that little horse go ?",,3.154,pro:sub mod neg v cm pro:rel 0aux pro:dem adj n v,P2Y3M26D,28.0
-Providence,Providence_2_4/020326.xml,u1446,3,0,CHI,Target_Child,Alex,where 0is 0the shark ?,"MOT: where's the fish ?
-CHI: where 0is 0the fish ?
+Providence,Providence_2_4/020326.xml,u1395,2,1,MOT,Mother,Mother,"I don't know ,  where did that little horse go ?",,3.154,pro:sub mod neg v cm pro:rel 0aux pro:dem adj n v,P2Y3M26D,28.0
+Providence,Providence_2_4/020326.xml,u1446,3,0,CHI,Target_Child,Alex,where is the shark ?,"MOT: where's the fish ?
+CHI: where is the fish ?
 CHI: it's a big fish .
 MOT: &aw: ,  how cu:te .
 CHI: big .",1.98,adv:int 0aux 0det n,P2Y3M26D,28.0
 Providence,Providence_2_4/020326.xml,u1447,3,1,MOT,Mother,Mother,"o:h ,  I don't know ,  we don't have a shark ,  you know that ?",,3.154,co cm pro:sub mod neg v cm pro:sub mod neg v det:art n cm pro:per v pro:dem,P2Y3M26D,28.0
-Providence,Providence_2_4/020326.xml,u1489,4,0,CHI,Target_Child,Alex,where 0is 0a chicken ?,"CHI: where 0is the grass 
-CHI: oh no ,  where 0is the grass 
-CHI: where 0is 0the boat ?
-MOT: in your hand .
-MOT: Silly .",1.98,adv:int 0aux 0det n,P2Y3M26D,28.0
-Providence,Providence_2_4/020326.xml,u1490,4,1,MOT,Mother,Mother,a chicken ?,,3.154,det:art n,P2Y3M26D,28.0
-Providence,Providence_2_4/020326.xml,u1519,5,0,CHI,Target_Child,Alex,where 0is 0a hat ?,"CHI: plane .
+Providence,Providence_2_4/020326.xml,u1519,4,0,CHI,Target_Child,Alex,where is a hat ?,"CHI: plane .
 CHI: where's yyy cheese ?
 MOT: who ?
-CHI: where 0is cheese ?
+CHI: where is cheese ?
 MOT: cheese ,  there's no cheese !",1.98,adv:int 0aux 0det n,P2Y3M26D,28.0
-Providence,Providence_2_4/020326.xml,u1520,5,1,MOT,Mother,Mother,"there is no hat ,  honey ,  how bout an umbrella ?",,3.154,adv cop qn n cm n cm adv:int adv det:art n,P2Y3M26D,28.0
-Providence,Providence_2_4/020326.xml,u1579,6,0,CHI,Target_Child,Alex,where 0is 0the boat ?,"MOT: I don't know .
-MOT: how about a: ,  &-uh ,  let's see
-MOT: how about
-MOT: an egg ?
-CHI: egg .",1.98,adv:int 0aux 0det n,P2Y3M26D,28.0
-Providence,Providence_2_4/020326.xml,u1580,6,1,MOT,Mother,Mother,the boat ?,,3.154,det:art n,P2Y3M26D,28.0
-Providence,Providence_2_4/020326.xml,u1614,7,0,CHI,Target_Child,Alex,"no no no no no ,  what's that ?","MOT: how bout a m:ouse ?
+Providence,Providence_2_4/020326.xml,u1520,4,1,MOT,Mother,Mother,"there is no hat ,  honey ,  how bout an umbrella ?",,3.154,adv cop qn n cm n cm adv:int adv det:art n,P2Y3M26D,28.0
+Providence,Providence_2_4/020326.xml,u1614,5,0,CHI,Target_Child,Alex,"no no no no no ,  what's that ?","MOT: how bout a m:ouse ?
 CHI: mouse .
 CHI: mouse .
 MOT: is that a mouse ?
 MOT: yeah ,  a mouse .",1.98,co co co co co cm pro:int cop pro:dem,P2Y3M26D,28.0
-Providence,Providence_2_4/020326.xml,u1615,7,1,MOT,Mother,Mother,what's this ?,,3.154,pro:int cop pro:dem,P2Y3M26D,28.0
-Providence,Providence_2_4/020326.xml,u1626,8,0,CHI,Target_Child,Alex,where 0is 0the plane ?,"MOT: whoops !
+Providence,Providence_2_4/020326.xml,u1615,5,1,MOT,Mother,Mother,what's this ?,,3.154,pro:int cop pro:dem,P2Y3M26D,28.0
+Providence,Providence_2_4/020326.xml,u1626,6,0,CHI,Target_Child,Alex,where is the plane ?,"MOT: whoops !
 MOT: uhoh .
 MOT: what's that all about ?
 MOT: oh ,  please don't do that .
 MOT: what are you looking for now ?",1.98,adv:int 0aux 0det n,P2Y3M26D,28.0
-Providence,Providence_2_4/020326.xml,u1627,8,1,MOT,Mother,Mother,a plane ?,,3.154,det:art n,P2Y3M26D,28.0
-Providence,Providence_2_4/020326.xml,u1631,9,0,CHI,Target_Child,Alex,where 0is 0a star ?,"CHI: where 0is 0the plane ?
-MOT: a plane ?
-MOT: here's a helicopter
-MOT: and a plane .
-CHI: no !",1.98,adv:int 0aux 0det n,P2Y3M26D,28.0
-Providence,Providence_2_4/020326.xml,u1632,9,1,MOT,Mother,Mother,a star ?,,3.154,det:art n,P2Y3M26D,28.0
-Providence,Providence_2_4/020326.xml,u1647,10,0,CHI,Target_Child,Alex,where 0is 0the egg ?,"CHI: where's a hat ?
-MOT: how about a square ?
-CHI: what's that 
-CHI: square .
-MOT: square .",1.98,adv:int 0aux 0det n,P2Y3M26D,28.0
-Providence,Providence_2_4/020326.xml,u1648,10,1,MOT,Mother,Mother,the egg ?,,3.154,det:art n,P2Y3M26D,28.0
+Providence,Providence_2_4/020326.xml,u1627,6,1,MOT,Mother,Mother,a plane ?,,3.154,det:art n,P2Y3M26D,28.0
 Providence,Providence_2_4/030323.xml,u549,1,0,CHI,Target_Child,Lily,the sour ?,"MOT: yeah that would be a good idea right ?
 MOT: okay so for instance .
 MOT: &-um .
@@ -3307,7 +3205,7 @@ CHI: all day .",5.678,pro:int aux pro:rel v,P2Y1M24D,26.0
 Providence,Providence_2_4/020124.xml,u523,1,1,MOT,Mother,Mother,is there one called Arthur Sleeps all Day ?,,5.658,cop adv pro:indef v n:prop n:prop adv n:prop,P2Y1M24D,26.0
 Providence,Providence_2_4/020905.xml,u129,1,0,CHI,Target_Child,William,"what ,  what that ?","FAT: good .
 FAT: there's some juice for ya .
-FAT: sure 0you don't want a banana ?
+FAT: sure you don't want a banana ?
 FAT: Daddy's gonna have some banana with his cereal .
 FAT: oops .",2.563,pro:int cm pro:int pro:dem,P2Y9M5D,33.0
 Providence,Providence_2_4/020905.xml,u130,1,1,FAT,Father,Father,what is that ?,,3.794,pro:int cop pro:dem,P2Y9M5D,33.0
@@ -3317,11 +3215,11 @@ FAT: can I ask you a question ?
 FAT: how come
 CHI: huh ?",2.563,adv:int v,P2Y9M5D,33.0
 Providence,Providence_2_4/020905.xml,u321,2,1,FAT,Father,Father,"how come you don't eat the ,  &-uh ,  other part of the bread ?",,3.794,adv:int v pro:per mod neg v det:art cm cm qn n prep det:art n,P2Y9M5D,33.0
-Providence,Providence_2_4/020905.xml,u462,3,0,CHI,Target_Child,William,xxx why he's crying ?,"CHI: what 0is ,  what's this ?
+Providence,Providence_2_4/020905.xml,u462,3,0,CHI,Target_Child,William,xxx why he's crying ?,"CHI: what is ,  what's this ?
 FAT: who is that ?
 CHI: I <d>u<nno> .
 FAT: neither do I .
-CHI: oh ,  neither 0do I .",2.563,adv:int pro:sub aux part,P2Y9M5D,33.0
+CHI: oh ,  neither do I .",2.563,adv:int pro:sub aux part,P2Y9M5D,33.0
 Providence,Providence_2_4/020905.xml,u463,3,1,FAT,Father,Father,are you crying ?,,3.794,cop pro:per part,P2Y9M5D,33.0
 Providence,Providence_2_4/020905.xml,u623,4,0,CHI,Target_Child,William,what's that ?,"CHI: that is very scary !
 FAT: yeah .
@@ -3353,13 +3251,13 @@ CHI: hey !
 FAT: xxx that's a police car and this is a police motorcycle .
 CHI: wow !",3.957,co n:prop pro:int aux det:art n n n,P3Y7M25D,44.0
 Providence,Providence_2_4/030725.xml,u1049,3,1,FAT,Father,Father,there's a green one ?,,4.263,adv cop det:art n pro:indef,P3Y7M25D,44.0
-Providence,Providence_2_4/020907.xml,u8,1,0,CHI,Target_Child,Ethan,what one should put 0on that one ?,"MOT: I think we have to switch another one .
+Providence,Providence_2_4/020907.xml,u8,1,0,CHI,Target_Child,Ethan,what one should put on that one ?,"MOT: I think we have to switch another one .
 MOT: which one do you wanna take ?
 MOT: the ambulance ,  or the fire
 CHI: fire .
 MOT: mkay .",3.256,pro:int pro:indef mod v 0prep pro:dem pro:indef,P2Y9M7D,33.0
 Providence,Providence_2_4/020907.xml,u9,1,1,MOT,Mother,Mother,"well ,  we only have one left ,  right ?",,4.858,co cm pro:sub adv v det:num n cm n,P2Y9M7D,33.0
-Providence,Providence_2_4/020907.xml,u123,2,0,CHI,Target_Child,Ethan,put Po on 0it ?,"MOT: okay ?
+Providence,Providence_2_4/020907.xml,u123,2,0,CHI,Target_Child,Ethan,put Po on it ?,"MOT: okay ?
 CHI: yyy Po yyy .
 CHI: yyy yyy Po's scooter .
 MOT: xxx ,  we could make a scooter for Po if we took these two off .
@@ -3419,48 +3317,42 @@ MOT: and you used to do it with xxx sometimes too .
 MOT: let's see
 MOT: and who else was in that library group ,  do you remember the other",3.931,adv:int mod n:prop v prep det:art cm det:art adj n,P2Y3M24D,28.0
 Providence,Providence_2_4/020324.xml,u162,2,1,MOT,Mother,Mother,when you were a bigger toddler ?,,5.74,conj pro:per cop det:art adj n,P2Y3M24D,28.0
-Providence,Providence_2_4/020324.xml,u338,3,0,CHI,Target_Child,Naima,why 0are they home+made books ?,"MOT: we could write some words .
-CHI: you   want to see what's in that .
-MOT: oh ,  do you remember who made these books ?
-CHI: Naima and Mommy .
-MOT: yes ,  we did .",3.931,adv:int 0aux pro:sub adj n adj n,P2Y3M24D,28.0
-Providence,Providence_2_4/020324.xml,u339,3,1,MOT,Mother,Mother,why are they home+made books ?,,5.74,adv:int aux pro:sub adj n adj n,P2Y3M24D,28.0
-Providence,Providence_2_4/020324.xml,u989,4,0,CHI,Target_Child,Naima,"why'd the police+man say yyy why ,  why was ,  what does the police+man say to Corduroy ?","MOT: yeah .
+Providence,Providence_2_4/020324.xml,u989,3,0,CHI,Target_Child,Naima,"why'd the police+man say yyy why ,  why was ,  what does the police+man say to Corduroy ?","MOT: yeah .
 MOT: yeah ,  <be>cause I'm thirsty .
 CHI: you're looking for a straw .
 MOT: that's exactly what I was doing !
 MOT: how did you know that ?",3.931,adv:int mod det:art n n n co adv:int cm adv:int cop cm det:int mod det:art n n n co prep n:prop,P2Y3M24D,28.0
-Providence,Providence_2_4/020324.xml,u990,4,1,MOT,Mother,Mother,"&-um: ,  what does the police+man say to Corduroy ?",,5.74,cm det:int v det:art n n n v prep n:prop,P2Y3M24D,28.0
-Providence,Providence_2_4/020324.xml,u1025,5,0,CHI,Target_Child,Naima,"yeah ,  where'd we go ?","MOT: it's made with sesame seeds on it .
+Providence,Providence_2_4/020324.xml,u990,3,1,MOT,Mother,Mother,"&-um: ,  what does the police+man say to Corduroy ?",,5.74,cm det:int v det:art n n n v prep n:prop,P2Y3M24D,28.0
+Providence,Providence_2_4/020324.xml,u1025,4,0,CHI,Target_Child,Naima,"yeah ,  where'd we go ?","MOT: it's made with sesame seeds on it .
 CHI: why ?
 MOT: that's just how it's made .
 CHI: akh makh .
 MOT: did you have fun this morning ?",3.931,co cm adv:int mod pro:sub v,P2Y3M24D,28.0
-Providence,Providence_2_4/020324.xml,u1026,5,1,MOT,Mother,Mother,where did we go ?,,5.74,adv:int mod pro:sub v,P2Y3M24D,28.0
-Providence,Providence_2_4/020324.xml,u1045,6,0,CHI,Target_Child,Naima,"because ,  xxx xxx what are those crackers called ?","CHI: xxx interested because she wants to drink a smoothie .
+Providence,Providence_2_4/020324.xml,u1026,4,1,MOT,Mother,Mother,where did we go ?,,5.74,adv:int mod pro:sub v,P2Y3M24D,28.0
+Providence,Providence_2_4/020324.xml,u1045,5,0,CHI,Target_Child,Naima,"because ,  xxx xxx what are those crackers called ?","CHI: xxx interested because she wants to drink a smoothie .
 MOT: what did you say ?
 MOT: you're interesting ?
 CHI: you're   drinking a smoothie .
 MOT: mhm .",3.931,conj cm pro:int aux pro:dem n v,P2Y3M24D,28.0
-Providence,Providence_2_4/020324.xml,u1047,6,1,MOT,Mother,Mother,"what are they called ,  do you remember ?",,5.74,det:int aux pro:sub part cm mod pro:per v,P2Y3M24D,28.0
-Providence,Providence_2_4/020324.xml,u1219,7,0,CHI,Target_Child,Naima,why he yyy what he gonna do to make the patients feel better ?,"CHI: he's working at the hospital .
+Providence,Providence_2_4/020324.xml,u1047,5,1,MOT,Mother,Mother,"what are they called ,  do you remember ?",,5.74,det:int aux pro:sub part cm mod pro:per v,P2Y3M24D,28.0
+Providence,Providence_2_4/020324.xml,u1219,6,0,CHI,Target_Child,Naima,why he yyy what he gonna do to make the patients feel better ?,"CHI: he's working at the hospital .
 MOT: yeah .
 CHI: yyy yyy feel better there .
 MOT: he's gonna help people feel better .
 MOT: patients .",3.931,adv:int pro:sub pro:int pro:sub mod:aux v inf v det:art n v adj,P2Y3M24D,28.0
-Providence,Providence_2_4/020324.xml,u1220,7,1,MOT,Mother,Mother,what do you think ?,,5.74,pro:int mod pro:per v,P2Y3M24D,28.0
-Providence,Providence_2_4/020324.xml,u1274,8,0,CHI,Target_Child,Naima,what did he do ?,"MOT: just summer is not a time when there's snow .
+Providence,Providence_2_4/020324.xml,u1220,6,1,MOT,Mother,Mother,what do you think ?,,5.74,pro:int mod pro:per v,P2Y3M24D,28.0
+Providence,Providence_2_4/020324.xml,u1274,7,0,CHI,Target_Child,Naima,what did he do ?,"MOT: just summer is not a time when there's snow .
 MOT: winter ,  fall and spring are the only time when it snows .
 CHI: yyy yyy why does ?
 CHI: yyy whose house did we go to ?
 MOT: &-uhhh xxx house .",3.931,pro:int mod pro:sub v,P2Y3M24D,28.0
-Providence,Providence_2_4/020324.xml,u1275,8,1,MOT,Mother,Mother,what was he doing there ?,,5.74,pro:int cop pro:sub part adv,P2Y3M24D,28.0
-Providence,Providence_2_4/020324.xml,u1463,9,0,CHI,Target_Child,Naima,what's drying the shaving cream off ?,"MOT: here you go .
+Providence,Providence_2_4/020324.xml,u1275,7,1,MOT,Mother,Mother,what was he doing there ?,,5.74,pro:int cop pro:sub part adv,P2Y3M24D,28.0
+Providence,Providence_2_4/020324.xml,u1463,8,0,CHI,Target_Child,Naima,what's drying the shaving cream off ?,"MOT: here you go .
 CHI: why you do ?
 MOT: it's wet ,  you can wipe your hands right on that okay .
 MOT: you cleaning off your elbows and everything ?
 MOT: you've got some shaving cream on your elbow here .",3.931,pro:int aux part det:art part n adv,P2Y3M24D,28.0
-Providence,Providence_2_4/020324.xml,u0,9,1,MOT,Mother,Mother,what's this William ?,,4.509,pro:int cop pro:dem n:prop,P2Y3M24D,28.0
+Providence,Providence_2_4/020324.xml,u0,8,1,MOT,Mother,Mother,what's this William ?,,4.509,pro:int cop pro:dem n:prop,P2Y3M24D,28.0
 Providence,Providence_2_4/020319.xml,u778,1,0,CHI,Target_Child,William,yyy this one ?,"MOT: oh boy .
 MOT: like that ,  is that how you wanted it ?
 MOT: let's see ,  what else we can do .
@@ -3515,7 +3407,7 @@ OPE: wow .
 CHI: &-um .
 OPE: wow .",2.427,pro:int mod pro:per v,P2Y7M21D,32.0
 Providence,Providence_2_4/020721.xml,u1523,3,1,MOT,Mother,Mother,well what are the letters ?,,6.158,co det:int aux det:art n,P2Y7M21D,32.0
-Providence,Providence_2_4/020721.xml,u1572,4,0,CHI,Target_Child,Lily,0is this a tush ?,"MOT: it was schmutz ?
+Providence,Providence_2_4/020721.xml,u1572,4,0,CHI,Target_Child,Lily,is this a tush ?,"MOT: it was schmutz ?
 CHI: was it schmutz ?
 MOT: xxx better ?
 MOT: I think it was .
@@ -3532,8 +3424,8 @@ MOT: says Piglet .
 CHI: yyy yyy yyy yyy ice+cream .
 MOT: hm: .
 MOT: you could make swi:rl .",3.108,v n,P2Y7M9D,31.0
-Providence,Providence_2_4/020709.xml,u170,1,1,MOT,Mother,Mother,0do you know what swirl is ?,,4.991,0aux pro:per v pro:int n cop,P2Y7M9D,31.0
-Providence,Providence_2_4/020709.xml,u971,2,0,CHI,Target_Child,Ethan,want 0to do the volcano ?,"CHI: that's two holes .
+Providence,Providence_2_4/020709.xml,u170,1,1,MOT,Mother,Mother,do you know what swirl is ?,,4.991,0aux pro:per v pro:int n cop,P2Y7M9D,31.0
+Providence,Providence_2_4/020709.xml,u971,2,0,CHI,Target_Child,Ethan,want to do the volcano ?,"CHI: that's two holes .
 MOT: there's one big hole .
 CHI: buzz .
 CHI: buzz .
@@ -3599,7 +3491,7 @@ CHI: and the Puerto Rico one ?
 MOT: you want the Puerto Rico one ?
 MOT: what's the Puerto Rico one ?",2.881,n:prop n:prop n,P2Y2M22D,27.0
 Providence,Providence_2_4/020222.xml,u29,2,1,MOT,Mother,Mother,you want the Puerto Rico track ?,,5.074,pro:per v det:art n:prop n:prop n,P2Y2M22D,27.0
-Providence,Providence_2_4/020222.xml,u192,3,0,CHI,Target_Child,Ethan,yyy Percy where 0is Thomas ?,"CHI: xxx oh he's back up oh .
+Providence,Providence_2_4/020222.xml,u192,3,0,CHI,Target_Child,Ethan,yyy Percy where is Thomas ?,"CHI: xxx oh he's back up oh .
 CHI: &-uh he fell down again .
 MOT: &-uh oh ,  he fell down again .
 MOT: he fell down again .
@@ -3623,7 +3515,7 @@ MOT: but not with the paint .
 MOT: you used up a lot of the blue paint and
 MOT: that's my favorite color .",2.881,v qn n,P2Y2M22D,27.0
 Providence,Providence_2_4/020222.xml,u1020,6,1,MOT,Mother,Mother,wanna use some pink ?,,5.074,mod:aux v qn n,P2Y2M22D,27.0
-Providence,Providence_2_4/030025.xml,u294,1,0,CHI,Target_Child,Lily,but what 0are we gonna see ?,"CHI: hey come on .
+Providence,Providence_2_4/030025.xml,u294,1,0,CHI,Target_Child,Lily,but what are we gonna see ?,"CHI: hey come on .
 CHI: come come on ankylosaurus .
 CHI: let's go .
 CHI: hey come on stegosaurus we'll be for yyy going we're going to the great valley .
@@ -3643,7 +3535,7 @@ CHI: bears have different kinds of things on them .",3.034,mod pro:per v pro:int
 Providence,Providence_2_4/030025.xml,u448,3,1,MOT,Mother,Mother,what are they can you tell me ?,,4.924,det:int aux pro:sub mod pro:per v pro:obj,P3Y0M25D,37.0
 Providence,Providence_2_4/021100.xml,u1050,1,0,CHI,Target_Child,William,"yes ,  have some ?","MOT: we're not gonna play with that ,  we aren't gonna put it on our head .
 CHI: I like that .
-CHI: could 0i have some ?
+CHI: could i have some ?
 MOT: you like those ?
 CHI: oh .",2.237,co cm v qn,P2Y11M0D,35.0
 Providence,Providence_2_4/021100.xml,u1051,1,1,MOT,Mother,Mother,"yes ,  would you like some milk ?",,4.836,co cm mod pro:per v qn n,P2Y11M0D,35.0
@@ -3701,7 +3593,7 @@ MOT: what ?
 MOT: okay ,  but how about this
 MOT: how about we pick up that book ,  we're not gonna watch the fire engine show ,  we're not watching tv ,  but I think we need to pick the book up and put it back .",2.492,pro:rel v det:art n v,P2Y6M26D,31.0
 Providence,Providence_2_4/020626.xml,u428,2,1,MOT,Mother,Mother,"you tell me ,  where'd the book go ?",,5.175,pro:per v pro:obj cm adv:int v det:art n v,P2Y6M26D,31.0
-Providence,Providence_2_4/020626.xml,u717,3,0,CHI,Target_Child,William,where's 0the tunnel ?,"CHI: nope .
+Providence,Providence_2_4/020626.xml,u717,3,0,CHI,Target_Child,William,where's the tunnel ?,"CHI: nope .
 MOT: nope ?
 CHI: where's the hill ?
 MOT: okay ,  xxx .
@@ -3763,8 +3655,8 @@ MOT: I'll get the other backpack .",3.416,cm det:int n n n,P2Y4M24D,29.0
 Providence,Providence_2_4/020424.xml,u148,1,1,MOT,Mother,Mother,where'd that little pink backpack go ?,,5.298,adv:int mod pro:dem adj n n n n v,P2Y4M24D,29.0
 Providence,Providence_2_4/020424.xml,u341,2,0,CHI,Target_Child,Naima,what was it ?,"MOT: he couldn't smell or hear anything that day because
 MOT: cause the windows were shut ,  I think .
-CHI: in 0the   neighbor's garden he saw something move .
-CHI: in 0the   neighbor's garden .
+CHI: in the   neighbor's garden he saw something move .
+CHI: in the   neighbor's garden .
 CHI: he saw something move in in the   neighbor's garden .",3.416,pro:int cop pro:per,P2Y4M24D,29.0
 Providence,Providence_2_4/020424.xml,u342,2,1,MOT,Mother,Mother,"ooh ,  what was it that was moving ?",,5.298,v cm pro:int cop pro:per pro:rel aux part,P2Y4M24D,29.0
 Providence,Providence_2_4/020424.xml,u435,3,0,CHI,Target_Child,Naima,what are   you   doing ?,"CHI: Lucy yyy her collar's gone .
@@ -3773,7 +3665,7 @@ CHI: Lucy your collar's gone .
 CHI: Mrs Higgins put ,  took her hat off .
 CHI: xxx Mrs Higgins took her hat off Mommy .",3.416,pro:int aux pro:per part,P2Y4M24D,29.0
 Providence,Providence_2_4/020424.xml,u436,3,1,MOT,Mother,Mother,what's who doing ?,,5.298,pro:int aux pro:rel part,P2Y4M24D,29.0
-Providence,Providence_2_4/020424.xml,u692,4,0,CHI,Target_Child,Naima,"Ma where 0is the Cat comes in picture ,  Mommy yyy ?","CHI: Cat 
+Providence,Providence_2_4/020424.xml,u692,4,0,CHI,Target_Child,Naima,"Ma where is the Cat comes in picture ,  Mommy yyy ?","CHI: Cat 
 CHI: I skipped a picture .
 CHI: I skipped a picture .
 CHI: I'm finding the
@@ -3869,7 +3761,7 @@ MOT: nursies would make him feel better ,  oh .
 CHI: I hope he will find his mommy nurse him .
 MOT: he'll find his mommy and she'll nurse him .",3.007,pro:int post mod pro:per v prep pro:obj,P2Y0M12D,24.0
 Providence,Providence_2_4/020012 copy 2.xml,u129,1,1,MOT,Mother,Mother,what else could you do for him ?,,5.145,pro:int post mod pro:per v prep pro:obj,P2Y0M12D,24.0
-Providence,Providence_2_4/020012 copy 2.xml,u160,2,0,CHI,Target_Child,Naima,what 0is Na doing ?,"CHI: to the grizzly+bear .
+Providence,Providence_2_4/020012 copy 2.xml,u160,2,0,CHI,Target_Child,Naima,what is Na doing ?,"CHI: to the grizzly+bear .
 MOT: he has his own office ?
 MOT: oh: .
 MOT: will he feel better if he goes there ?
@@ -3882,7 +3774,7 @@ MOT: that's called a lens cap .
 MOT: d'you hear that noise ?",3.007,pro:int cop pro:dem n,P2Y0M12D,24.0
 Providence,Providence_2_4/020012 copy 2.xml,u203,3,1,MOT,Mother,Mother,what does it sound like ?,,5.145,pro:int mod pro:per v prep,P2Y0M12D,24.0
 Providence,Providence_2_4/020012 copy 2.xml,u691,4,0,CHI,Target_Child,Naima,what is that ?,"MOT: see you .
-CHI: what 0is that ?
+CHI: what is that ?
 MOT: I think that was da:ddy .
 CHI: what
 MOT: he was going to be coming home soon .",3.007,pro:int cop pro:dem,P2Y0M12D,24.0
@@ -3929,7 +3821,7 @@ MOT: need to find the other one .
 MOT: how bout a white ?
 CHI: yyy green yyy .",2.003,n v pro:dem,P2Y4M25D,29.0
 Providence,Providence_2_4/020425.xml,u1083,6,1,MOT,Mother,Mother,a green ?,,3.766,det:art n,P2Y4M25D,29.0
-Providence,Providence_2_4/020425.xml,u1087,7,0,CHI,Target_Child,Alex,where 0is 0the green ball ?,"CHI: yyy green yyy open this ?
+Providence,Providence_2_4/020425.xml,u1087,7,0,CHI,Target_Child,Alex,where is the green ball ?,"CHI: yyy green yyy open this ?
 MOT: a green ?
 CHI: open this .
 CHI: green ball ?
@@ -3953,7 +3845,7 @@ MOT: orange ?
 CHI: pink ball .
 CHI: a pink ball .",2.003,adj n,P2Y4M25D,29.0
 Providence,Providence_2_4/020425.xml,u1255,10,1,MOT,Mother,Mother,a pink ball or a pink snake ?,,3.766,det:art n n coord det:art n n,P2Y4M25D,29.0
-Providence,Providence_2_4/020319 copy 2.xml,u406,1,0,CHI,Target_Child,Violet,what 0is that guy ?,"MOT: they eat the leaves from the trees ?
+Providence,Providence_2_4/020319 copy 2.xml,u406,1,0,CHI,Target_Child,Violet,what is that guy ?,"MOT: they eat the leaves from the trees ?
 CHI: yeah .
 MOT: yeah .
 MOT: do you eat leaves ?
@@ -3989,19 +3881,13 @@ CHI: xxx yellow car ,  yellow car xxx yellow
 MOT: yellow car ,  ye<llow>
 MOT: yellow car ,  yellow ca:r ,  yellow ca:r .",2.917,pro:int,P2Y11M1D,35.0
 Providence,Providence_2_4/021101.xml,u512,1,1,MOT,Mother,Mother,"xxx ,  what xxx what ?",,4.791,cm det:int pro:int,P2Y11M1D,35.0
-Providence,Providence_2_4/021101.xml,u1098,2,0,CHI,Target_Child,Ethan,who   could 0it be ?,"MOT: mhm ,  do:ng@o ,  doyng@o .
-CHI: with his tail .
-CHI: doing doing doing .
-MOT: doing ,  doing doing .
-MOT: what's his na:me ?",2.917,pro:int mod 0pro cop,P2Y11M1D,35.0
-Providence,Providence_2_4/021101.xml,u1099,2,1,MOT,Mother,Mother,who could it be: ?,,4.791,pro:int mod pro:per cop,P2Y11M1D,35.0
 Providence,Providence_2_4/020500 copy.xml,u362,1,0,CHI,Target_Child,Ethan,wanna try some rice ?,"MOT: <be>cause he's drinking
 MOT: milk .
 MOT: juice from a pear .
 MOT: and rice in my hair .
 MOT: that's your favorite part ,  isn't it ?",3.145,mod:aux v qn n,P2Y5M0D,29.0
 Providence,Providence_2_4/020500 copy.xml,u363,1,1,MOT,Mother,Mother,you wanna try some rice ?,,5.277,pro:per mod:aux v qn n,P2Y5M0D,29.0
-Providence,Providence_2_4/020500 copy.xml,u377,2,0,CHI,Target_Child,Ethan,what 0is he doing ?,"MOT: Jesse Bear ,  what will you wear ,  what will you wear at night ?
+Providence,Providence_2_4/020500 copy.xml,u377,2,0,CHI,Target_Child,Ethan,what is he doing ?,"MOT: Jesse Bear ,  what will you wear ,  what will you wear at night ?
 MOT: water to float my bubbles and boat ,  I'll wear in the tub tonight .
 MOT: what's he doing ?
 MOT: what's Jesse Bear doin<g> ,  Eth<an> ?
@@ -4031,30 +3917,24 @@ CHI: coupling see
 MOT: I don't know which one you're talking about .
 MOT: the train we ma:de ?",3.145,coord det:art n pro:sub mod neg v,P2Y5M0D,29.0
 Providence,Providence_2_4/020500 copy.xml,u515,6,1,MOT,Mother,Mother,"the train we didn't make ,  mister opposites ?",,5.277,det:art n pro:sub mod neg v cm n n,P2Y5M0D,29.0
-Providence,Providence_2_4/020500 copy.xml,u710,7,0,CHI,Target_Child,Ethan,yyy wanna zip 0it up ?,"MOT: you
-MOT: disappeared .
-MOT: you .
-MOT: appeared .
-MOT: what's that ?",3.145,mod:aux v 0pro adv,P2Y5M0D,29.0
-Providence,Providence_2_4/020500 copy.xml,u711,7,1,MOT,Mother,Mother,wanna zip it up ?,,5.277,mod:aux v pro:per adv,P2Y5M0D,29.0
-Providence,Providence_2_4/020500 copy.xml,u740,8,0,CHI,Target_Child,Ethan,yyy take a look ?,"MOT: you have some food .
+Providence,Providence_2_4/020500 copy.xml,u740,7,0,CHI,Target_Child,Ethan,yyy take a look ?,"MOT: you have some food .
 MOT: an<d> don't let Pots eat it all up .
 MOT: don't let Pots eat up all your foo:d .
 CHI: where is Pots ?
 MOT: I don't know where Pots is ,  maybe he's hiding in the tent .",3.145,v det:art co,P2Y5M0D,29.0
-Providence,Providence_2_4/020500 copy.xml,u741,8,1,MOT,Mother,Mother,"yeah ,  we should take a look ,  where's the tent ?",,5.277,co cm pro:sub mod v det:art co cm adv:int cop det:art n,P2Y5M0D,29.0
-Providence,Providence_2_4/020500 copy.xml,u749,9,0,CHI,Target_Child,Ethan,xxx turn of the light ?,"MOT: Pots ,  are you eating all the food ,  Pots ?
+Providence,Providence_2_4/020500 copy.xml,u741,7,1,MOT,Mother,Mother,"yeah ,  we should take a look ,  where's the tent ?",,5.277,co cm pro:sub mod v det:art co cm adv:int cop det:art n,P2Y5M0D,29.0
+Providence,Providence_2_4/020500 copy.xml,u749,8,0,CHI,Target_Child,Ethan,xxx turn of the light ?,"MOT: Pots ,  are you eating all the food ,  Pots ?
 MOT: yes .
 MOT: said Pots .
 MOT: I ate up a:ll the food .
 MOT: I ate up a:ll the food .",3.145,n prep det:art n,P2Y5M0D,29.0
-Providence,Providence_2_4/020500 copy.xml,u750,9,1,MOT,Mother,Mother,you wanna turn off the lights to make it night time ?,,5.277,pro:per mod:aux v prep det:art n inf v pro:per n n,P2Y5M0D,29.0
-Providence,Providence_2_4/020500 copy.xml,u1095,10,0,CHI,Target_Child,Ethan,wanna fill it up ?,"CHI: sit there and be sad .
+Providence,Providence_2_4/020500 copy.xml,u750,8,1,MOT,Mother,Mother,you wanna turn off the lights to make it night time ?,,5.277,pro:per mod:aux v prep det:art n inf v pro:per n n,P2Y5M0D,29.0
+Providence,Providence_2_4/020500 copy.xml,u1095,9,0,CHI,Target_Child,Ethan,wanna fill it up ?,"CHI: sit there and be sad .
 MOT: you wanna sit there and be sad ,  are you sad ?
 MOT: why are you sad ?
-CHI: you did not want to yyy you did not want to play yyy you did not even 0want to play with ,  with the yyy .
+CHI: you did not want to yyy you did not want to play yyy you did not even want to play with ,  with the yyy .
 MOT: there's still a little bit left are you xxx ?",3.145,mod:aux v pro:per adv,P2Y5M0D,29.0
-Providence,Providence_2_4/020500 copy.xml,u1096,10,1,MOT,Mother,Mother,"I'll fill it up in a few minutes ,  you wanna read another story ?",,5.277,pro:sub mod v pro:per adv prep det:art qn n cm pro:per mod:aux v qn n,P2Y5M0D,29.0
+Providence,Providence_2_4/020500 copy.xml,u1096,9,1,MOT,Mother,Mother,"I'll fill it up in a few minutes ,  you wanna read another story ?",,5.277,pro:sub mod v pro:per adv prep det:art qn n cm pro:per mod:aux v qn n,P2Y5M0D,29.0
 Providence,Providence_2_4/020221.xml,u945,1,0,CHI,Target_Child,William,what is this ?,"CHI: here ,  here 
 CHI: thanks Mom .
 MOT: you're welcome William .
@@ -4067,7 +3947,7 @@ CHI: yyy blue yyy .
 CHI: &-um
 MOT: what color are you working with ,  William ?",1.793,cm v det:art n:prop,P2Y2M9D,26.0
 Providence,Providence_2_4/020209.xml,u231,1,1,MOT,Mother,Mother,"oh ,  you're making Clifford ?",,4.676,co cm pro:per aux part n:prop,P2Y2M9D,26.0
-Providence,Providence_2_4/020209.xml,u793,2,0,CHI,Target_Child,William,"mommy ,  what 0are you doing ?","MOT: yeah .
+Providence,Providence_2_4/020209.xml,u793,2,0,CHI,Target_Child,William,"mommy ,  what are you doing ?","MOT: yeah .
 CHI: mommy ?
 MOT: yes William ?
 MOT: I'm xxx ,  I'm good honey ,  how are you doing ?
@@ -4135,7 +4015,7 @@ MOT: where were we ?",3.396,pro:sub cop prep pro:int,P3Y2M18D,39.0
 Providence,Providence_2_4/030218.xml,u757,4,1,MOT,Mother,Mother,were we at the mall ?,,5.199,cop pro:sub prep det:art n,P3Y2M18D,39.0
 Providence,Providence_2_4/030218.xml,u799,5,0,CHI,Target_Child,Lily,a dog and a car ?,"CHI: I have a joke .
 MOT: okay let's hear it .
-CHI: what 0do you make 0with a
+CHI: what do you make with a
 CHI: a car a dog
 CHI: and a a bird",3.396,det:art n coord det:art n,P3Y2M18D,39.0
 Providence,Providence_2_4/030218.xml,u800,5,1,MOT,Mother,Mother,whada a bird dog and a car make ?,,5.199,det:int v det:art n n coord det:art n v,P3Y2M18D,39.0
@@ -4166,7 +4046,7 @@ Providence,Providence_2_4/020625.xml,u30,1,1,MOT,Mother,Mother,"xxx look ,  does
 Providence,Providence_2_4/020625.xml,u42,2,0,CHI,Target_Child,Naima,where did that thing go ?,"CHI: yyy is the raccoon ?
 MOT: yeah if you feel this fuzz and then feel the black part of the raccoon's tail
 MOT: they feel similar .
-MOT: 0the texture is similar .
+MOT: the texture is similar .
 CHI: it   is ",4.081,adv:int mod pro:dem n v,P2Y6M25D,31.0
 Providence,Providence_2_4/020625.xml,u43,2,1,MOT,Mother,Mother,what thing ?,,6.313,pro:int n,P2Y6M25D,31.0
 Providence,Providence_2_4/020625.xml,u133,3,0,CHI,Target_Child,Naima,"what is Griz gonna do ,  Mommy ?","CHI: where did Griz go ?
@@ -4319,25 +4199,19 @@ MOT: alright the little gate the little fence .
 CHI: the doggie house .
 MOT: oh the doggie house .",3.032,adv:int cop det:art n prep pro:per,P2Y4M2D,28.0
 Providence,Providence_2_4/020402 copy.xml,u763,9,1,MOT,Mother,Mother,where's the doggie sleeping in it ?,,6.642,adv:int cop det:art n part prep pro:per,P2Y4M2D,28.0
-Providence,Providence_2_4/020402 copy.xml,u855,10,0,CHI,Target_Child,Lily,where 0does it goes ?,"MOT: where's that there ya go .
+Providence,Providence_2_4/020402 copy.xml,u855,10,0,CHI,Target_Child,Lily,where does it goes ?,"MOT: where's that there ya go .
 CHI: duck clock .
 MOT: clock .
 CHI: the doggie .
 MOT: the doggie .",3.032,adv:int 0v pro:per v,P2Y4M2D,28.0
 Providence,Providence_2_4/020402 copy.xml,u856,10,1,MOT,Mother,Mother,where does that doggie go ?,,6.642,adv:int mod pro:dem n v,P2Y4M2D,28.0
-Providence,Providence_2_4/020402 copy.xml,u960,11,0,CHI,Target_Child,Lily,what 0are 0there any b@l left ?,"MOT: a b@l .
-MOT: need mommy ta help you ?
-CHI: no .
-MOT: there ya go good job .
-CHI: the other b@l .",3.032,pro:int 0aux 0adv qn n:let v,P2Y4M2D,28.0
-Providence,Providence_2_4/020402 copy.xml,u961,11,1,MOT,Mother,Mother,are there any b@l left ?,,6.642,cop adv qn n:let v,P2Y4M2D,28.0
 Providence,Providence_2_4/020624.xml,u50,1,0,CHI,Target_Child,Ethan,we'll   make New York City ?,"MOT: and then you ha:ve Tucker .
 MOT: Tucker the Truckbot xxx except I don't know where he is .
 MOT: he may have disappeared somewhere .
 MOT: you wanna build a city ?
 MOT: should we build a city for the cars to drive through ?",3.392,pro:sub mod v n:prop n:prop n:prop,P2Y6M24D,31.0
 Providence,Providence_2_4/020624.xml,u51,1,1,MOT,Mother,Mother,you wanna make New York city ?,,5.128,pro:per mod:aux v n:prop n:prop n,P2Y6M24D,31.0
-Providence,Providence_2_4/020624.xml,u243,2,0,CHI,Target_Child,Ethan,a moose gonna eat 0it up ?,"MOT: but they were all nine kinds of pie that Harold liked best .
+Providence,Providence_2_4/020624.xml,u243,2,0,CHI,Target_Child,Ethan,a moose gonna eat it up ?,"MOT: but they were all nine kinds of pie that Harold liked best .
 MOT: when Harold finished his picnic there was quite a lot left .
 MOT: he hated so to see so much pie go to waste so Harold left
 CHI: hungry   moose .
@@ -4349,18 +4223,12 @@ MOT: that's right .
 MOT: we're both wearing stripes Ethan .
 MOT: my shirt is stripy and your shirt is stripy .",3.392,n det:poss n adv,P2Y6M24D,31.0
 Providence,Providence_2_4/020624.xml,u332,3,1,MOT,Mother,Mother,you wanna mix our shirts together ?,,5.128,pro:per mod:aux v det:poss n adv,P2Y6M24D,31.0
-Providence,Providence_2_4/020624.xml,u686,4,0,CHI,Target_Child,Ethan,make 0a little baby tower ?,"MOT: this time it went into your lap .
-MOT: not my lap .
-MOT: shh .
-CHI: make another tower ?
-MOT: okay come sit down .",3.392,v 0det adj n n,P2Y6M24D,31.0
-Providence,Providence_2_4/020624.xml,u687,4,1,MOT,Mother,Mother,a little baby tower ?,,5.128,det:art adj n n,P2Y6M24D,31.0
-Providence,Providence_2_4/020624.xml,u772,5,0,CHI,Target_Child,Ethan,yyy mix it yyy tower ?,"CHI: yyy yyy xxx go xxx other   side .
+Providence,Providence_2_4/020624.xml,u772,4,0,CHI,Target_Child,Ethan,yyy mix it yyy tower ?,"CHI: yyy yyy xxx go xxx other   side .
 MOT: o:h one on each side whoa !
 MOT: shh .
 CHI: yyy make a
 MOT: be more quiet .",3.392,v pro:per v,P2Y6M24D,31.0
-Providence,Providence_2_4/020624.xml,u773,5,1,MOT,Mother,Mother,you gonna make xxx tower ?,,5.128,pro:per mod:aux v n,P2Y6M24D,31.0
+Providence,Providence_2_4/020624.xml,u773,4,1,MOT,Mother,Mother,you gonna make xxx tower ?,,5.128,pro:per mod:aux v n,P2Y6M24D,31.0
 Providence,Providence_2_4/030219.xml,u738,1,0,CHI,Target_Child,Naima,how in the puzzle thing could one go here and here and here ?,"CHI: we didn't do it !
 MOT: we didn't ?
 CHI: no !
@@ -4421,7 +4289,7 @@ MOT: I don't know ,  you wanna put your Cinderella shoes on ?
 CHI: yeah .
 MOT: alright .",3.347,cm pro:int mod pro:sub v,P2Y11M6D,35.0
 Providence,Providence_2_4/021106.xml,u236,1,1,MOT,Mother,Mother,hm: what did you say ?,,4.856,co pro:int mod pro:per v,P2Y11M6D,35.0
-Providence,Providence_2_4/021106.xml,u398,2,0,CHI,Target_Child,Lily,where 0are they going ?,"CHI: into the pretend garbage .
+Providence,Providence_2_4/021106.xml,u398,2,0,CHI,Target_Child,Lily,where are they going ?,"CHI: into the pretend garbage .
 MOT: wow .
 MOT: you remember where Trevor and Phoebe are going tomorrow morning ?
 CHI: yeah .
@@ -4439,7 +4307,7 @@ MOT: yeah .
 CHI: Mom ?
 MOT: yes .",3.347,v det:poss n v adv,P2Y11M6D,35.0
 Providence,Providence_2_4/021106.xml,u1337,4,1,MOT,Mother,Mother,"my fever did go away ,  after I took my medicine ,  right ?",,4.856,det:poss n v v adv cm conj pro:sub v det:poss n cm co,P2Y11M6D,35.0
-Providence,Providence_2_4/030221.xml,u119,1,0,CHI,Target_Child,William,can 0you lie ?,"MOT: no .
+Providence,Providence_2_4/030221.xml,u119,1,0,CHI,Target_Child,William,can you lie ?,"MOT: no .
 MOT: pick up Mister Grape and put Mister Grape back over here .
 CHI: look .
 MOT: please .
@@ -4451,13 +4319,13 @@ MOT: that's right .
 CHI: and &-uh
 CHI: where's xxx ?",2.932,adv:int cop det:art n,P3Y2M21D,39.0
 Providence,Providence_2_4/030221.xml,u648,2,1,MOT,Mother,Mother,what's a green what ?,,4.433,pro:int aux det:art n pro:int,P3Y2M21D,39.0
-Providence,Providence_2_4/030221.xml,u850,3,0,CHI,Target_Child,William,can you turn on 0the tv please ?,"MOT: that's what I like .
+Providence,Providence_2_4/030221.xml,u850,3,0,CHI,Target_Child,William,can you turn on the tv please ?,"MOT: that's what I like .
 MOT: I like it when William listens .
 MOT: &-uh .
 CHI: Mom .
 MOT: yes ,  William .",2.932,mod pro:per v prep 0det n co,P3Y2M21D,39.0
 Providence,Providence_2_4/030221.xml,u851,3,1,MOT,Mother,Mother,can I turn the tv on ?,,4.433,mod pro:sub v det:art n adv,P3Y2M21D,39.0
-Providence,Providence_2_4/030221.xml,u1224,4,0,CHI,Target_Child,William,where 0is my costume ?,"CHI: I already ate apple .
+Providence,Providence_2_4/030221.xml,u1224,4,0,CHI,Target_Child,William,where is my costume ?,"CHI: I already ate apple .
 CHI: apple .
 MOT: did you say an apple ?
 CHI: yup .
@@ -4487,7 +4355,7 @@ CHI: goes on this square .
 CHI: mattress 
 CHI: what's this ?",2.64,pro:int cop pro:dem,P2Y8M7D,32.0
 Providence,Providence_2_4/020807.xml,u113,1,1,MOT,Mother,Mother,what's what honey ?,,5.308,pro:int aux det:int n,P2Y8M7D,32.0
-Providence,Providence_2_4/020807.xml,u123,2,0,CHI,Target_Child,Violet,"Ma ,  what 0are you taping ?","CHI: but what ,  what's this pink stuff ?
+Providence,Providence_2_4/020807.xml,u123,2,0,CHI,Target_Child,Violet,"Ma ,  what are you taping ?","CHI: but what ,  what's this pink stuff ?
 CHI: the red stuff .
 CHI: &-uh this pink stuff ?
 MOT: I'm not sure what that is .
@@ -4584,7 +4452,7 @@ CHI: he's at school .
 MOT: oh .",3.441,cop pro:sub prep n,P2Y8M6D,32.0
 Providence,Providence_2_4/020806.xml,u1220,4,1,MOT,Mother,Mother,"no <be>cause you guys don't have school today ,  right ?",,5.414,co conj pro:per n mod neg v n adv:tem cm n,P2Y8M6D,32.0
 Providence,Providence_2_4/020806.xml,u1303,5,0,CHI,Target_Child,Lily,what animals ?,"CHI: bye bye Mommy .
-MOT: bye bye Honey ,  where 0are you goin<g> ?
+MOT: bye bye Honey ,  where are you goin<g> ?
 CHI: nothing .
 MOT: oh ,  let's see what else did you do in school ?
 MOT: &u:m: xxx what little animals are in your classroom at school ?",3.441,pro:int n,P2Y8M6D,32.0
@@ -4697,12 +4565,18 @@ FAT: is there a ladder truck ?
 CHI: yeah .
 FAT: mm hm: .",3.056,det:art qn n,P3Y4M18D,41.0
 Providence,Providence_2_4/030418.xml,u1187,4,1,FAT,Father,Father,<re>member your book about fire trucks ?,,4.815,v det:poss n prep n n,P3Y4M18D,41.0
-Providence,Providence_2_4/030424.xml,u984,1,0,CHI,Target_Child,Alex,how <a>bout this one Mommy how <a>bout this one ?,"MOT: pack it up .
+Providence,Providence_2_4/030424.xml,u56,1,0,CHI,Target_Child,Alex,yyy know what this is ?,"MOT: oh I like those ,  those like &-uh look like marble .
+CHI: there .
+CHI: yyy beans 
+MOT: those are great new beans .
+CHI: Mama know what this is ?",3.348,v 0pro pro:dem cop,P3Y4M24D,41.0
+Providence,Providence_2_4/030424.xml,u57,1,1,MOT,Mother,Mother,what is i<t> ?,,5.022,pro:int aux pro:per,P3Y4M24D,41.0
+Providence,Providence_2_4/030424.xml,u984,2,0,CHI,Target_Child,Alex,how <a>bout this one Mommy how <a>bout this one ?,"MOT: pack it up .
 CHI: how <a>bout this yyy .
 MOT: this one's my favorite favorite .
 CHI: xxx no 
 MOT: no I'm jus<t> fixing <th>em I'm just fixing them I'm not doin<g> anythin<g> .",3.348,adv:int prep pro:dem pro:indef n:prop adv:int prep pro:dem pro:indef,P3Y4M24D,41.0
-Providence,Providence_2_4/030424.xml,u985,1,1,MOT,Mother,Mother,okay what's the name of this one ?,,5.022,co pro:int poss det:art n prep pro:dem pro:indef,P3Y4M24D,41.0
+Providence,Providence_2_4/030424.xml,u985,2,1,MOT,Mother,Mother,okay what's the name of this one ?,,5.022,co pro:int poss det:art n prep pro:dem pro:indef,P3Y4M24D,41.0
 Providence,Providence_2_4/020623.xml,u27,1,0,CHI,Target_Child,Lily,where are they ?,"CHI: can you yyy
 MOT: that's the engineer blowing the horn toot toot woo woo !
 CHI: can you xxx can you read the books ?
@@ -4793,7 +4667,7 @@ MOT: we're gonna go to the play+ground in a little bit .
 MOT: xxx go on the slide ?
 MOT: wanna do that ?",2.703,v prep det:art n,P2Y3M19D,28.0
 Providence,Providence_2_4/020319 copy.xml,u704,2,1,MOT,Mother,Mother,yanna go to the beach ?,,4.363,pro:per v inf v prep det:art n,P2Y3M19D,28.0
-Providence,Providence_2_4/020319 copy.xml,u828,3,0,CHI,Target_Child,Ethan,0can we read that one ?,"CHI: Jesse Jesse new shoes .
+Providence,Providence_2_4/020319 copy.xml,u828,3,0,CHI,Target_Child,Ethan,can we read that one ?,"CHI: Jesse Jesse new shoes .
 MOT: Jesse Jesse new shoes .
 MOT: I forgot the rest of the words shoes .
 MOT: Jesse Jesse new shoes .
@@ -4811,7 +4685,7 @@ MOT: beige I actually think they're hazel right ?
 CHI: hazel .
 MOT: hazel .",3.336,coord pro:int n cop n:prop poss n,P2Y4M9D,28.0
 Providence,Providence_2_4/020409.xml,u150,1,1,MOT,Mother,Mother,what color can you you wanna go look and see what color Manuela's eyes are ?,,7.852,pro:int n mod pro:per pro:per mod:aux v v coord v pro:int n n:prop poss n cop,P2Y4M9D,28.0
-Providence,Providence_2_4/020409.xml,u1052,2,0,CHI,Target_Child,Lily,how 0do I 0say goodbye with   Spanish ?,"OPE: that's good .
+Providence,Providence_2_4/020409.xml,u1052,2,0,CHI,Target_Child,Lily,how do I say goodbye with   Spanish ?,"OPE: that's good .
 CHI: I have a pink teddy bear on my shirt .
 MOT: you do you have a lil pink teddy bear on your shirt .
 MOT: can you say goodbye: ?
@@ -4859,12 +4733,6 @@ CHI: where's the h@l ?
 MOT: right there .
 CHI: where's the   h@l ?",1.76,adv:int cop det:art n:let,P2Y2M17D,27.0
 Providence,Providence_2_4/020217.xml,u471,1,1,MOT,Mother,Mother,an i@l ?,,3.463,det:art n:let,P2Y2M17D,27.0
-Providence,Providence_2_4/020217.xml,u634,2,0,CHI,Target_Child,Alex,where's 0the chicken ?,"MOT: hum ,  is it back here ?
-CHI: oh no Mommy .
-MOT: I don't see it .
-CHI: a y@l .
-MOT: that's the beans .",1.76,adv:int cop 0det n,P2Y2M17D,27.0
-Providence,Providence_2_4/020217.xml,u635,2,1,MOT,Mother,Mother,where's the chicken ?,,3.463,adv:int cop det:art n,P2Y2M17D,27.0
 Providence,Providence_2_4/031124.xml,u194,1,0,CHI,Target_Child,Violet,mom how big &-um do you think I'm gonna do a circle ?,"CHI: hey mommy look .
 CHI: mom look yyy yyy yyy .
 CHI: xxx a hearing xxx .
@@ -4884,7 +4752,7 @@ CHI: oh where oh where
 MOT: where oh where oh where is Tho:mas ?",3.057,adv:int cop n:prop,P2Y8M8D,32.0
 Providence,Providence_2_4/020808.xml,u145,2,1,MOT,Mother,Mother,where oh where oh where is Tho:mas ?,,3.925,adv:int co pro:rel co pro:rel cop n:prop,P2Y8M8D,32.0
 Providence,Providence_2_4/020808.xml,u368,3,0,CHI,Target_Child,William,where's   Percy ?,"CHI: oh where oh where is Thomas ?
-CHI: oh where oh where 0is Thomas ?
+CHI: oh where oh where is Thomas ?
 CHI: oh where oh where is Thomas ?
 CHI: oh where oh where is Tho<mas> ?
 CHI: oh where oh xxx .",3.057,adv:int cop n:prop,P2Y8M8D,32.0
@@ -4895,7 +4763,7 @@ MOT: you were splashing
 MOT: you were swimming .
 MOT: ha ha .",3.057,pro:int cop pro:dem,P2Y8M8D,32.0
 Providence,Providence_2_4/020808.xml,u669,4,1,MOT,Mother,Mother,who is it ?,,3.925,pro:int cop pro:per,P2Y8M8D,32.0
-Providence,Providence_2_4/020411.xml,u721,1,0,CHI,Target_Child,Alex,where<'s> 0the black ?,"MOT: now ,  would you like to
+Providence,Providence_2_4/020411.xml,u721,1,0,CHI,Target_Child,Alex,where<'s> the black ?,"MOT: now ,  would you like to
 MOT: oh ,  do you want your crayons ?
 CHI: please .
 MOT: oh ,  sure .
@@ -4991,13 +4859,13 @@ CHI: this is for yyy .
 CHI: yyy yyy this
 CHI: mm you will miss .",3.16,pro:per mod:aux v coord coord pro:per mod v pro:per,P3Y0M11D,36.0
 Providence,Providence_2_4/030011.xml,u210,1,1,MOT,Mother,Mother,do you want me to miss ?,,4.619,mod pro:per v pro:obj inf v,P3Y0M11D,36.0
-Providence,Providence_2_4/030011.xml,u284,2,0,CHI,Target_Child,William,hey 0do 0you wanna watch this one ?,"CHI: hey !
+Providence,Providence_2_4/030011.xml,u284,2,0,CHI,Target_Child,William,hey do you wanna watch this one ?,"CHI: hey !
 CHI: the Mr Potato .
 MOT: Mr Potato .
 SIS: is it ?
 SIS: is it ?",3.16,co 0aux 0pro mod:aux v pro:dem pro:indef,P3Y0M11D,36.0
 Providence,Providence_2_4/030011.xml,u285,2,1,MOT,Mother,Mother,which one ?,,4.619,pro:rel pro:indef,P3Y0M11D,36.0
-Providence,Providence_2_4/030011.xml,u301,3,0,CHI,Target_Child,William,Blue's Clues book ?,"CHI: 0do 0you wanna watch Blue's
+Providence,Providence_2_4/030011.xml,u301,3,0,CHI,Target_Child,William,Blue's Clues book ?,"CHI: do you wanna watch Blue's
 CHI: Blue's Clues .
 CHI: okay ?
 CHI: we'll watch Blue's Clues .
@@ -5093,21 +4961,21 @@ MOT: but I'm not finished <be>cause look what else he has .
 CHI: what ?
 MOT: see what I didn't do on his tail ?",3.257,pro:int,P3Y4M24D,41.0
 Providence,Providence_2_4/030424 copy.xml,u745,1,1,MOT,Mother,Mother,what does he have on his tail ?,,6.02,pro:int v pro:sub v prep det:poss n,P3Y4M24D,41.0
-Providence,Providence_2_4/030424 copy.xml,u814,2,0,CHI,Target_Child,Violet,xxx a duck xxx which one do you want 0to do next ?,"CHI: oh this one that way colorful .
+Providence,Providence_2_4/030424 copy.xml,u814,2,0,CHI,Target_Child,Violet,xxx a duck xxx which one do you want to do next ?,"CHI: oh this one that way colorful .
 MOT: hm: .
 CHI: beautiful .
 CHI: maybe the duck xxx bird .
 CHI: this one's beautiful xxx .",3.257,det:art n pro:rel pro:indef v pro:per v 0inf v adv,P3Y4M24D,41.0
 Providence,Providence_2_4/030424 copy.xml,u815,2,1,MOT,Mother,Mother,I don't know what do you think ?,,6.02,pro:sub mod neg v pro:int mod pro:per v,P3Y4M24D,41.0
-Providence,Providence_2_4/020822.xml,u252,1,0,CHI,Target_Child,William,where 0is the red one ?,"FAT: put the monkeys in the barrel .
+Providence,Providence_2_4/020822.xml,u252,1,0,CHI,Target_Child,William,where is the red one ?,"FAT: put the monkeys in the barrel .
 CHI: no ,  any red one .
 FAT: in the red one ?
 CHI: yes ,  wanna see my back ?
-CHI: wait   get 0the red one .",2.97,adv:int 0aux det:art n pro:indef,P2Y8M22D,33.0
+CHI: wait   get the red one .",2.97,adv:int 0aux det:art n pro:indef,P2Y8M22D,33.0
 Providence,Providence_2_4/020822.xml,u253,1,1,FAT,Father,Father,"the red ,  the red monkeys ?",,4.06,det:art n cm det:art n n,P2Y8M22D,33.0
 Providence,Providence_2_4/020822.xml,u643,2,0,CHI,Target_Child,William,you gonna show me fish ?,"CHI: &-um ,  I show you the fish .
 FAT: look at that .
-CHI: I wanna show you 0the fish .
+CHI: I wanna show you the fish .
 FAT: you wanna show me the fish ?
 FAT: okay .",2.97,pro:per mod:aux v pro:obj n,P2Y8M22D,33.0
 Providence,Providence_2_4/020822.xml,u644,2,1,FAT,Father,Father,you gonna sit next to Daddy ?,,4.06,pro:per mod:aux v adv prep n:prop,P2Y8M22D,33.0
@@ -5129,7 +4997,7 @@ CHI: yeah .
 CHI: there they are .
 MOT: oh there they are ,  what are they wearing ?",2.919,pro:sub aux part det:art n cm coord cm det:int aux pro:sub part,P2Y10M25D,35.0
 Providence,Providence_2_4/021025 copy.xml,u683,3,1,MOT,Mother,Mother,what are they wearing around their necks ?,,5.698,det:int aux pro:sub part prep det:poss n,P2Y10M25D,35.0
-Providence,Providence_2_4/021025 copy.xml,u919,4,0,CHI,Target_Child,Lily,"Mom ,  where 0is the ,  is there another song coming up ?","MOT: Mommy has to go blow her nose one more time .
+Providence,Providence_2_4/021025 copy.xml,u919,4,0,CHI,Target_Child,Lily,"Mom ,  where is the ,  is there another song coming up ?","MOT: Mommy has to go blow her nose one more time .
 MOT: I'll be right back .
 ENV: somewhere there is xxx xxx .
 CHI: okay ,  xxx after that ?
@@ -5139,7 +5007,7 @@ Providence,Providence_2_4/020611.xml,u283,1,0,CHI,Target_Child,Ethan,what does i
 CHI: they   lost   yyy name it .
 MOT: I guess he did ,  or maybe he never had one in the first place .
 MOT: oh here's your new grater .
-CHI: here's 0your new grater .",3.194,pro:int mod pro:per v adv,P2Y6M11D,30.0
+CHI: here's your new grater .",3.194,pro:int mod pro:per v adv,P2Y6M11D,30.0
 Providence,Providence_2_4/020611.xml,u284,1,1,MOT,Mother,Mother,"I don't know ,  it smashes down the dirt maybe ?",,5.446,pro:sub mod neg v cm pro:per v prep det:art n adv,P2Y6M11D,30.0
 Providence,Providence_2_4/020611.xml,u489,2,0,CHI,Target_Child,Ethan,and make the face of it ?,"CHI: yyy yyy yyy tail 
 MOT: xxx yeah .
@@ -5154,16 +5022,16 @@ MOT: it fell off ,  maybe she
 MOT: we have to fix her up ,  huh ?",3.194,adj pro:indef,P2Y6M11D,30.0
 Providence,Providence_2_4/020611.xml,u552,3,1,MOT,Mother,Mother,wanna make a new one ?,,5.446,mod:aux v det:art adj pro:indef,P2Y6M11D,30.0
 Providence,Providence_2_4/020611.xml,u755,4,0,CHI,Target_Child,Ethan,xxx yyy yyy xxx it went forwards ?,"MOT: I figured you'd probably want xxx here you go .
-CHI: yyy you pushed 0it down   xxx .
+CHI: yyy you pushed it down   xxx .
 MOT: is something coming out ?
 MOT: I think it's empty .
 MOT: here's some blue Play Doh though .",3.194,pro:per v adv,P2Y6M11D,30.0
 Providence,Providence_2_4/020611.xml,u756,4,1,MOT,Mother,Mother,"xxx forwards ,  you want me to open it up ?",,5.446,adv cm pro:per v pro:obj inf v pro:per adv,P2Y6M11D,30.0
-Providence,Providence_2_4/020611.xml,u796,5,0,CHI,Target_Child,Ethan,yyy make 0an s@l ?,"MOT: xxx are you pushing with me ?
+Providence,Providence_2_4/020611.xml,u796,5,0,CHI,Target_Child,Ethan,yyy make an s@l ?,"MOT: xxx are you pushing with me ?
 MOT: that's the longest leaf in the whole wide world .
 CHI: that's long .
 MOT: xxx pretty long .
-CHI: it's long ,  yyy make 0an s@l ?",3.194,v 0det n:let,P2Y6M11D,30.0
+CHI: it's long ,  yyy make an s@l ?",3.194,v 0det n:let,P2Y6M11D,30.0
 Providence,Providence_2_4/020611.xml,u797,5,1,MOT,Mother,Mother,wanna make the letter s@l ?,,5.446,mod:aux v det:art n n:let,P2Y6M11D,30.0
 Providence,Providence_2_4/020611.xml,u878,6,0,CHI,Target_Child,Ethan,make   the nest ?,"CHI: yyy slowly disappearing .
 MOT: mhm .
@@ -5201,37 +5069,31 @@ CHI: pump pump pump pump !
 MOT: pump pump pump pump are you blowing up the spare tire ?
 MOT: the flat tire ?",3.194,v n:let cm v n:let,P2Y6M11D,30.0
 Providence,Providence_2_4/020611.xml,u1048,11,1,MOT,Mother,Mother,you wanna make the letter d@l ?,,5.446,pro:per mod:aux v det:art n n:let,P2Y6M11D,30.0
-Providence,Providence_2_4/020017.xml,u82,1,0,CHI,Target_Child,Naima,"what did we have to do at ,  what did we have to do at 0the play+ground ?","CHI: and Mom can eat it .
-MOT: no I'm not gonna eat it either ,  have some summer vegetables .
-MOT: yeah you can take the cabbage away .
-MOT: let's make sure there's no cabbage in here .
-MOT: just leave it there ,  just go ahead and eat your other food .",3.26,pro:int mod pro:sub mod:aux v prep cm pro:int mod pro:sub mod:aux v prep 0det n n n,P2Y0M17D,25.0
-Providence,Providence_2_4/020017.xml,u83,1,1,MOT,Mother,Mother,what did we have to do at the play+ground ?,,6.33,pro:int mod pro:sub mod:aux v prep det:art n n n,P2Y0M17D,25.0
-Providence,Providence_2_4/020017.xml,u90,2,0,CHI,Target_Child,Naima,what did we have to do at the play+ground ?,"MOT: what did we have to do at the play+ground ?
+Providence,Providence_2_4/020017.xml,u90,1,0,CHI,Target_Child,Naima,what did we have to do at the play+ground ?,"MOT: what did we have to do at the play+ground ?
 MOT: what ?
 CHI: the friend song .
 MOT: I think the fun song is coming up .
 CHI: look I put the cabbage there .",3.26,pro:int mod pro:sub mod:aux v prep det:art n n n,P2Y0M17D,25.0
-Providence,Providence_2_4/020017.xml,u91,2,1,MOT,Mother,Mother,what else did we do ?,,6.33,pro:int post mod pro:sub v,P2Y0M17D,25.0
-Providence,Providence_2_4/020017.xml,u451,3,0,CHI,Target_Child,Naima,where 0did frog go ?,"MOT: oh yeah .
+Providence,Providence_2_4/020017.xml,u91,1,1,MOT,Mother,Mother,what else did we do ?,,6.33,pro:int post mod pro:sub v,P2Y0M17D,25.0
+Providence,Providence_2_4/020017.xml,u451,2,0,CHI,Target_Child,Naima,where did frog go ?,"MOT: oh yeah .
 CHI: that's a frog hand .
 MOT: a fro<g> ,  oh that's the frog .
 MOT: the frog's hand was sticking out .
 MOT: let's just dry this off so that xxx",3.26,adv:int 0aux n v,P2Y0M17D,25.0
-Providence,Providence_2_4/020017.xml,u452,3,1,MOT,Mother,Mother,"where did the frog go ,  did the crocodile eat the frog ?",,6.33,pro:rel v det:art n v cm v det:art n v det:art n,P2Y0M17D,25.0
-Providence,Providence_2_4/020017.xml,u470,4,0,CHI,Target_Child,Naima,where did 0the ant go ?,"CHI: ant hill ant hill xxx .
+Providence,Providence_2_4/020017.xml,u452,2,1,MOT,Mother,Mother,"where did the frog go ,  did the crocodile eat the frog ?",,6.33,pro:rel v det:art n v cm v det:art n v det:art n,P2Y0M17D,25.0
+Providence,Providence_2_4/020017.xml,u470,3,0,CHI,Target_Child,Naima,where did the ant go ?,"CHI: ant hill ant hill xxx .
 MOT: chimpanzees .
-CHI: there's 0a ant and yyy yyy there's a ant there's a ant xxx there's a ant .
+CHI: there's a ant and yyy yyy there's a ant there's a ant xxx there's a ant .
 CHI: yyy the ant go .
-CHI: where did 0the ant go ?",3.26,adv:int mod 0det n v,P2Y0M17D,25.0
-Providence,Providence_2_4/020017.xml,u471,4,1,MOT,Mother,Mother,is the ant under the leaves ?,,6.33,cop det:art n prep det:art n,P2Y0M17D,25.0
-Providence,Providence_2_4/020017.xml,u999,5,0,CHI,Target_Child,Naima,what's under the owl ?,"MOT: what's that ?
+CHI: where did the ant go ?",3.26,adv:int mod 0det n v,P2Y0M17D,25.0
+Providence,Providence_2_4/020017.xml,u471,3,1,MOT,Mother,Mother,is the ant under the leaves ?,,6.33,cop det:art n prep det:art n,P2Y0M17D,25.0
+Providence,Providence_2_4/020017.xml,u999,4,0,CHI,Target_Child,Naima,what's under the owl ?,"MOT: what's that ?
 CHI: a a chimpanzee .
 MOT: that is a chimpanzee ?
 CHI: yeah .
 MOT: that's a toucan .",3.26,pro:int aux prep det:art n,P2Y0M17D,25.0
-Providence,Providence_2_4/020017.xml,u1000,5,1,MOT,Mother,Mother,what's under that owl ?,,6.33,pro:int aux prep pro:dem n,P2Y0M17D,25.0
-Providence,Providence_2_4/021123.xml,u184,1,0,CHI,Target_Child,Naima,"xxx he ,  is ,  xxx is ,  is ,  is that baby ,  what 0is the baby's mother's name ?","MOT: okay what are we gonna get at the store today .
+Providence,Providence_2_4/020017.xml,u1000,4,1,MOT,Mother,Mother,what's under that owl ?,,6.33,pro:int aux prep pro:dem n,P2Y0M17D,25.0
+Providence,Providence_2_4/021123.xml,u184,1,0,CHI,Target_Child,Naima,"xxx he ,  is ,  xxx is ,  is ,  is that baby ,  what is the baby's mother's name ?","MOT: okay what are we gonna get at the store today .
 MOT: I don't think I have any money for toys today .
 MOT: but we can come and visit the nice person who works at the store .
 MOT: good morning .
@@ -5261,7 +5123,7 @@ MOT: kay put that one back ,  try again .
 CHI: try again .
 MOT: okay .",2.778,n:prop cm pro:rel aux qn pro:indef,P3Y0M6D,36.0
 Providence,Providence_2_4/030006.xml,u81,1,1,MOT,Mother,Mother,"Wags ,  this one ?",,3.809,n:prop cm pro:dem pro:indef,P3Y0M6D,36.0
-Providence,Providence_2_4/030006.xml,u715,2,0,CHI,Target_Child,Alex,where 0is baby potato head ?,"CHI: uhoh .
+Providence,Providence_2_4/030006.xml,u715,2,0,CHI,Target_Child,Alex,where is baby potato head ?,"CHI: uhoh .
 MOT: wha<t> happen<ed> ?
 CHI: is it my xxx to xxx my head .
 MOT: where's little baby potato ?
@@ -5273,7 +5135,7 @@ MOT: xxx where could she be ?
 CHI: Mommy ?
 MOT: what ?",2.778,pro:per v det:art n,P3Y0M6D,36.0
 Providence,Providence_2_4/030006.xml,u855,3,1,MOT,Mother,Mother,where's the picture ?,,3.809,adv:int cop det:art n,P3Y0M6D,36.0
-Providence,Providence_2_4/030006.xml,u1161,4,0,CHI,Target_Child,Alex,how can 0you do it ?,"MOT: see you get in trouble .
+Providence,Providence_2_4/030006.xml,u1161,4,0,CHI,Target_Child,Alex,how can you do it ?,"MOT: see you get in trouble .
 CHI: xxx school get paint .
 MOT: well you can paint .
 MOT: but you hafta listen .
@@ -5291,7 +5153,7 @@ CHI: yyy what's   on there ?
 CHI: what's   that ?
 MOT: in my bathrobe .",2.644,pro:int n cop det:poss n n n,P2Y0M13D,24.0
 Providence,Providence_2_4/020013.xml,u824,1,1,MOT,Mother,Mother,my bathrobe ?,,4.033,det:poss n n n,P2Y0M13D,24.0
-Providence,Providence_2_4/030200.xml,u443,1,0,CHI,Target_Child,Alex,how 0does this take   off ?,"CHI: look I 0am 0going 0to make a Play Doh head .
+Providence,Providence_2_4/030200.xml,u443,1,0,CHI,Target_Child,Alex,how does this take   off ?,"CHI: look I am going to make a Play Doh head .
 ADU: you're gonna make a Play Doh head ?
 CHI: see look I got new Play Dohs and Maisy and and a new and a Play Dohs and a blue red and yellow green blue and and there's a
 CHI: hey !
@@ -5333,7 +5195,7 @@ MOT: what are you putting in there Sweets ?
 CHI: this ,  but it doesn't fit in here ,  how about this one ,  does this go here ?
 MOT: hm: .",2.826,mod pro:dem v adv,P2Y5M26D,30.0
 Providence,Providence_2_4/020526 copy.xml,u676,2,1,MOT,Mother,Mother,does that go there ?,,5.304,mod det:dem v adv,P2Y5M26D,30.0
-Providence,Providence_2_4/020526 copy.xml,u801,3,0,CHI,Target_Child,Lily,where 0did I got   it ?,"CHI: it's a sparkle stick .
+Providence,Providence_2_4/020526 copy.xml,u801,3,0,CHI,Target_Child,Lily,where did I got   it ?,"CHI: it's a sparkle stick .
 OPE: a sparkle on that baton ?
 MOT: a sparkle stick ?
 CHI: yeah ,  it's a sparkle stick ,  and it's my one .
@@ -5369,14 +5231,8 @@ CHI: yeah .
 MOT: yes .
 CHI: what's the pink ",2.826,pro:int poss pro:sub part prep,P2Y5M26D,30.0
 Providence,Providence_2_4/020526 copy.xml,u1330,8,1,MOT,Mother,Mother,"she was dancing with the Prince ,  right ?",,5.304,pro:sub aux part prep det:art n:prop cm n,P2Y5M26D,30.0
-Providence,Providence_2_4/020526 copy.xml,u1366,9,0,CHI,Target_Child,Lily,where 0did he go ?,"MOT: is it a turban ?
-MOT: oh look he's on the pirate ship looking out .
-CHI: and he go in xxx .
-MOT: he's in the ship .
-CHI: see .",2.826,adv:int 0aux pro:sub v,P2Y5M26D,30.0
-Providence,Providence_2_4/020526 copy.xml,u1367,9,1,MOT,Mother,Mother,where did he go ?,,5.304,adv:int mod pro:sub v,P2Y5M26D,30.0
 Providence,Providence_2_4/020527 copy.xml,u329,1,0,CHI,Target_Child,Naima,yyy what's he doing in work ?,"MOT: here let's put this back in where it goes .
-CHI: what 0did he stuff in the bottle xxx wine yyy .
+CHI: what did he stuff in the bottle xxx wine yyy .
 MOT: well he
 CHI: Dad xxx .
 CHI: yyy Dad .",3.419,pro:int aux pro:sub part prep n,P2Y5M27D,30.0
@@ -5390,10 +5246,10 @@ Providence,Providence_2_4/020527 copy.xml,u337,2,1,MOT,Mother,Mother,what do the
 Providence,Providence_2_4/020527 copy.xml,u653,3,0,CHI,Target_Child,Naima,Mom what's that pasta called ?,"MOT: you sure you don't wanna wait for the pasta to be ready ?
 CHI: yyy no .
 MOT: this is what it looks like before it gets cooked .
-CHI: why's this what 0it looks like xxx cook .
+CHI: why's this what it looks like xxx cook .
 MOT: that's what it looks like .",3.419,n:prop pro:int cop pro:dem n v,P2Y5M27D,30.0
 Providence,Providence_2_4/020527 copy.xml,u654,3,1,MOT,Mother,Mother,this pasta ?,,5.311,pro:dem n,P2Y5M27D,30.0
-Providence,Providence_2_4/020527 copy.xml,u685,4,0,CHI,Target_Child,Naima,yyy yyy what 0is the baby doing ?,"MOT: giving rides ?
+Providence,Providence_2_4/020527 copy.xml,u685,4,0,CHI,Target_Child,Naima,yyy yyy what is the baby doing ?,"MOT: giving rides ?
 CHI: yes .
 MOT: was it having a break from giving rides ?
 CHI: yes .
@@ -5417,7 +5273,7 @@ CHI: come on .
 CHI: come on .
 CHI: woo yyy with me ?",2.504,mod:aux v pro:obj,P2Y4M3D,28.0
 Providence,Providence_2_4/020403.xml,u98,1,1,MOT,Mother,Mother,"sure ,  where dya want me to push you ?",,4.821,adj cm adv:int mod pro:per v pro:obj inf v pro:per,P2Y4M3D,28.0
-Providence,Providence_2_4/020403.xml,u301,2,0,CHI,Target_Child,William,do 0you want to rest mommy ?,"CHI: I hit the ball .
+Providence,Providence_2_4/020403.xml,u301,2,0,CHI,Target_Child,William,do you want to rest mommy ?,"CHI: I hit the ball .
 CHI: the blue ball .
 CHI: I hit the blue ball .
 MOT: yes ,  you hit the blue ball .
@@ -5426,7 +5282,7 @@ Providence,Providence_2_4/020403.xml,u302,2,1,MOT,Mother,Mother,dya want to ?,,4
 Providence,Providence_2_4/020403.xml,u772,3,0,CHI,Target_Child,William,what's that ?,"MOT: do ya know what this one is ?
 CHI: a forklift .
 MOT: that's right a forklift .
-CHI: 0a forklift .
+CHI: a forklift .
 CHI: what's on yyy .",2.504,pro:int cop pro:dem,P2Y4M3D,28.0
 Providence,Providence_2_4/020403.xml,u773,3,1,MOT,Mother,Mother,here what's this ?,,4.821,adv pro:int cop pro:dem,P2Y4M3D,28.0
 Providence,Providence_2_4/020403.xml,u1039,4,0,CHI,Target_Child,William,wanna dance ?,"CHI: yyy kick shoes ,  I kick shoes .
@@ -5549,7 +5405,7 @@ MOT: there are one hundred and two chairs on the stage and two stools .
 MOT: near each of these there is a music stand with sheets of music on it .
 MOT: one hundred and four people take their seats the double bass players sit on stools see the big double bass .",3.126,adv:int cop det:art n mod:aux v,P3Y0M3D,36.0
 Providence,Providence_2_4/030003.xml,u455,1,1,MOT,Mother,Mother,which woman ?,,6.474,pro:rel n,P3Y0M3D,36.0
-Providence,Providence_2_4/030003.xml,u729,2,0,CHI,Target_Child,Lily,can you make my pink one too ?,"CHI: I'm gonna make 0an orange .
+Providence,Providence_2_4/030003.xml,u729,2,0,CHI,Target_Child,Lily,can you make my pink one too ?,"CHI: I'm gonna make an orange .
 MOT: alright .
 CHI: <be>cause it matches yyy my paper .
 MOT: sure right let me know if you need me to get the markers open sometimes they're hard .
@@ -5563,7 +5419,7 @@ MOT: wow that's a good idea .",3.126,pro:int n cop det:poss n,P3Y0M3D,36.0
 Providence,Providence_2_4/030003.xml,u817,3,1,MOT,Mother,Mother,well I don't know is her refrigerator white ?,,6.474,co pro:sub mod neg v aux det:poss n n,P3Y0M3D,36.0
 Providence,Providence_2_4/030003.xml,u897,4,0,CHI,Target_Child,Lily,did I do purple ?,"MOT: whada ya think ?
 MOT: prehistoric animals ?
-CHI: can 0you get it ?
+CHI: can you get it ?
 MOT: mhm .
 MOT: xxx great .",3.126,mod pro:sub v n,P3Y0M3D,36.0
 Providence,Providence_2_4/030003.xml,u898,4,1,MOT,Mother,Mother,you want the purple ?,,6.474,pro:per v det:art n,P3Y0M3D,36.0
@@ -5603,12 +5459,6 @@ CHI: what's her what's her overall doing ?
 MOT: her overalls ?
 MOT: she's wearing a dress that looks like overalls .",3.72,pro:int aux pro:sub n:gerund pro:int aux pro:sub part,P2Y0M4D,24.0
 Providence,Providence_2_4/020004.xml,u501,6,1,MOT,Mother,Mother,what is she doing ?,,5.9,pro:int cop pro:sub part,P2Y0M4D,24.0
-Providence,Providence_2_4/020004.xml,u555,7,0,CHI,Target_Child,Naima,what I what happened with 0the nurses ?,"MOT: she is throwing up .
-MOT: I bet she doesn't feel good .
-MOT: she probably feels lousy .
-MOT: I'm so glad you're better though Naima .
-MOT: Naima is all better .",3.72,pro:int pro:sub pro:int v prep 0det n,P2Y0M4D,24.0
-Providence,Providence_2_4/020004.xml,u556,7,1,MOT,Mother,Mother,what happened with the nurses ?,,5.9,pro:int v prep det:art n,P2Y0M4D,24.0
 Providence,Providence_2_4/020616.xml,u206,1,0,CHI,Target_Child,Violet,if what name himself crocodile pomp kink ?,"CHI: xxx little xxx ,  Sappy .
 CHI: and I know what a name is .
 CHI: but might be Jappy .
@@ -5705,7 +5555,7 @@ MOT: whose name begins with n@l .
 MOT: who was wearing a green turtleneck shirt today .
 MOT: and who was in our house today .",3.517,pro:rel,P2Y8M19D,33.0
 Providence,Providence_2_4/020819 copy.xml,u422,2,1,MOT,Mother,Mother,who was wearing a green turtleneck shirt ?,,5.986,pro:rel aux part det:art n n n,P2Y8M19D,33.0
-Providence,Providence_2_4/030000.xml,u348,1,0,CHI,Target_Child,Naima,"why 0did I tear off this flap ,  Mommy ?","MOT: o:h ,  she's making a face ,  isn't she ?
+Providence,Providence_2_4/030000.xml,u348,1,0,CHI,Target_Child,Naima,"why did I tear off this flap ,  Mommy ?","MOT: o:h ,  she's making a face ,  isn't she ?
 CHI: why ?
 CHI: why is she making a face ?
 CHI: why is she making a face ?
@@ -5753,7 +5603,7 @@ CHI: and what was   the other ones ?
 MOT: they were showing lion king right ?
 CHI: yeah .",2.877,pro:int aux post,P2Y11M25D,36.0
 Providence,Providence_2_4/021125.xml,u784,5,1,MOT,Mother,Mother,ah were they showing something else the Wild Thornberries ?,,5.733,co aux pro:sub n:gerund pro:indef post det:art n:prop,P2Y11M25D,36.0
-Providence,Providence_2_4/021125.xml,u1006,6,0,CHI,Target_Child,Lily,what are 0the worms like ?,"MOT: whoa whoa .
+Providence,Providence_2_4/021125.xml,u1006,6,0,CHI,Target_Child,Lily,what are the worms like ?,"MOT: whoa whoa .
 MOT: oh boy look what I found in the abyss .
 CHI: what ?
 CHI: the worms .
@@ -5843,7 +5693,7 @@ MOT: I trying to figure out where this came from ,  and it's the basement .
 CHI: where xxx ,  where where where ,  Mom ?
 MOT: William ,  this is a little",3.54,adv:int cm n:prop cm pro:rel,P3Y3M5D,39.0
 Providence,Providence_2_4/030305.xml,u355,1,1,MOT,Mother,Mother,"where what ,  William ?",,5.822,adv:int det:int cm n:prop,P3Y3M5D,39.0
-Providence,Providence_2_4/030305.xml,u362,2,0,CHI,Target_Child,William,do 0you want 0to take the walk ?,"CHI: &-um ,  from where ?
+Providence,Providence_2_4/030305.xml,u362,2,0,CHI,Target_Child,William,do you want to take the walk ?,"CHI: &-um ,  from where ?
 MOT: yeah ,  I can see that part of the reason why there's so much stuff over here is you're going down into the basement and taking ,  bringing things up here .
 MOT: I don't ,  you must be doing that with Sue .
 MOT: but that's really not ,  the whole reason it's in the basement is so that it's not here .
@@ -5891,13 +5741,13 @@ MOT: are they ,  cows ?
 MOT: are they horses ?
 MOT: xxx what are they ?",3.184,det:int aux pro:sub,P2Y9M23D,34.0
 Providence,Providence_2_4/020923 copy.xml,u704,6,1,MOT,Mother,Mother,are they mice ?,,6.328,cop pro:sub n,P2Y9M23D,34.0
-Providence,Providence_2_4/020923 copy.xml,u725,7,0,CHI,Target_Child,Lily,what 0are their names ?,"MOT: yeah .
+Providence,Providence_2_4/020923 copy.xml,u725,7,0,CHI,Target_Child,Lily,what are their names ?,"MOT: yeah .
 MOT: do hyenas laugh a lot ?
 CHI: yeah .
 MOT: yes .
-MOT: what 0are their names ?",3.184,pro:int 0aux det:poss n,P2Y9M23D,34.0
+MOT: what are their names ?",3.184,pro:int 0aux det:poss n,P2Y9M23D,34.0
 Providence,Providence_2_4/020923 copy.xml,u726,7,1,MOT,Mother,Mother,do you remember one name ?,,6.328,mod pro:per v det:num n,P2Y9M23D,34.0
-Providence,Providence_2_4/020923 copy.xml,u765,8,0,CHI,Target_Child,Lily,&-um where 0are their homes ?,"MOT: the hyenas slinked away and Mufasa glared at Simba .
+Providence,Providence_2_4/020923 copy.xml,u765,8,0,CHI,Target_Child,Lily,&-um where are their homes ?,"MOT: the hyenas slinked away and Mufasa glared at Simba .
 MOT: you deliberately disobeyed me ,  I'm very disappointed .
 MOT: Mufasa sent Nala and Zazu home so he could talk privately to his son .
 MOT: Simba peered up at his father .
@@ -5945,16 +5795,16 @@ MOT: another yellow please ?
 MOT: can you say please ?
 MOT: here you are .",1.429,adv:int cop det:art n,P2Y3M14D,27.0
 Providence,Providence_2_4/020314.xml,u534,3,1,MOT,Mother,Mother,a green ?,,3.221,det:art n,P2Y3M14D,27.0
-Providence,Providence_2_4/020314.xml,u952,4,0,CHI,Target_Child,Alex,where's 0the triangle ?,"CHI: please .
+Providence,Providence_2_4/020314.xml,u952,4,0,CHI,Target_Child,Alex,where's the triangle ?,"CHI: please .
 MOT: okay .
 CHI: no Mommy .
 MOT: this is cardboard ,  I'm gonna put it in the recycling .
 MOT: okay ?",1.429,adv:int cop 0det n,P2Y3M14D,27.0
 Providence,Providence_2_4/020314.xml,u953,4,1,MOT,Mother,Mother,you need your triangle ?,,3.221,pro:per v det:poss n,P2Y3M14D,27.0
 Providence,Providence_2_4/011122.xml,u175,1,0,CHI,Target_Child,Naima,yyy what the flour ?,"MOT: Ruby got out her pencil and she .
-CHI: yyy what 0about   the flour ?
+CHI: yyy what about   the flour ?
 MOT: over with the flour clonk .
-CHI: yyy what 0about   the flour ?
+CHI: yyy what about   the flour ?
 MOT: Ruby got out her pencil .",2.885,pro:int det:art n,P1Y11M22D,24.0
 Providence,Providence_2_4/011122.xml,u176,1,1,MOT,Mother,Mother,what did she write ?,,7.375,pro:int mod pro:sub v,P1Y11M22D,24.0
 Providence,Providence_2_4/011122.xml,u479,2,0,CHI,Target_Child,Naima,who was mommy ?,"CHI: who 
@@ -5999,18 +5849,12 @@ MOT: hooray !
 CHI: xxx yyy wanna do it again ?
 MOT: ooh wow .",2.964,mod:aux v pro:per adv,P3Y5M16D,42.0
 Providence,Providence_2_4/030516.xml,u538,3,1,MOT,Mother,Mother,do you want would like to do the monkey bars again ?,,3.752,mod pro:per v mod v inf v det:art n n adv,P3Y5M16D,42.0
-Providence,Providence_2_4/030516.xml,u1430,4,0,CHI,Target_Child,Alex,Mommy where 0are 0the screws ?,"CHI: and I like this please .
-MOT: oh yeah look at that ,  wow .
-MOT: <th>at works good .
-CHI: look at this piece .
-MOT: wow excellent .",2.964,n:prop adv:int 0aux 0det n,P3Y5M16D,42.0
-Providence,Providence_2_4/030516.xml,u1432,4,1,MOT,Mother,Mother,the screws ?,,3.752,det:art n,P3Y5M16D,42.0
-Providence,Providence_2_4/030516.xml,u2068,5,0,CHI,Target_Child,Alex,Mommy you wanna play ball ?,"MOT: I'm afraid you'll fall .
+Providence,Providence_2_4/030516.xml,u2068,4,0,CHI,Target_Child,Alex,Mommy you wanna play ball ?,"MOT: I'm afraid you'll fall .
 MOT: oh I can't stand these leaves .
 MOT: or whatever they are .
 CHI: up and down the xxx
 MOT: Alex be careful honey .",2.964,n:prop pro:per mod:aux v n,P3Y5M16D,42.0
-Providence,Providence_2_4/030516.xml,u2069,5,1,MOT,Mother,Mother,what kinda ball ?,,3.752,pro:int n prep n,P3Y5M16D,42.0
+Providence,Providence_2_4/030516.xml,u2069,4,1,MOT,Mother,Mother,what kinda ball ?,,3.752,pro:int n prep n,P3Y5M16D,42.0
 Providence,Providence_2_4/020416 copy.xml,u220,1,0,CHI,Target_Child,Naima,yyy what are they called ?,"CHI: I love your nursie .
 CHI: loving your nurse .
 CHI: loving your nursie .
@@ -6021,7 +5865,7 @@ Providence,Providence_2_4/020416 copy.xml,u380,2,0,CHI,Target_Child,Naima,what's
 MOT: wow .
 CHI: she is .
 MOT: and we have the shaky eggs we could use those to pretend that they are the eggs that you're lay in .
-CHI: 0i do .",3.626,pro:int aux mod:aux cop det:poss n,P2Y4M16D,29.0
+CHI: i do .",3.626,pro:int aux mod:aux cop det:poss n,P2Y4M16D,29.0
 Providence,Providence_2_4/020416 copy.xml,u381,2,1,MOT,Mother,Mother,ah what do you think we should use for a nest ?,,6.573,co pro:int mod pro:per v pro:sub mod v prep det:art n,P2Y4M16D,29.0
 Providence,Providence_2_4/020507.xml,u494,1,0,CHI,Target_Child,Naima,what mosquito xxx or yyy the fog might do ?,"CHI: Mom I'm talking to Dad .
 FAT: yes baby xxx .
@@ -6029,7 +5873,7 @@ FAT: what is it ?
 CHI: what mosquito does the fog might do ?
 FAT: say that again ?",4.244,pro:int n coord det:art n mod v,P2Y5M7D,29.0
 Providence,Providence_2_4/020507.xml,u495,1,1,FAT,Father,Father,"oh ,  what mosquitos the fog might do ?",,7.225,co cm pro:int n det:art n mod v,P2Y5M7D,29.0
-Providence,Providence_2_4/020515 copy 2.xml,u440,1,0,CHI,Target_Child,Naima,why 0is Dad   Canadian ?,"FAT: it was a biting kind of a fly .
+Providence,Providence_2_4/020515 copy 2.xml,u440,1,0,CHI,Target_Child,Naima,why is Dad   Canadian ?,"FAT: it was a biting kind of a fly .
 CHI: yyy ,  why was it the Canadian kind of a fly ?
 FAT: it was a Canadian kind of a biting fly .
 FAT: those were the kind of flies Daddy used to get bit by all through the summer when I was working in the woods .
@@ -6077,7 +5921,7 @@ MOT: xxx all the bear paper dolls are in the book .
 CHI: yyy looking at this one .
 MOT: xxx Big Bear's carrying somebody .",3.614,adv:int n:prop n:prop aux part n:prop n:prop,P2Y7M13D,31.0
 Providence,Providence_2_4/020713.xml,u1179,3,1,MOT,Mother,Mother,does Little Bear like to be carried and held ?,,5.787,mod n:prop n:prop v inf aux part coord v,P2Y7M13D,31.0
-Providence,Providence_2_4/020713.xml,u1348,4,0,CHI,Target_Child,Naima,why need to put some 0put 0some pictures in it ?,"MOT: well after I read this we're gonna have some supper xxx .
+Providence,Providence_2_4/020713.xml,u1348,4,0,CHI,Target_Child,Naima,why need to put some put some pictures in it ?,"MOT: well after I read this we're gonna have some supper xxx .
 MOT: 'cause it will be your supper time .
 CHI: is   this things in it .
 MOT: yeah ,  there aren't any pictures in that actually .
@@ -6113,7 +5957,7 @@ CHI: yyy yyy yyy his   spaceship .
 MOT: where's his spaceship ?
 CHI: where's",3.378,det:poss n n n,P2Y9M20D,34.0
 Providence,Providence_2_4/020920.xml,u463,1,1,MOT,Mother,,"where is his spaceship ,  huh ?",,5.075,adv:int cop det:poss n n n cm co,P2Y9M20D,34.0
-Providence,Providence_2_4/020920.xml,u767,2,0,CHI,Target_Child,Ethan,yyy where 0is the sawmill ?,"MOT: good work .
+Providence,Providence_2_4/020920.xml,u767,2,0,CHI,Target_Child,Ethan,yyy where is the sawmill ?,"MOT: good work .
 CHI: you   cut down the tree .
 MOT: xxx yup .
 MOT: mhm .
@@ -6236,7 +6080,7 @@ Providence,Providence_2_4/020316.xml,u232,1,1,MOT,Mother,Mother,what's my bear c
 Providence,Providence_2_4/020316.xml,u292,2,0,CHI,Target_Child,Naima,why Naima   touching it ?,"CHI: why ?
 MOT: when I ask you nicely .
 CHI: xxx gonna poop in the
-CHI: why 0is Naima   touching it ?
+CHI: why is Naima   touching it ?
 MOT: well I'd rather you didn't touch that .",3.078,adv:int n:prop part pro:per,P2Y3M16D,28.0
 Providence,Providence_2_4/020316.xml,u293,2,1,MOT,Mother,Mother,why are you touching it ?,,6.038,adv:int aux pro:per part pro:per,P2Y3M16D,28.0
 Providence,Providence_2_4/031025.xml,u168,1,0,CHI,Target_Child,Lily,mm what ?,"MOT: at the end .
@@ -6299,7 +6143,7 @@ CHI: and Matt .
 MOT: right !
 MOT: hm: hm: .",2.806,pro:int mod pro:sub v n:prop,P2Y9M9D,33.0
 Providence,Providence_2_4/020909.xml,u541,3,1,MOT,Mother,Mother,do you call him Matty ?,,5.213,mod pro:per v pro:obj n:prop,P2Y9M9D,33.0
-Providence,Providence_2_4/020909.xml,u545,4,0,CHI,Target_Child,Lily,what 0do I call Matt ?,"MOT: right !
+Providence,Providence_2_4/020909.xml,u545,4,0,CHI,Target_Child,Lily,what do I call Matt ?,"MOT: right !
 MOT: hm: hm: .
 CHI: what do I call Matt ?
 MOT: do you call him Matty ?
@@ -6323,7 +6167,7 @@ MOT: this part of the floor in the kitchen is more stable .
 CHI: I'm making this go here ,  I'm playing the legos with the legos here .
 MOT: we'll put this up here .",4.192,pro:int cm pro:int poss n:prop mod:aux v inf v,P2Y5M14D,29.0
 Providence,Providence_2_4/020514.xml,u588,1,1,MOT,Mother,Mother,what's who gonna try and do ?,,5.681,pro:int aux pro:rel mod:aux v coord v,P2Y5M14D,29.0
-Providence,Providence_2_4/020514.xml,u688,2,0,CHI,Target_Child,Naima,why is   0it like a muffin ?,"FAT: does
+Providence,Providence_2_4/020514.xml,u688,2,0,CHI,Target_Child,Naima,why is   it like a muffin ?,"FAT: does
 FAT: she doesn't have a mic does she ?
 MOT: yeah .
 MOT: it's right here .
@@ -6383,7 +6227,7 @@ MOT: donkey riding ,  donkey riding .
 CHI: you you you did the turtle .
 MOT: no you did .",2.63,pro:sub v,P2Y1M10D,25.0
 Providence,Providence_2_4/020110.xml,u423,1,1,MOT,Mother,Mother,"yeah ,  you did a good job on it ,  didn't you ?",,5.699,co cm pro:per v det:art adj n prep pro:per cm mod neg pro:per,P2Y1M10D,25.0
-Providence,Providence_2_4/020306.xml,u65,1,0,CHI,Target_Child,Naima,"she's taking 0a shower with it ,  she's taking a shower ,  yyy yyy what are you doing ?","CHI: you   need to water her .
+Providence,Providence_2_4/020306.xml,u65,1,0,CHI,Target_Child,Naima,"she's taking a shower with it ,  she's taking a shower ,  yyy yyy what are you doing ?","CHI: you   need to water her .
 CHI: you   watering her .
 MOT: oh is she taking a shower ?
 CHI: she's taking .
@@ -6401,11 +6245,11 @@ FAT: blue+bird blue+bird fly through my window .
 CHI: you do .
 FAT: buy molasses candy .",4.817,pro:int cop det:art n part,P2Y3M6D,27.0
 Providence,Providence_2_4/020306.xml,u449,3,1,FAT,Father,Father,what are you doing to the microphone ?,,4.95,pro:int aux pro:per part prep det:art n,P2Y3M6D,27.0
-Providence,Providence_2_4/030115.xml,u161,1,0,CHI,Target_Child,William,"I want 0to sit here ,  okay ?","CHI: that's where I want to sit .
+Providence,Providence_2_4/030115.xml,u161,1,0,CHI,Target_Child,William,"I want to sit here ,  okay ?","CHI: that's where I want to sit .
 MOT: it is ,  huh ?
 CHI: xxx sit there .
 CHI: I want that   you sit right there .
-CHI: I want 0to sit here .",3.201,pro:sub v 0inf v adv cm adj,P3Y1M15D,37.0
+CHI: I want to sit here .",3.201,pro:sub v 0inf v adv cm adj,P3Y1M15D,37.0
 Providence,Providence_2_4/030115.xml,u162,1,1,MOT,Mother,Mother,"okay ,  where do you wanna sit ?",,4.46,co cm adv:int mod pro:per mod:aux v,P3Y1M15D,37.0
 Providence,Providence_2_4/030115.xml,u198,2,0,CHI,Target_Child,William,where's Yaya ?,"CHI: yeah ,  when I was a baby .
 MOT: when you were
@@ -6413,7 +6257,7 @@ MOT: yeah ,  this when you were a baby ,  you weren't even born yet .
 MOT: you were still in Mommy's belly ,  and there's Yaya and that's Aunt Mary .
 MOT: I don't know how well y<ou>",3.201,adv:int cop n:prop,P3Y1M15D,37.0
 Providence,Providence_2_4/030115.xml,u199,2,1,MOT,Mother,Mother,"this is Yaya right here ,  you see ?",,4.46,pro:dem cop n:prop adv adv cm pro:per v,P3Y1M15D,37.0
-Providence,Providence_2_4/030115.xml,u532,3,0,CHI,Target_Child,William,you 0know what my name is ?,"MOT: no ,  xxx ,  no ,  keep it on ,  it's fine ,  we'll fix it .
+Providence,Providence_2_4/030115.xml,u532,3,0,CHI,Target_Child,William,you know what my name is ?,"MOT: no ,  xxx ,  no ,  keep it on ,  it's fine ,  we'll fix it .
 MOT: we'll just put it some place else so it doesn't keep falling .
 MOT: okay ?
 CHI: hello ,  what's your name ?
@@ -6423,7 +6267,7 @@ Providence,Providence_2_4/021018.xml,u348,1,0,CHI,Target_Child,Ethan,"yyy pompom
 MOT: a train dump ,  xxx .
 CHI: yyy yyy dump   yyy .
 MOT: you want some more pompoms ?
-CHI: how   0many   pompoms do ",3.197,n cm adv:int n mod pro:per v,P2Y10M18D,35.0
+CHI: how   many   pompoms do ",3.197,n cm adv:int n mod pro:per v,P2Y10M18D,35.0
 Providence,Providence_2_4/021018.xml,u349,1,1,MOT,Mother,Mother,how many pompoms does it dump ?,,5.134,adv:int qn n mod pro:per v,P2Y10M18D,35.0
 Providence,Providence_2_4/021018.xml,u521,2,0,CHI,Target_Child,Ethan,wanna make into a dog ?,"MOT: oh ,  Bob ,  go .
 MOT: up ,  you pulled it .
@@ -6435,7 +6279,7 @@ Providence,Providence_2_4/021018.xml,u1086,3,0,CHI,Target_Child,Ethan,yyy yyy yy
 CHI: this is a window .
 MOT: another window over here ,  and here's the door .
 MOT: and we need a chimney .
-CHI: that's 0a chimney .",3.197,v det:art n prep n,P2Y10M18D,35.0
+CHI: that's a chimney .",3.197,v det:art n prep n,P2Y10M18D,35.0
 Providence,Providence_2_4/021018.xml,u1087,3,1,MOT,Mother,Mother,more windows ?,,5.134,qn n,P2Y10M18D,35.0
 Providence,Providence_2_4/020312.xml,u448,1,0,CHI,Target_Child,Violet,where is the open page ?,"MOT: I thought they
 MOT: I thought that was the first time .
@@ -6454,8 +6298,8 @@ MOT: what do you think ?
 CHI: Mama .
 CHI: doesn't taste good .
 MOT: xxx the xxx .",3.607,mod pro:sub v qn prep det:art n,P3Y1M1D,37.0
-Providence,Providence_2_4/030101.xml,u1313,2,1,MOT,Mother,Mother,0do you want more sauce ?,,5.151,0aux pro:per v qn n,P3Y1M1D,37.0
-Providence,Providence_2_4/030101.xml,u1373,3,0,CHI,Target_Child,Naima,are   the blue+jay's get to the feeder ?,"CHI: 0what kind of bird yyy by ?
+Providence,Providence_2_4/030101.xml,u1313,2,1,MOT,Mother,Mother,do you want more sauce ?,,5.151,0aux pro:per v qn n,P3Y1M1D,37.0
+Providence,Providence_2_4/030101.xml,u1373,3,0,CHI,Target_Child,Naima,are   the blue+jay's get to the feeder ?,"CHI: what kind of bird yyy by ?
 GRA: I couldn't tell .
 GRA: it was too fast .
 CHI: how was the blue+jay's
@@ -6471,7 +6315,7 @@ Providence,Providence_2_4/030101.xml,u1729,5,0,CHI,Target_Child,Naima,yyy yyy yy
 MOT: <be>cause I don't think they have the s<ame>
 MOT: there're not enough xxx xxx xxx .
 GRA: ah .
-MOT: 0if you count the number of legs it's not eight legs .",3.607,adv:int cop n,P3Y1M1D,37.0
+MOT: if you count the number of legs it's not eight legs .",3.607,adv:int cop n,P3Y1M1D,37.0
 Providence,Providence_2_4/030101.xml,u1730,5,1,GRA,Grandmother,Grandmother,why was it in ?,,4.529,adv:int cop pro:per adv,P3Y1M1D,37.0
 Providence,Providence_2_4/020611 copy.xml,u319,1,0,CHI,Target_Child,Naima,yyy can you read it ?,"CHI: yeah .
 MOT: okay .
@@ -6494,10 +6338,10 @@ Providence,Providence_2_4/030325 copy.xml,u424,2,1,MOT,Mother,Mother,"and do you
 Providence,Providence_2_4/030325 copy.xml,u707,3,0,CHI,Target_Child,Naima,why did   you put it in yyy ?,"MOT: somebody's glasses .
 MOT: I clean <th>em you can put <th>em on .
 CHI: why ?
-CHI: why did   0you do that in your mouth ?
+CHI: why did   you do that in your mouth ?
 MOT: cause that xxx helps to clean them .",4.097,adv:int mod pro:per v pro:per adv,P3Y3M25D,40.0
 Providence,Providence_2_4/030325 copy.xml,u708,3,1,MOT,Mother,Mother,wanna put <th>em on ?,,4.85,mod:aux v pro:obj adv,P3Y3M25D,40.0
-Providence,Providence_2_4/030100.xml,u121,1,0,CHI,Target_Child,Lily,you gonna have it in a bowl or 0a plate ?,"MOT: blue meatballs for my spaghetti .
+Providence,Providence_2_4/030100.xml,u121,1,0,CHI,Target_Child,Lily,you gonna have it in a bowl or a plate ?,"MOT: blue meatballs for my spaghetti .
 CHI: for your spaghetti .
 MOT: alright .
 CHI: from your spaghetti .
@@ -6527,17 +6371,17 @@ MOT: okay .
 MOT: yes .
 CHI: all done ",1.978,post part,P2Y3M7D,27.0
 Providence,Providence_2_4/020307.xml,u325,1,1,MOT,Mother,Mother,all done with what ?,,4.309,post part prep pro:int,P2Y3M7D,27.0
-Providence,Providence_2_4/020307.xml,u627,2,0,CHI,Target_Child,William,wanna do 0it again ?,"MOT: one two three ,  go !
+Providence,Providence_2_4/020307.xml,u627,2,0,CHI,Target_Child,William,wanna do it again ?,"MOT: one two three ,  go !
 MOT: woo !
 MOT: is that fun ?
 CHI: yeah .
 MOT: yes .",1.978,mod:aux v 0pro adv,P2Y3M7D,27.0
 Providence,Providence_2_4/020307.xml,u628,2,1,MOT,Mother,Mother,ya wanna do it again ?,,4.309,pro:per mod:aux v pro:per adv,P2Y3M7D,27.0
-Providence,Providence_2_4/021025.xml,u271,1,0,CHI,Target_Child,Alex,where 0did it go ?,"MOT: oh it's orange .
+Providence,Providence_2_4/021025.xml,u271,1,0,CHI,Target_Child,Alex,where did it go ?,"MOT: oh it's orange .
 CHI: it's orange .
 MOT: this is gonna be awesome .
-CHI: may 0i have it ?
-CHI: where 0did 0it go ?",2.945,adv:int 0aux pro:per v,P2Y10M25D,35.0
+CHI: may i have it ?
+CHI: where did it go ?",2.945,adv:int 0aux pro:per v,P2Y10M25D,35.0
 Providence,Providence_2_4/021025.xml,u272,1,1,MOT,Mother,Mother,where'd what go ?,,4.319,adv:int v det:int v,P2Y10M25D,35.0
 Providence,Providence_2_4/021025.xml,u309,2,0,CHI,Target_Child,Alex,"all done ,  all done ,  I don't put away xxx ?","CHI: eat it .
 MOT: no you can't eat this this is for paste .
@@ -6557,7 +6401,7 @@ MOT: what are you laughing at Frog said Toad .
 MOT: I'm laughing because you do look funny in your bathing suit said Frog .
 MOT: of course I do said Toad and picked up his clothes and went home .",3.197,mod pro:sub v pro:indef,P2Y9M18D,34.0
 Providence,Providence_2_4/020918.xml,u762,2,1,MOT,Mother,Mother,what's this one called ?,,7.66,pro:int cop pro:dem pro:indef v,P2Y9M18D,34.0
-Providence,Providence_2_4/020918.xml,u1067,3,0,CHI,Target_Child,Lily,and where 0are the clams ?,"MOT: and we saw xxx !
+Providence,Providence_2_4/020918.xml,u1067,3,0,CHI,Target_Child,Lily,and where are the clams ?,"MOT: and we saw xxx !
 MOT: do you have a hat on ?
 MOT: and oh do you remember the little shells that were all over the rocks what were those ?
 CHI: mussel .
@@ -6581,7 +6425,7 @@ CHI: will you like it ?
 CHI: okay Daisy then let's do it .
 CHI: that will make you feel happy .",3.058,adv:int mod pro:per v,P2Y10M28D,35.0
 Providence,Providence_2_4/021028 copy.xml,u479,1,1,MOT,Mother,Mother,how does that work ?,,5.646,adv:int mod pro:dem n,P2Y10M28D,35.0
-Providence,Providence_2_4/021028 copy.xml,u1021,2,0,CHI,Target_Child,Lily,Mom can you get me 0my toothbrush ?,"CHI: what ?
+Providence,Providence_2_4/021028 copy.xml,u1021,2,0,CHI,Target_Child,Lily,Mom can you get me my toothbrush ?,"CHI: what ?
 MOT: and you said
 MOT: can you help me this is so
 CHI: difficult .
@@ -6623,7 +6467,7 @@ CHI: he still has a problem .
 MOT: mhm ,  what does Harvey have to do ?
 MOT: to get through that bridge .",3.075,pro:int n:prop v,P2Y5M15D,29.0
 Providence,Providence_2_4/020515.xml,u963,3,1,MOT,Mother,Mother,"what did Harvey do ,  Ethan ?",,5.53,pro:int mod n:prop v cm n:prop,P2Y5M15D,29.0
-Providence,Providence_2_4/020515.xml,u1149,4,0,CHI,Target_Child,Ethan,know how 0to get undressed ?,"MOT: can I put it on your foot ?
+Providence,Providence_2_4/020515.xml,u1149,4,0,CHI,Target_Child,Ethan,know how to get undressed ?,"MOT: can I put it on your foot ?
 MOT: where it belongs .
 CHI: get get dressed .
 CHI: getting dressed .
@@ -6649,7 +6493,7 @@ CHI: Percy .",2.147,part,P2Y5M29D,30.0
 Providence,Providence_2_4/020529.xml,u115,2,1,MOT,Mother,Mother,what am I doing ?,,5.197,pro:int aux pro:sub part,P2Y5M29D,30.0
 Providence,Providence_2_4/020517.xml,u106,1,0,CHI,Target_Child,Naima,what's he   doing ?,"FAT: and Jezabel pranced cross the floor and then right behind them
 FAT: followed five more !
-CHI: why 0is Coco upside down ?
+CHI: why is Coco upside down ?
 FAT: I don't know .
 FAT: why is Coco upside down ?",4.046,pro:int aux pro:sub part,P2Y5M17D,30.0
 Providence,Providence_2_4/020517.xml,u107,1,1,FAT,Father,Father,what is she doing upside down ?,,4.581,pro:int cop pro:sub part adv adv,P2Y5M17D,30.0
@@ -6659,7 +6503,7 @@ MOT: don't what ?
 CHI: don't ,  don't go away yyy with you .
 MOT: what's Sleepy doing ?",4.046,pro:int post n prep n,P2Y5M17D,30.0
 Providence,Providence_2_4/020517.xml,u381,2,1,MOT,Mother,Mother,what other kind of berries ?,,4.845,pro:int qn n prep n,P2Y5M17D,30.0
-Providence,Providence_2_4/020517.xml,u1091,3,0,CHI,Target_Child,Naima,what 0are   they gonna   do ?,"CHI: yyy yyy ,  I said   this is her
+Providence,Providence_2_4/020517.xml,u1091,3,0,CHI,Target_Child,Naima,what are   they gonna   do ?,"CHI: yyy yyy ,  I said   this is her
 CHI: xxx toddler here .
 MOT: what does moma@c mean ?
 MOT: I've heard you say that before but I don't know what it means .
@@ -6750,7 +6594,7 @@ CHI: xxx Gigi .
 GRA: yes Alex ?",1.377,pro:int cop pro:dem,P1Y11M27D,24.0
 Providence,Providence_2_4/011127.xml,u1178,1,1,GRA,Grandmother,Grandmother,what's what ?,,3.622,pro:int aux pro:int,P1Y11M27D,24.0
 Providence,Providence_2_4/011126.xml,u73,1,0,CHI,Target_Child,Naima,what's Daddy doing ?,"MOT: yeah !
-CHI: give yourself to 0the rain .
+CHI: give yourself to the rain .
 MOT: give yourself to the rain !
 CHI: Daddy .
 MOT: that's a good book ,  he was really doing a good job reading those poems to you .",3.405,pro:int aux n:prop part,P1Y11M26D,24.0
@@ -6771,15 +6615,15 @@ Providence,Providence_2_4/011126.xml,u127,4,0,CHI,Target_Child,Naima,who's sleep
 MOT: and we'll have plenty of room to play the game .
 MOT: I see a hat !
 MOT: I see a bed !
-CHI: I see 0a bed !",3.405,pro:rel aux part prep det:art n,P1Y11M26D,24.0
+CHI: I see a bed !",3.405,pro:rel aux part prep det:art n,P1Y11M26D,24.0
 Providence,Providence_2_4/011126.xml,u128,4,1,MOT,Mother,Mother,who sleeps in that bed ?,,5.472,pro:rel n adv pro:dem n,P1Y11M26D,24.0
-Providence,Providence_2_4/011126.xml,u155,5,0,CHI,Target_Child,Naima,where 0did the bed go ?,"CHI: xxx where 0did the saw go ?
+Providence,Providence_2_4/011126.xml,u155,5,0,CHI,Target_Child,Naima,where did the bed go ?,"CHI: xxx where did the saw go ?
 MOT: I'll find the word saw for you .
 MOT: the duck
 MOT: where is that word ?
-CHI: yyy where 0did the bed go ?",3.405,adv:int 0aux det:art n v,P1Y11M26D,24.0
+CHI: yyy where did the bed go ?",3.405,adv:int 0aux det:art n v,P1Y11M26D,24.0
 Providence,Providence_2_4/011126.xml,u156,5,1,MOT,Mother,Mother,"oh we need another the for the bed ,  don't we ?",,5.472,co pro:sub v qn det:art prep det:art n cm mod neg pro:sub,P1Y11M26D,24.0
-Providence,Providence_2_4/011126.xml,u178,6,0,CHI,Target_Child,Naima,what does 0the duck see ?,"MOT: there ,  it fits !
+Providence,Providence_2_4/011126.xml,u178,6,0,CHI,Target_Child,Naima,what does the duck see ?,"MOT: there ,  it fits !
 MOT: the duck saw
 MOT: what did the duck see ?
 MOT: you want me to
