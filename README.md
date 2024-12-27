@@ -28,8 +28,8 @@ The primary objectives of this project are:
 - To ensure precision in feedback generation, the project will define a small set of contexts.
 - These contexts will serve as the foundation for generating contextually appropriate feedback within the interactions between children and adults.
 
-### Automatic metrics: Bleu score and BERTscore 
-- To quantitatively evaluate the performance of the feedback generation models, the project will employ two widely recognized automatic metrics: Bleu score and BERTscore.
+### Automatic metrics
+- To quantitatively evaluate the performance of the feedback generation models, the project will employ the widely recognised automatic metrics: BlEU, BERTscore and MAUVE
 
 ### Human Evaluation
 - In addition to automated metrics, human evaluators will assess the generated feedback for correctness, appropriateness, and contextual relevance.
